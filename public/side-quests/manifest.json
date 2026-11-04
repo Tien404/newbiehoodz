@@ -1,0 +1,65 @@
+[
+  {
+    "file": "scallop-mask.svg",
+    "source_derivative": "assets/side-quests/scallop-mask.svg",
+    "source_sha256": "da3e1cc367b13d1610fe4ef857baee4b34cd4a089ab7024f9ff0813f9535500c",
+    "sha256": "9cc3868b14ccb2ea047224bf7464aa3dbcb2cbc8c2c7d9f527c43dfa9629b241",
+    "delivery": "original SVG"
+  },
+  {
+    "file": "hero-map.webp",
+    "source_derivative": "assets/side-quests/hero-map.svg",
+    "source_sha256": "da3e1cc367b13d1610fe4ef857baee4b34cd4a089ab7024f9ff0813f9535500c",
+    "sha256": "8cbcc90ef4877103d34c8cbe86200fe3ef8e2db7ed35f4d706d698a684f37813",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "hero-welcome.webp",
+    "source_derivative": "assets/side-quests/hero-welcome.svg",
+    "source_sha256": "da3e1cc367b13d1610fe4ef857baee4b34cd4a089ab7024f9ff0813f9535500c",
+    "sha256": "440bf1a18162c7c4f5ee6b9a52b6414cc4e0663b604fe405dee719335cb49bd8",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "hero-souvenirs.webp",
+    "source_derivative": "assets/side-quests/hero-souvenirs.svg",
+    "source_sha256": "da3e1cc367b13d1610fe4ef857baee4b34cd4a089ab7024f9ff0813f9535500c",
+    "sha256": "05996c0afc9d616e6f94e402e1e7fd45353befcc8c584e43a61aed8d826f9096",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "hero-skyline.webp",
+    "source_derivative": "assets/side-quests/hero-skyline.svg",
+    "source_sha256": "da3e1cc367b13d1610fe4ef857baee4b34cd4a089ab7024f9ff0813f9535500c",
+    "sha256": "0e99d678775bb9fee99af403131b18bfbb6dfca02cb8ca838cd482d31f030c75",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "city-right.webp",
+    "source_derivative": "assets/side-quests/city-right.svg",
+    "source_sha256": "da3e1cc367b13d1610fe4ef857baee4b34cd4a089ab7024f9ff0813f9535500c",
+    "sha256": "091352096394c6b982c9b6bbda13750cb9a105523bb42faeb1f01e905f528c41",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "city-left.webp",
+    "source_derivative": "assets/side-quests/city-left.svg",
+    "source_sha256": "da3e1cc367b13d1610fe4ef857baee4b34cd4a089ab7024f9ff0813f9535500c",
+    "sha256": "c97f0c412079af43201e141e27305dfdcbd86e04b65a10fcfe04919dd1fa179c",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "lotus-left.webp",
+    "source_derivative": "assets/side-quests/lotus-left.svg",
+    "source_sha256": "da3e1cc367b13d1610fe4ef857baee4b34cd4a089ab7024f9ff0813f9535500c",
+    "sha256": "54824ccbade179c7cd520d30f997c3e4f973e2bedb65e2cd4cf56062d89ff728",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "lotus-right.webp",
+    "source_derivative": "assets/side-quests/lotus-right.svg",
+    "source_sha256": "da3e1cc367b13d1610fe4ef857baee4b34cd4a089ab7024f9ff0813f9535500c",
+    "sha256": "36abf31bd99fd7bbf861ea4f6480fc1dbc9703e58a991f9625d655d661749b34",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  }
+]

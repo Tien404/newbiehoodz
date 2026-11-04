@@ -1,0 +1,363 @@
+[
+  {
+    "file": "scallop-mask.svg",
+    "root_child_indices_zero_based": [
+      389,
+      390,
+      391,
+      392,
+      393,
+      394,
+      395,
+      396,
+      397,
+      398,
+      399,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405,
+      406,
+      407,
+      408,
+      409,
+      410,
+      411,
+      412,
+      413,
+      414,
+      415,
+      416,
+      417,
+      418,
+      419,
+      420,
+      421,
+      422,
+      423,
+      424,
+      425,
+      426,
+      427,
+      428
+    ],
+    "pixel_box": [
+      0,
+      675,
+      1366,
+      40
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "0d20183323be6ab9069d9c1607ede663127d989d4f8266acb983312f547a491a",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48"
+  },
+  {
+    "file": "hero-star.svg",
+    "root_child_indices_zero_based": [
+      387,
+      388
+    ],
+    "pixel_box": [
+      80,
+      532,
+      148,
+      148
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "0b0a13f29ea44a26f0429187a54b8da8abd2a0cb43787719234c6402adc9d636",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48"
+  },
+  {
+    "file": "hero-noodles.svg",
+    "root_child_indices_zero_based": [
+      527
+    ],
+    "pixel_box": [
+      104,
+      112,
+      276,
+      236
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "a0a4fdf89f592878700cca40ade737a308bec835bc9629b8ea6420fea27f6574",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48"
+  },
+  {
+    "file": "hero-sandwich.svg",
+    "root_child_indices_zero_based": [
+      528
+    ],
+    "pixel_box": [
+      1024,
+      444,
+      192,
+      200
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "49be931224cb022d00c936e6b481499d22345243ab05c951713e66b21b288e6d",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48"
+  },
+  {
+    "file": "hero-rolls.svg",
+    "root_child_indices_zero_based": [
+      531
+    ],
+    "pixel_box": [
+      1108,
+      148,
+      228,
+      188
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "494ec4d202fffb3f0cf491be28c1b6a650f4a590274e5eeb38dcdba072cba11e",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48"
+  },
+  {
+    "file": "flags-left.svg",
+    "root_child_indices_zero_based": [
+      497,
+      498,
+      499,
+      500,
+      501,
+      502,
+      503,
+      504,
+      505,
+      506,
+      507,
+      508,
+      509,
+      510,
+      511,
+      512,
+      513,
+      514,
+      515,
+      516,
+      517,
+      518,
+      519,
+      520,
+      521,
+      522,
+      523,
+      524,
+      525,
+      526
+    ],
+    "pixel_box": [
+      192,
+      228,
+      260,
+      160
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "8a7169cbcb3bf5a579dce17ba1c0d7430e4a4ce51ce8bb5b806efba791841139",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48"
+  },
+  {
+    "file": "flags-right.svg",
+    "root_child_indices_zero_based": [
+      530
+    ],
+    "pixel_box": [
+      900,
+      228,
+      268,
+      168
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "64b33f4eb56248ba58156138787d25303752a4ee093a84b9d45724c5542d5892",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48"
+  },
+  {
+    "file": "dish-pho.svg",
+    "root_child_indices_zero_based": [
+      534,
+      535,
+      582
+    ],
+    "pixel_box": [
+      84,
+      1028,
+      256,
+      256
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "240d697b18622340daf07f05cde424566ab2bd0c8eb8f4e82cc981fd4eaee5bd",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48"
+  },
+  {
+    "file": "dish-banh-mi.svg",
+    "root_child_indices_zero_based": [
+      546,
+      547,
+      583
+    ],
+    "pixel_box": [
+      396,
+      1028,
+      256,
+      256
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "6ee100e0c00e617bf198bbb84bf76df10f6b2777b5149a97dfe3d79200d066b2",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48"
+  },
+  {
+    "file": "dish-com-tam.svg",
+    "root_child_indices_zero_based": [
+      558,
+      559,
+      584
+    ],
+    "pixel_box": [
+      712,
+      1028,
+      256,
+      256
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "82033a2b2cd9574e197b9814d24cc587152a5f9b0b869b2e8af5dfd4c0bb1162",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48"
+  },
+  {
+    "file": "dish-banh-xeo.svg",
+    "root_child_indices_zero_based": [
+      570,
+      571,
+      585
+    ],
+    "pixel_box": [
+      1024,
+      1028,
+      256,
+      256
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "3f508edbc66e344f586ada3839a10a8336b6df4f530378f9c92b6d2d8b331a57",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48"
+  },
+  {
+    "file": "food-strip.svg",
+    "root_child_indices_zero_based": [
+      588,
+      589,
+      590,
+      591,
+      592,
+      593,
+      594,
+      595,
+      596,
+      597,
+      598,
+      599,
+      600,
+      601,
+      602,
+      603,
+      604,
+      605,
+      606,
+      607,
+      608,
+      609,
+      610,
+      611,
+      612,
+      613,
+      614,
+      615,
+      616,
+      617,
+      618,
+      619,
+      620,
+      621,
+      627,
+      628
+    ],
+    "pixel_box": [
+      68,
+      804,
+      1228,
+      88
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "3b0298b97b7b1a97c4b39b991ebac4fac736bcca4d863358bce6c845d4747913",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48"
+  },
+  {
+    "file": "street-food-left.svg",
+    "root_child_indices_zero_based": [
+      586,
+      587,
+      624,
+      625,
+      626
+    ],
+    "pixel_box": [
+      0,
+      804,
+      72,
+      88
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "341a8ab5eb2f67a99414143422ef803afa28a258461fd5a61b91650c46b452fd",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48"
+  },
+  {
+    "file": "street-food-right.svg",
+    "root_child_indices_zero_based": [
+      622,
+      623,
+      629,
+      630,
+      631
+    ],
+    "pixel_box": [
+      1296,
+      804,
+      72,
+      88
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "34b761e0201c40f5a249dbc7c42f6f6ce14dc0ebe0fb3263babb54739af41d28",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48"
+  },
+  {
+    "file": "stamp.svg",
+    "root_child_indices_zero_based": [
+      632
+    ],
+    "pixel_box": [
+      8,
+      1412,
+      228,
+      124
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "bb40144bc6597a8c7a9c705b375a69917bb54ca4e3df8bfbc320ff785ec8e511",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48"
+  },
+  {
+    "file": "eatery-heart.svg",
+    "root_child_indices_zero_based": [
+      903,
+      904
+    ],
+    "pixel_box": [
+      1132,
+      2204,
+      152,
+      144
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "f4f1054267c3fb53476e9f4162c79f4702b762d310abd782da200cdf517eff07",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48"
+  }
+]

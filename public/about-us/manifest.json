@@ -1,0 +1,387 @@
+[
+  {
+    "file": "scallop-mask.svg",
+    "source_derivative": "assets/about-us/scallop-mask.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "f42f7149ea323ea926f8d5106b4c7fc6a15d1a0bd84b76b8b5ff9eba86929fb1",
+    "delivery": "original SVG"
+  },
+  {
+    "file": "hero-flowers.webp",
+    "source_derivative": "assets/about-us/hero-flowers.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "654215d98e370df082422cf792e53143909142a0b0fe335efdbe69c82202656f",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "hero-flower-pink.webp",
+    "source_derivative": "assets/about-us/hero-flower-pink.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "7cee2ab66c87ba1b34c0968c15421942424c36d791bf2fc493a3a6a3ab0cc984",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "hero-flower-green.webp",
+    "source_derivative": "assets/about-us/hero-flower-green.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "2f94bdd667c7c4dbb2ba085d6f1e58a746e18f38d1c6d784b3c9bc446fc82a91",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "hero-flower-blue.webp",
+    "source_derivative": "assets/about-us/hero-flower-blue.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "0e9201eb41aa219a0a9dfe6d0254971df4ac57b83c0d7140059a9f2122d77c51",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "hero-flower-purple.webp",
+    "source_derivative": "assets/about-us/hero-flower-purple.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "f65377bb9ad35a1133cb412b9a38899bafb768ccca4b60a5615a6d5a7297baf6",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "hero-butterflies-1.webp",
+    "source_derivative": "assets/about-us/hero-butterflies-1.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "c97fd6b03d3cf601f541b032452749f0d4a07876ccd00b609eeab0337fb03d3b",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "hero-butterflies-2.webp",
+    "source_derivative": "assets/about-us/hero-butterflies-2.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "8214da031f2e805d24fab4b496714ecb3600564bf661c079df7587823de86a2e",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "hero-butterflies-3.webp",
+    "source_derivative": "assets/about-us/hero-butterflies-3.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "f1e738a9854ee5ed055943cb6c29f1c00fd2f540f43c4cee1aae56169d60c369",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "hero-butterflies-4.webp",
+    "source_derivative": "assets/about-us/hero-butterflies-4.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "1e978d58ddb55b60c074146e4b0b9ccdeb4811cfad743bc2d8fcfb6217b67e80",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "hero-butterflies-5.webp",
+    "source_derivative": "assets/about-us/hero-butterflies-5.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "445c5605fcf2904d8e24147867f38407210f171fde3a9e9b5d57c98a3b1fc999",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "hero-butterflies-6.webp",
+    "source_derivative": "assets/about-us/hero-butterflies-6.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "47bf7d407c0124dbc9bc81eee4a20e2ba1c56735940a2f110e2a16cceb89f5f7",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "story-paper.svg",
+    "source_derivative": "assets/about-us/story-paper.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "ab3cb528480b6ecf0f8df0e12e6a2ab2b9f18cad4cab50ec8fb2ae89653ada6f",
+    "delivery": "original SVG"
+  },
+  {
+    "file": "story-heart-right.webp",
+    "source_derivative": "assets/about-us/story-heart-right.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "aaadb4e22cc37987343330458b2d9ca50952d7c6e90f19a52dc0f466b9422591",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "story-heart-left.webp",
+    "source_derivative": "assets/about-us/story-heart-left.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "bdc94c96c29d304d2ade8a697abbe0c58777789b3e4301ae9446dd8db0394817",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "story-trumpet.webp",
+    "source_derivative": "assets/about-us/story-trumpet.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "9dafa6e762c8c3cb45592957eb9eeb56bd04aad0b131451557a850f5417c076c",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "story-piano.webp",
+    "source_derivative": "assets/about-us/story-piano.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "0b1a66cfa5697f792aa97a8b6e35d6a2ddbe01fb2cf128410de7545ce06ae231",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "story-rabbit.webp",
+    "source_derivative": "assets/about-us/story-rabbit.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "71fe3d84b04cf8654145184b9fb870d8858dc37a02fc08b003d0bd21c19c4da3",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "story-cat.webp",
+    "source_derivative": "assets/about-us/story-cat.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "49739c389010789397fec2e7dda2af36cb9aa7cb214428f6085dcbbd04ed7599",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "story-sheep.webp",
+    "source_derivative": "assets/about-us/story-sheep.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "706240e3de360e920b6a1970f7a2bb4ed3bb62037706a6f3ff80a0e9eaadb841",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "story-music-left.webp",
+    "source_derivative": "assets/about-us/story-music-left.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "e999d86d5025de7c2abe4793eb04e8e57a6a9f01647bb6458b03418ce1da8c8f",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "story-music-right.webp",
+    "source_derivative": "assets/about-us/story-music-right.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "7fb53079f30d952b8583b46e4cc934b2176936eb9a5372eb27d9c5e26e7e21bd",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "story-star-trail.webp",
+    "source_derivative": "assets/about-us/story-star-trail.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "b0b98562067b8b8d760f5b44dd34605c1f8dfc12ce189cc741e1cfb13856d51b",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "values-stickers.webp",
+    "source_derivative": "assets/about-us/values-stickers.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "7c7c57e01e3ef096d4112e4a596477b01c9a023ff5ceb1e4493b75a595fa4368",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "values-exclaim.webp",
+    "source_derivative": "assets/about-us/values-exclaim.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "4c5ddca1386b65324c3c25c7ee94a496a277de36d620b00beac5043c57ff36cc",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "stars-left.webp",
+    "source_derivative": "assets/about-us/stars-left.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "241c8773da697d2df065b700e752a3c0b21c47005afd8bbcfcc8ade636187049",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "stars-right.webp",
+    "source_derivative": "assets/about-us/stars-right.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "877b4c78bae622e46a0e01db63bfd700dbe0d9dd6046a958e20a539aaba64a3f",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "team-music-left.webp",
+    "source_derivative": "assets/about-us/team-music-left.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "dda36584add8e0b05c22c7317b3225fdd7f9366327a8c7e5ac9bf83ea0254db4",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "team-music-right.webp",
+    "source_derivative": "assets/about-us/team-music-right.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "bdd6ef56d9038cc875181be89e2c21584d159d8acfae848f8d9f60a112bc7890",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "avatar-mai.webp",
+    "source_derivative": "assets/about-us/avatar-mai.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "96b7d80cffe71ee0e63e9169ee79b15e7b9ecec07876635d78082fee3be81593",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "avatar-bao-lan.webp",
+    "source_derivative": "assets/about-us/avatar-bao-lan.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "a4bcdd393669d2ff98341f104f765a200d87b2e3609e6e91ea2cd629634979a8",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "avatar-yen-nhi.webp",
+    "source_derivative": "assets/about-us/avatar-yen-nhi.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "d3da4f78c42a88a3bc0ab703253fc672b6dbbf7cfda6624424be3d37dcb78fa8",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "avatar-hoang-lan.webp",
+    "source_derivative": "assets/about-us/avatar-hoang-lan.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "48433b7b924964c4f3125beda868d8d115c0b50eeecaa0eaa1ac4fa1c1100f7f",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "avatar-quynh-nhu.webp",
+    "source_derivative": "assets/about-us/avatar-quynh-nhu.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "bd0adcc6a04a38db5d472e00a6e39407db24f8b7284a90c15f31625b2a39bc88",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "avatar-khoi-nguyen.webp",
+    "source_derivative": "assets/about-us/avatar-khoi-nguyen.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "2e16f55c21a4d13fdf9b42081074261d1b59fce9e28bea38d4aa91a0b18412ce",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "gradient-mai.webp",
+    "source_derivative": "assets/about-us/gradient-mai.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "ee9b1489ced50829f19317bb62e4f59a3c54b741b32d6b2496caa89c4267257f",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "portrait-mai.webp",
+    "source_derivative": "assets/about-us/portrait-mai.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "132beeb9234b4a8a8ab4e48ae9bdf620eaf3857e1e25de09418132afad832989",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "microphone-mai.webp",
+    "source_derivative": "assets/about-us/microphone-mai.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "9b69e2fdfcf904d1e5c6394bbde812834c7d170d492f1b316d260625fa724987",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "gradient-bao-lan.webp",
+    "source_derivative": "assets/about-us/gradient-bao-lan.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "76d416b476807ba483d02a114f1abb929b0cb3869335f1e9c7c29114f6c92d3a",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "portrait-bao-lan.webp",
+    "source_derivative": "assets/about-us/portrait-bao-lan.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "8af898017b556cc3bd4a350276da52d415ca9866f6792f780332418b31868922",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "microphone-bao-lan.webp",
+    "source_derivative": "assets/about-us/microphone-bao-lan.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "17da3c444d3b34818d0376489312637e54d686c971a50579eff924679dc99746",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "gradient-yen-nhi.webp",
+    "source_derivative": "assets/about-us/gradient-yen-nhi.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "2c63f8cb894a57f3bf882b0971f99e2a09ba42f35fbb24f47578ed59c5c2e2f3",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "portrait-yen-nhi.webp",
+    "source_derivative": "assets/about-us/portrait-yen-nhi.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "6a89478bf1ab735b3dd0511650f8da978cbdabe987ae950fe1f3d8c8797377ff",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "microphone-yen-nhi.webp",
+    "source_derivative": "assets/about-us/microphone-yen-nhi.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "2ce5af58bcf3ca150fa426c43214f21e3cf3a5f2ba6d60ec70b935aad9b85914",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "gradient-hoang-lan.webp",
+    "source_derivative": "assets/about-us/gradient-hoang-lan.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "9bfdd65c158ff4b5c4f02f1287271a17bbcf366129fe4011f571bdf4d8a23927",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "portrait-hoang-lan.webp",
+    "source_derivative": "assets/about-us/portrait-hoang-lan.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "7bb6aa85802b453524b716d0bd95bed10708659488c28ba5c89327942e1e89f0",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "microphone-hoang-lan.webp",
+    "source_derivative": "assets/about-us/microphone-hoang-lan.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "07146d644d11cbef9976a4a4accaac374b00c51a4447d66f0eb60cc77cc0c9ef",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "gradient-quynh-nhu.webp",
+    "source_derivative": "assets/about-us/gradient-quynh-nhu.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "07a74365a8a04e7f9d683440b60649950ed2cc198643764ca3f50bd64441e0bf",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "portrait-quynh-nhu.webp",
+    "source_derivative": "assets/about-us/portrait-quynh-nhu.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "74d08670dfd2ad629d68b3878941e2ec16c5dc12220165286ca9f2f0a7cb36a1",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "microphone-quynh-nhu.webp",
+    "source_derivative": "assets/about-us/microphone-quynh-nhu.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "fda9a4557562b3424e26a7e930c8215f7aa1be0493875991742416eb3e7a7e94",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "gradient-khoi-nguyen.webp",
+    "source_derivative": "assets/about-us/gradient-khoi-nguyen.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "14335de564a038788ac4c39792a4280bfd9231cd0328baeac992ace0e498f15c",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "portrait-khoi-nguyen.webp",
+    "source_derivative": "assets/about-us/portrait-khoi-nguyen.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "f170d6572b47b7b6e25bdab3ac8ecf7ecc41437c5c65856a9fb6cd72619d310a",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "microphone-khoi-nguyen.webp",
+    "source_derivative": "assets/about-us/microphone-khoi-nguyen.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "e724fb94f35b01ab8d5c4b6d362166b7ae576de4019d42e9dde32d8fa4ad1bf2",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "profile-stars-left.webp",
+    "source_derivative": "assets/about-us/profile-stars-left.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "27e7b512d43013b7497e818ed51c65082ac69a4555a771d1e155a31e25d561fd",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "profile-stars-right.webp",
+    "source_derivative": "assets/about-us/profile-stars-right.svg",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931",
+    "sha256": "0066415e6d21bb166639d4569e7530313a22cbfa6f7a3b0f616c64210be0aea9",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  }
+]

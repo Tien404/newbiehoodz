@@ -1,0 +1,914 @@
+/* D: Canva colors/type families. E: geometry at 1366px. A: responsive rules below. */
+.guide-main {
+  overflow: clip;
+  font-family: var(--font-calibri);
+  color: var(--color-ink-guide);
+}
+.guide-main h1,
+.guide-main h2,
+.guide-main h3,
+.guide-main p {
+  margin: 0;
+}
+.guide-main h1,
+.guide-main h2,
+.guide-main h3 {
+  color: var(--color-burgundy);
+}
+.guide-container {
+  position: relative;
+}
+.guide-art {
+  position: absolute;
+  height: auto;
+  pointer-events: none;
+}
+.guide-eyebrow {
+  color: var(--color-burgundy);
+  font-size: var(--text-nav);
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 6.4px;
+}
+.guide-hero {
+  position: relative;
+  isolation: isolate;
+  background: conic-gradient(
+      var(--color-cream-guide) 25%,
+      var(--color-mint) 0 50%,
+      var(--color-cream-guide) 0 75%,
+      var(--color-mint) 0
+    )
+    0 0 / 136.533px 136.533px;
+}
+/* OD: match the other non-home checkerboards' lower scallop without changing tiles. */
+.guide-hero::before {
+  content: "";
+  position: absolute;
+  inset: auto 0 52px;
+  height: 40px;
+  background: var(--color-cream-guide);
+  mask: url("/lock-in/scallop-mask.svg") center / 1366px 40px repeat-x;
+  z-index: -1;
+}
+.guide-hero::after {
+  content: "";
+  position: absolute;
+  inset: auto 0 0;
+  height: 56px;
+  background: var(--color-cream-guide);
+  z-index: -1;
+}
+.guide-art--hero-hat {
+  width: 268px;
+  right: max(0px, calc((100% - 1366px) / 2 + 98px));
+  top: 23px;
+}
+.guide-art--hero-child {
+  width: 368px;
+  left: max(-48px, calc((100% - 1366px) / 2 + 24px));
+  top: 131px;
+}
+.guide-art--hero-heart {
+  width: 68px;
+  right: max(24px, calc((100% - 1366px) / 2 + 202px));
+  top: 507px;
+}
+.guide-band {
+  position: relative;
+  min-height: 768px;
+  padding: 40px 0 40px;
+  background: var(--color-mint-surface);
+}
+.guide-band::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 40px;
+  background: repeating-linear-gradient(
+    90deg,
+    var(--color-mint) 0 40.96px,
+    var(--color-cream-guide) 40.96px 81.92px
+  );
+}
+.guide-heading h2 {
+  margin-top: 12px;
+  font-family: var(--font-faustina);
+  font-size: var(--text-guide-title);
+  font-weight: 700;
+  line-height: 60px;
+}
+.guide-heading .guide-script {
+  margin-top: 8px;
+  color: var(--color-script-guide);
+  font-family: var(--font-dancing-script);
+  font-size: var(--text-guide-script);
+  line-height: 40px;
+}
+.guide-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  column-gap: 24px;
+  row-gap: 18px;
+  padding: 0;
+  margin: 36px 0 0;
+  list-style: none;
+}
+.guide-card {
+  position: relative;
+  min-height: 234px;
+  padding: 20px 28px;
+  border-radius: var(--radius-card-guide);
+  background: var(--color-white);
+}
+.guide-card__heading {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  min-height: 44px;
+  margin-left: -8px;
+}
+.guide-card h3 {
+  font-size: 24.65px;
+  font-weight: 700;
+  line-height: 28px;
+}
+.guide-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  flex-shrink: 0;
+  border-radius: 50%;
+  color: var(--color-burgundy);
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 1;
+}
+.guide-badge--mint {
+  background: var(--color-badge-mint);
+}
+.guide-badge--pink {
+  background: var(--color-badge-pink);
+}
+.guide-badge--yellow {
+  background: var(--color-badge-yellow);
+}
+.guide-badge--blue {
+  background: var(--color-badge-blue);
+}
+.guide-badge--lavender {
+  background: var(--color-badge-lavender);
+}
+.guide-badge--peach {
+  background: var(--color-badge-peach);
+}
+.guide-card > p {
+  margin-top: 14px;
+  font-size: var(--text-guide-body);
+  line-height: 26px;
+  text-align: justify;
+}
+.guide-street .guide-card > p {
+  font-size: 21.2px;
+  letter-spacing: 0.8px;
+}
+.guide-art--street-scooter {
+  top: -16px;
+  right: max(0px, calc((100% - 1366px) / 2 + 154px));
+  width: 344px;
+}
+.guide-art--street-star {
+  width: 92px;
+  top: 36px;
+  right: max(16px, calc((100% - 1366px) / 2 + 298px));
+}
+.guide-art--street-bag {
+  top: 52px;
+  right: max(12px, calc((100% - 1366px) / 2 + 62px));
+  width: 152px;
+}
+.guide-art--street-fruit {
+  top: 100px;
+  right: max(76px, calc((100% - 1366px) / 2 + 134px));
+  width: 104px;
+}
+.guide-apps {
+  background: var(--color-cream-guide);
+}
+.guide-apps .guide-script {
+  color: var(--color-script-brown);
+}
+.guide-app-grid {
+  row-gap: 24px;
+}
+.guide-app-card {
+  min-height: 248px;
+  padding-top: 24px;
+}
+.guide-app-card .guide-card__heading {
+  gap: 20px;
+  min-height: 52px;
+  margin-left: -4px;
+}
+.guide-app-card .guide-badge {
+  width: 52px;
+  height: 52px;
+  font-family: var(--font-faustina);
+  font-size: 26px;
+}
+.guide-app-card > p {
+  margin-top: 16px;
+  font-size: 19.91px;
+  line-height: 23px;
+}
+.guide-app-card--map {
+  min-height: 220px;
+}
+.guide-app-card .guide-art {
+  right: -28px;
+  bottom: -24px;
+  width: 144px;
+}
+.guide-app-card .guide-art--app-grocery {
+  width: 124px;
+  right: -40px;
+  bottom: -24px;
+}
+.guide-app-card .guide-art--app-zalo {
+  right: -36px;
+  bottom: -28px;
+}
+.guide-app-card .guide-art--app-map {
+  width: 164px;
+  right: -48px;
+  bottom: -64px;
+}
+.guide-checkout {
+  position: relative;
+  grid-column: span 2;
+  min-height: 220px;
+  padding: 24px 268px 24px 48px;
+  border: 2px solid var(--color-green-border);
+  border-radius: 24px;
+  background: var(--color-green-panel);
+}
+.guide-checkout h3 {
+  font-family: var(--font-faustina);
+  font-size: 30.34px;
+  font-weight: 700;
+  line-height: 40px;
+}
+.guide-checkout p {
+  margin-top: 24px;
+  font-size: 20px;
+  line-height: 26px;
+}
+.guide-checkout .guide-art {
+  width: 244px;
+  right: 16px;
+  top: -4px;
+}
+.guide-art--app-heart {
+  width: 80px;
+  right: max(16px, calc((100% - 1366px) / 2 + 282px));
+  top: 36px;
+}
+.guide-art--app-phone {
+  width: 84px;
+  right: max(12px, calc((100% - 1366px) / 2 + 166px));
+  top: 40px;
+}
+.guide-art--app-lantern {
+  width: 64px;
+  right: max(8px, calc((100% - 1366px) / 2 + 46px));
+  top: 80px;
+}
+.guide-student__layout {
+  display: grid;
+  grid-template-columns: 424px minmax(0, 1fr);
+  gap: 46px;
+}
+.guide-student .guide-heading h2 {
+  font-size: 39.82px;
+  line-height: 48px;
+}
+.guide-student .guide-eyebrow {
+  white-space: nowrap;
+  width: max-content;
+}
+.guide-student .guide-script {
+  font-weight: 700;
+  white-space: nowrap;
+}
+.guide-student__intro {
+  position: relative;
+}
+.guide-art--student-card {
+  position: relative;
+  width: 448px;
+  max-width: none;
+  left: -12px;
+  margin-top: 72px;
+}
+.guide-art--student-star {
+  width: 88px;
+  left: -8px;
+  top: 560px;
+}
+.guide-art--student-lotus {
+  width: 128px;
+  right: 16px;
+  top: 560px;
+}
+.guide-student__tips {
+  grid-template-columns: minmax(0, 1fr);
+  gap: 12px;
+  margin-top: 16px;
+}
+.guide-student__tips .guide-card {
+  display: grid;
+  align-content: center;
+  grid-template-columns: 52px minmax(0, 1fr);
+  column-gap: 24px;
+  min-height: 116px;
+  padding: 16px 28px;
+  border-radius: 20px;
+}
+.guide-student__tips .guide-card__heading {
+  display: contents;
+}
+.guide-student__tips .guide-badge {
+  grid-row: span 2;
+  align-self: center;
+  width: 52px;
+  height: 52px;
+  font-size: 24px;
+}
+.guide-student__tips h3 {
+  font-size: 22.75px;
+  line-height: 26px;
+}
+.guide-student__tips .guide-card > p {
+  grid-column: 2;
+  margin: 0;
+  font-size: 18.3px;
+  line-height: 22px;
+}
+.guide-weather {
+  background: var(--color-mint-surface)
+    url("/cheatsheet/weather-background.webp") center top / 100% 100% no-repeat;
+}
+.guide-weather__key {
+  display: flex;
+  align-items: center;
+  gap: 28px;
+  margin-top: 20px;
+}
+.guide-months {
+  display: flex;
+  gap: 8px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.guide-months li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 47px;
+  height: 47px;
+  border: 2px solid white;
+  border-radius: 14px;
+  color: var(--color-burgundy);
+  font-size: 20px;
+  font-weight: 700;
+}
+.guide-months .is-rainy {
+  background: var(--color-badge-blue);
+}
+.guide-months .is-drier {
+  background: var(--color-badge-yellow);
+}
+.guide-weather__legend {
+  display: flex;
+  gap: 60px;
+  font-size: 19px;
+  line-height: 24px;
+}
+.guide-weather__legend span {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  white-space: nowrap;
+}
+.guide-weather__legend span::before {
+  content: "";
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--color-badge-yellow);
+}
+.guide-weather__legend span + span::before {
+  background: var(--color-badge-blue);
+}
+.guide-weather .guide-grid {
+  margin-top: 28px;
+  row-gap: 16px;
+}
+.guide-weather .guide-card {
+  min-height: 210px;
+}
+.guide-weather .guide-card > p {
+  line-height: 28px;
+  letter-spacing: -0.5px;
+}
+.guide-art--weather-umbrella {
+  width: 124px;
+  top: 40px;
+  right: max(16px, calc((100% - 1366px) / 2 + 302px));
+}
+.guide-art--weather-sun-cloud {
+  width: 212px;
+  top: 32px;
+  right: max(12px, calc((100% - 1366px) / 2 + 62px));
+}
+.guide-art--weather-rain {
+  width: 84px;
+  top: 156px;
+  right: max(12px, calc((100% - 1366px) / 2 + 98px));
+}
+.guide-phrases .guide-heading h2 {
+  font-size: 45.51px;
+  line-height: 54px;
+}
+.guide-phrase-grid {
+  margin-top: 34px;
+  row-gap: 66px;
+}
+.guide-phrase-grid .guide-card {
+  min-height: 160px;
+  padding: 24px;
+  border-radius: 16px;
+}
+.guide-phrase-grid .guide-card__heading {
+  gap: 10px;
+  margin-left: 0;
+  min-height: 36px;
+}
+.guide-phrase-grid .guide-badge {
+  width: 36px;
+  height: 36px;
+  font-size: 20px;
+}
+.guide-phrase-grid h3 {
+  font-family: var(--font-phrase);
+  font-size: var(--text-guide-phrase);
+  line-height: 32px;
+}
+.guide-phrase-grid .guide-card > p {
+  margin-top: 24px;
+  margin-left: 44px;
+  font-size: 23.7px;
+  line-height: 30px;
+  text-align: left;
+}
+.guide-art--phrase-heart {
+  width: 76px;
+  top: 40px;
+  right: max(12px, calc((100% - 1366px) / 2 + 410px));
+}
+.guide-art--phrase-hat {
+  width: 112px;
+  top: 60px;
+  right: max(12px, calc((100% - 1366px) / 2 + 306px));
+}
+.guide-art--phrase-lotus {
+  width: 176px;
+  top: 36px;
+  right: max(12px, calc((100% - 1366px) / 2 + 118px));
+}
+.guide-art--phrase-lantern {
+  width: 68px;
+  top: 60px;
+  right: max(12px, calc((100% - 1366px) / 2 + 50px));
+}
+.guide-contact {
+  position: relative;
+  min-height: 0;
+  padding-top: 96px;
+  padding-bottom: 96px;
+  background: var(--color-cream-guide);
+}
+.guide-contact__panel {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 32px;
+  min-height: 194px;
+  padding: 48px 60px 32px 48px;
+  border: 2px solid var(--color-green-border);
+  border-radius: 32px;
+  background: var(--color-mint-surface);
+}
+.guide-contact__panel > div {
+  align-self: flex-start;
+}
+.guide-contact h2 {
+  font-family: var(--font-faustina);
+  font-size: 30.34px;
+  font-weight: 700;
+  line-height: 40px;
+}
+.guide-contact p {
+  margin-top: 24px;
+  font-size: 24.65px;
+  line-height: 30px;
+}
+.guide-contact .button-link {
+  width: 208px;
+  flex-shrink: 0;
+}
+.guide-art--contact-hat {
+  width: 104px;
+  top: -64px;
+  left: -16px;
+}
+.guide-art--contact-lantern {
+  width: 64px;
+  top: -64px;
+  right: -12px;
+}
+/* A: preserve reading order and text size; let bands/cards grow when columns reflow. */
+@media (max-width: 1150px) {
+  .guide-art--hero-child {
+    width: 280px;
+    left: -64px;
+    top: 260px;
+  }
+  .guide-art--hero-hat {
+    width: 200px;
+    right: 0;
+    top: 0;
+  }
+  .guide-band {
+    padding-top: 48px;
+  }
+  .guide-heading {
+    position: relative;
+    z-index: 1;
+  }
+  .guide-heading h2 {
+    font-size: 44px;
+    line-height: 56px;
+  }
+  .guide-band > .guide-art {
+    transform: scale(0.7);
+    transform-origin: right top;
+  }
+  .guide-street > .guide-art {
+    top: 124px;
+  }
+  .guide-street > .guide-art--street-star {
+    top: 148px;
+    right: 148px;
+  }
+  .guide-art--street-scooter {
+    right: 40px;
+  }
+  .guide-art--street-bag {
+    right: 8px;
+    top: 160px;
+  }
+  .guide-art--street-fruit {
+    right: 60px;
+    top: 196px;
+  }
+  .guide-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    margin-top: 100px;
+    gap: 24px;
+  }
+  .guide-app-grid {
+    margin-top: 120px;
+  }
+  .guide-app-card {
+    min-height: 280px;
+    padding-bottom: 88px;
+  }
+  .guide-app-card .guide-art {
+    right: -12px;
+    bottom: -16px;
+  }
+  .guide-checkout {
+    min-height: 220px;
+  }
+  .guide-apps > .guide-art {
+    top: 172px;
+  }
+  .guide-art--app-heart {
+    right: 260px;
+  }
+  .guide-art--app-phone {
+    right: 140px;
+  }
+  .guide-art--app-lantern {
+    right: 24px;
+  }
+  .guide-student__intro {
+    padding-bottom: 100px;
+  }
+  .guide-student__layout {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 40px;
+  }
+  .guide-student .guide-script,
+  .guide-student .guide-eyebrow {
+    white-space: normal;
+    width: auto;
+  }
+  .guide-art--student-card {
+    display: block;
+    position: relative;
+    left: 0;
+    width: min(100%, 448px);
+    max-width: 100%;
+    margin: 40px auto 0;
+  }
+  .guide-art--student-star {
+    left: 0;
+    top: auto;
+    bottom: 0;
+  }
+  .guide-art--student-lotus {
+    right: 0;
+    top: auto;
+    bottom: 0;
+  }
+  .guide-student__tips {
+    grid-template-columns: minmax(0, 1fr);
+    margin: 0;
+    gap: 12px;
+  }
+  .guide-weather__key {
+    margin-top: 80px;
+    flex-wrap: wrap;
+  }
+  .guide-months {
+    flex-wrap: wrap;
+  }
+  .guide-weather__legend {
+    flex-wrap: wrap;
+    gap: 24px;
+  }
+  .guide-weather .guide-grid {
+    margin-top: 28px;
+  }
+  .guide-weather > .guide-art {
+    top: 152px;
+  }
+  .guide-weather > .guide-art--weather-rain {
+    top: 240px;
+  }
+  .guide-phrases > .guide-art {
+    top: 212px;
+  }
+  .guide-phrase-grid {
+    margin-top: 120px;
+  }
+  .guide-contact__panel {
+    padding: 48px 32px 32px;
+  }
+  .guide-contact h2 {
+    font-size: 28px;
+  }
+  .guide-contact p {
+    font-size: 22px;
+  }
+}
+@media (max-width: 700px) {
+  .guide-eyebrow {
+    font-size: 13px;
+    letter-spacing: 3px;
+    line-height: 22px;
+  }
+  .guide-art--hero-child {
+    top: auto;
+    bottom: 28px;
+    left: -24px;
+    width: 208px;
+  }
+  .guide-art--hero-hat {
+    top: -12px;
+    right: -12px;
+    width: 164px;
+  }
+  .guide-art--hero-heart {
+    top: auto;
+    bottom: 104px;
+    right: 32px;
+    width: 56px;
+  }
+  .guide-heading h2,
+  .guide-phrases .guide-heading h2,
+  .guide-student .guide-heading h2 {
+    font-size: 34px;
+    line-height: 42px;
+    margin-top: 12px;
+  }
+  .guide-heading .guide-script {
+    font-size: 26px;
+    line-height: 34px;
+    margin-top: 12px;
+  }
+  .guide-grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 20px;
+  }
+  .guide-card {
+    min-height: 0;
+    padding: 24px;
+  }
+  .guide-card h3 {
+    font-size: 23px;
+    line-height: 28px;
+  }
+  .guide-card > p,
+  .guide-street .guide-card > p {
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 0;
+    text-align: left;
+  }
+  .guide-card__heading {
+    margin-left: 0;
+    gap: 12px;
+  }
+  .guide-street > .guide-art {
+    top: 184px;
+  }
+  .guide-street > .guide-art--street-star {
+    top: 196px;
+    right: 148px;
+    width: 68px;
+  }
+  .guide-art--street-scooter {
+    width: 240px;
+    right: 56px;
+  }
+  .guide-street > .guide-art--street-bag {
+    top: 212px;
+    width: 120px;
+    right: 12px;
+  }
+  .guide-street > .guide-art--street-fruit {
+    top: 240px;
+    width: 80px;
+    right: 68px;
+  }
+  .guide-street .guide-grid {
+    margin-top: 140px;
+  }
+  .guide-app-grid {
+    margin-top: 140px;
+  }
+  .guide-app-card {
+    min-height: 260px;
+    padding-bottom: 88px;
+  }
+  .guide-app-card .guide-card__heading {
+    margin-left: 0;
+  }
+  .guide-apps > .guide-art {
+    top: 204px;
+  }
+  .guide-checkout {
+    grid-column: auto;
+    padding: 24px 24px 168px;
+  }
+  .guide-checkout h3 {
+    font-size: 28px;
+  }
+  .guide-checkout p {
+    margin-top: 16px;
+    font-size: 20px;
+  }
+  .guide-checkout .guide-art {
+    width: 200px;
+    top: auto;
+    bottom: -24px;
+    right: 4px;
+  }
+  .guide-student__tips .guide-card {
+    padding: 20px;
+    column-gap: 16px;
+    grid-template-columns: 44px minmax(0, 1fr);
+  }
+  .guide-student__tips .guide-badge {
+    width: 44px;
+    height: 44px;
+  }
+  .guide-student__tips .guide-card > p {
+    font-size: 19px;
+    line-height: 25px;
+    margin-top: 8px;
+  }
+  .guide-student__intro {
+    padding-bottom: 64px;
+  }
+  .guide-student__intro .guide-art--student-star {
+    width: 56px;
+    left: -8px;
+  }
+  .guide-student__intro .guide-art--student-lotus {
+    width: 88px;
+    right: -12px;
+  }
+  .guide-weather > .guide-art {
+    top: 204px;
+  }
+  .guide-weather > .guide-art--weather-umbrella {
+    right: 200px;
+  }
+  .guide-weather > .guide-art--weather-rain {
+    top: 292px;
+  }
+  .guide-weather__key {
+    margin-top: 160px;
+    gap: 20px;
+  }
+  .guide-months {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    width: 100%;
+    gap: 8px;
+  }
+  .guide-months li {
+    width: 100%;
+    height: 44px;
+  }
+  .guide-weather__legend {
+    font-size: 17px;
+    gap: 12px;
+  }
+  .guide-weather .guide-card {
+    min-height: 0;
+  }
+  .guide-phrases > .guide-art {
+    top: 244px;
+  }
+  .guide-art--phrase-heart {
+    right: 240px;
+  }
+  .guide-art--phrase-hat {
+    right: 170px;
+  }
+  .guide-art--phrase-lotus {
+    right: 52px;
+  }
+  .guide-art--phrase-lantern {
+    right: 8px;
+  }
+  .guide-phrase-grid {
+    margin-top: 164px;
+  }
+  .guide-phrase-grid .guide-card {
+    min-height: 160px;
+  }
+  .guide-phrase-grid h3 {
+    font-size: 23px;
+  }
+  .guide-phrase-grid .guide-card > p {
+    font-size: 23px;
+    margin-left: 44px;
+  }
+  .guide-contact {
+    padding-top: 96px;
+    padding-bottom: 96px;
+    min-height: 0;
+  }
+  .guide-contact__panel {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 56px 24px 28px;
+    gap: 28px;
+  }
+  .guide-contact p {
+    margin-top: 16px;
+  }
+  .guide-art--contact-hat {
+    width: 88px;
+    left: -8px;
+    top: -52px;
+  }
+  .guide-art--contact-lantern {
+    width: 56px;
+    right: -8px;
+    top: -52px;
+  }
+}

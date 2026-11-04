@@ -1,0 +1,470 @@
+/* D: reference colors/families/artwork. E: rounded geometry and browser line boxes. */
+@font-face {
+  font-family: "Quests Georgia";
+  src:
+    url("/fonts/georgia/Georgia-Bold.woff2") format("woff2"),
+    url("/fonts/georgia/Georgia-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+.site-shell--side-quests {
+  --page-background: var(--color-cream-guide);
+  --page-ink: var(--color-burgundy);
+  --quests-checker: #e4dbf7;
+  --quests-panel: #f0eafa;
+  --quests-lavender: #dccff2;
+  --quests-purple: #c3b2ea;
+  --quests-dash: #b9a3e3;
+  min-height: 0;
+}
+.quests-main {
+  overflow-x: clip;
+}
+.quests-art {
+  position: absolute;
+  height: auto;
+  pointer-events: none;
+  user-select: none;
+  z-index: 2;
+}
+.quests-hero {
+  position: relative;
+  isolation: isolate;
+  background: conic-gradient(
+      var(--quests-checker) 25%,
+      var(--page-background) 0 50%,
+      var(--quests-checker) 0 75%,
+      var(--page-background) 0
+    )
+    68.266px 0 / 136.533px 136.533px;
+}
+/* OD: full-bleed checker and lower scallop match the other category heroes. */
+.quests-hero::before {
+  content: "";
+  position: absolute;
+  inset: auto 0 52px;
+  height: 40px;
+  background: var(--page-background);
+  mask: url("/lock-in/scallop-mask.svg") center / 1366px 40px repeat-x;
+  z-index: -1;
+}
+.quests-hero::after {
+  content: "";
+  position: absolute;
+  inset: auto 0 0;
+  height: 56px;
+  background: var(--page-background);
+  z-index: -1;
+}
+.quests-art--hero-souvenirs {
+  top: 48px;
+  left: 5.56%;
+  width: 200px;
+}
+.quests-art--hero-map {
+  top: 48px;
+  right: 4.54%;
+  width: 236px;
+}
+.quests-art--hero-welcome {
+  bottom: 28px;
+  left: 0;
+  width: 228px;
+}
+.quests-art--hero-skyline {
+  bottom: 36px;
+  right: -2px;
+  width: 224px;
+}
+.quests-filters {
+  height: 128px;
+  padding-top: 26px;
+}
+.quests-filters__inner {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+}
+.quests-filter {
+  min-height: 54px;
+  border: 2px solid var(--quests-purple);
+  border-radius: 99px;
+  background: var(--quests-panel);
+  color: var(--color-burgundy);
+  font: 700 20.85px/25px var(--font-calibri);
+  cursor: default;
+}
+.quests-filter:nth-child(1) {
+  width: 166px;
+}
+.quests-filter:nth-child(2) {
+  width: 132px;
+}
+.quests-filter:nth-child(3) {
+  width: 144px;
+}
+.quests-filter:nth-child(4) {
+  width: 136px;
+}
+.quests-filter:nth-child(5) {
+  width: 152px;
+}
+.quests-filter[aria-pressed="true"] {
+  background: var(--color-burgundy);
+  border-color: var(--color-burgundy);
+  color: white;
+}
+.quests-list {
+  height: auto;
+  padding-bottom: 0;
+}
+.quests-list__pair {
+  display: grid;
+  gap: 32px;
+}
+.quests-list__pair--second {
+  margin-top: 32px;
+}
+.quests-card {
+  position: relative;
+  display: grid;
+  grid-template-columns: 356px minmax(0, 1fr);
+  grid-template-areas: "photo content";
+  gap: 28px;
+  height: 296px;
+  padding: 24px;
+  border-radius: 32px;
+  background: var(--quests-panel);
+}
+.quests-card--reversed {
+  grid-template-columns: minmax(0, 1fr) 356px;
+  grid-template-areas: "content photo";
+}
+.quests-card__photo {
+  grid-area: photo;
+  align-self: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 248px;
+  border: 2px dashed var(--quests-dash);
+  border-radius: 24px;
+  background: white;
+  font: 400 18.96px/24px var(--font-calibri);
+}
+.quests-card__content {
+  grid-area: content;
+  min-width: 0;
+  padding: 4px 0 0;
+}
+.quests-card__badge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 152px;
+  min-height: 44px;
+  margin: 0;
+  border-radius: 99px;
+  background: var(--color-burgundy);
+  color: white;
+  font: 700 18.96px/24px var(--font-calibri);
+}
+.quests-card h2 {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  margin: 8px 0 0;
+  font: 700 30.34px/36px var(--font-faustina);
+}
+.quests-card__description {
+  margin: 18px 0 0;
+  color: var(--color-ink-guide);
+  font: 400 22.76px/28px var(--font-calibri);
+}
+.quests-card__bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  margin-top: 40px;
+}
+.quests-card__tags {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  --quest-tag-gap: 10px;
+}
+.quests-card__tags li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 40px;
+  border-radius: 99px;
+  background: var(--quests-lavender);
+  font: 700 18.96px/24px var(--font-calibri);
+}
+.quests-currency {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.quests-maps {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 248px;
+  min-height: 52px;
+  flex-shrink: 0;
+  padding: 8px 16px;
+  border-radius: 99px;
+  background: var(--color-contact);
+  color: white;
+  font: 700 20.85px/25px var(--font-calibri);
+  text-align: center;
+  text-decoration: none;
+}
+.quests-art--city-right {
+  right: -109px;
+  bottom: -32px;
+  width: 168px;
+}
+.quests-art--city-left {
+  left: -107px;
+  bottom: -80px;
+  width: 168px;
+}
+.site-shell--side-quests {
+  --listing-outline: var(--quests-purple);
+}
+.quests-filters {
+  height: auto;
+  padding-bottom: 32px;
+}
+.quests-filter {
+  cursor: pointer;
+}
+.quests-list {
+  height: auto;
+  min-height: 0;
+}
+.quests-card {
+  height: auto;
+  min-height: 296px;
+}
+.quests-card__bottom {
+  flex-wrap: wrap;
+  margin-top: 24px;
+}
+.quests-card__tags {
+  flex: 1 1 100%;
+  min-width: 0;
+  max-width: 100%;
+}
+.quests-card__tags li {
+  display: block;
+  flex: 0 1 auto;
+  min-width: 0;
+  max-width: calc(
+    (100% - (var(--quest-tag-count, 3) - 1) * var(--quest-tag-gap)) /
+      var(--quest-tag-count, 3)
+  );
+  padding: 0;
+  border-radius: 20px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.quests-detail-trigger {
+  display: block;
+  width: 100%;
+  min-height: 40px;
+  padding: 8px 12px;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  cursor: pointer;
+}
+.quests-card__tags li:has(.quests-detail-trigger:focus-visible) {
+  outline: var(--focus-ring);
+  outline-offset: 4px;
+}
+.quests-detail-trigger:focus-visible {
+  outline: none;
+}
+.quests-card__tags:has(> li:only-child) {
+  --quest-tag-count: 1;
+}
+.quests-card__tags:has(> li:nth-child(2):last-child) {
+  --quest-tag-count: 2;
+}
+.quests-card .quests-art--city-right,
+.quests-card .quests-art--city-left {
+  bottom: 0;
+}
+.quests-list__pair:empty {
+  display: none;
+}
+/* A: no supplied mobile design. Reflow content without adding controls or changing reading order. */
+@media (max-width: 1199px) {
+  .quests-art--hero-souvenirs {
+    width: 160px;
+    top: 24px;
+    left: 8px;
+  }
+  .quests-art--hero-map {
+    width: 184px;
+    top: 32px;
+    right: 8px;
+  }
+  .quests-art--hero-welcome {
+    width: 160px;
+    bottom: 24px;
+  }
+  .quests-art--hero-skyline {
+    width: 160px;
+    bottom: 24px;
+  }
+  .quests-filters {
+    height: auto;
+    padding-block: 26px 48px;
+  }
+  .quests-filter:nth-child(n) {
+    width: auto;
+    padding-inline: 24px;
+  }
+  .quests-card {
+    grid-template-columns: minmax(240px, 32%) minmax(0, 1fr);
+    height: auto;
+    min-height: 296px;
+    gap: 24px;
+  }
+  .quests-card--reversed {
+    grid-template-columns: minmax(0, 1fr) minmax(240px, 32%);
+  }
+  .quests-card__content,
+  .quests-card--reversed .quests-card__content {
+    padding: 4px 0 0;
+  }
+  .quests-card__bottom {
+    flex-wrap: wrap;
+    margin-top: 32px;
+  }
+  .quests-card__tags {
+    gap: 8px;
+    --quest-tag-gap: 8px;
+  }
+  .quests-art--city-right {
+    width: 136px;
+    right: -72px;
+  }
+  .quests-art--city-left {
+    width: 136px;
+    left: -72px;
+  }
+}
+@media (max-width: 900px) {
+  .quests-card,
+  .quests-card--reversed {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas: "photo" "content";
+  }
+  .quests-card__photo {
+    max-width: 100%;
+    height: auto;
+    aspect-ratio: 356 / 248;
+    min-height: 180px;
+  }
+  .quests-card__bottom {
+    margin-top: 28px;
+  }
+  .quests-art--city-right {
+    width: 104px;
+    right: -40px;
+    bottom: -76px;
+  }
+  .quests-art--city-left {
+    width: 104px;
+    left: -40px;
+    bottom: -100px;
+  }
+}
+@media (max-width: 600px) {
+  .quests-art--hero-souvenirs {
+    width: 112px;
+    top: 16px;
+  }
+  .quests-art--hero-map {
+    width: 124px;
+    top: 24px;
+  }
+  .quests-art--hero-welcome {
+    width: 136px;
+    bottom: 24px;
+  }
+  .quests-art--hero-skyline {
+    width: 144px;
+    bottom: 24px;
+  }
+  .quests-filters__inner {
+    gap: 10px;
+  }
+  .quests-filter:nth-child(n) {
+    min-height: 44px;
+    padding-inline: 18px;
+    font-size: 18px;
+  }
+  .quests-card {
+    padding: 20px;
+    border-radius: 28px;
+  }
+  .quests-card h2 {
+    font-size: 26px;
+    line-height: 32px;
+  }
+  .quests-card__description {
+    font-size: 21px;
+    line-height: 28px;
+  }
+  .quests-card__tags {
+    gap: 8px;
+    --quest-tag-gap: 8px;
+  }
+  .quests-card__tags li:nth-child(n) {
+    width: auto;
+    min-height: 36px;
+    font-size: 18px;
+  }
+  .quests-detail-trigger {
+    min-height: 36px;
+    padding-inline: 16px;
+  }
+  .quests-maps {
+    width: 100%;
+    font-size: 19px;
+  }
+  .quests-list__pair--second {
+    margin-top: 32px;
+  }
+}
+
+/* OD: retain the original size of the longer Side Quests intro paragraph. */
+.quests-hero .hero-card .hero-card__description {
+  font-size: 18.96px;
+  line-height: 28px;
+}
+
+@media (max-width: 600px) {
+  .quests-hero {
+    background-size: 96px 96px;
+    background-position: 48px 0;
+  }
+}

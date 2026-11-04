@@ -1,0 +1,170 @@
+[
+  {
+    "file": "hero-background.webp",
+    "source_derivative": "assets/home/hero-background.svg",
+    "source_sha256": "3fd453b53bb0598ebca9b32b7d1ec7148295406c868d135b884153a248e9118a",
+    "sha256": "f609446ba2c269df1755eb5cb0a07311446c82e3c55afb95c89dfbfe3731eed0",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "hero-line-top-right.webp",
+    "source_derivative": "assets/home/hero-line-top-right.svg",
+    "source_sha256": "3fd453b53bb0598ebca9b32b7d1ec7148295406c868d135b884153a248e9118a",
+    "sha256": "05c9992bb6640a77cff6eafe77299916c89ad190e13cc3dfedcc26d3504af3b5",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "hero-line-bottom-left.webp",
+    "source_derivative": "assets/home/hero-line-bottom-left.svg",
+    "source_sha256": "3fd453b53bb0598ebca9b32b7d1ec7148295406c868d135b884153a248e9118a",
+    "sha256": "564d00417430160ea4fbbd9fd54bdf044e1701e005dfeda4c6bb67415cd7514e",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "hero-butterfly.webp",
+    "source_derivative": "assets/home/hero-butterfly.svg",
+    "source_sha256": "3fd453b53bb0598ebca9b32b7d1ec7148295406c868d135b884153a248e9118a",
+    "sha256": "7d4c4a71baac35c4c636f5a56f23dfa1b77f01af7169a6e29e3d72452fed956d",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "welcome-flowers.webp",
+    "source_derivative": "assets/home/welcome-flowers.svg",
+    "source_sha256": "3fd453b53bb0598ebca9b32b7d1ec7148295406c868d135b884153a248e9118a",
+    "sha256": "9dcc2cb8cb4ad2448c534df340715a3ec5c1e4ad2165f2a9efb223cdda2407ae",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "welcome-butterfly.webp",
+    "source_derivative": "assets/home/welcome-butterfly.svg",
+    "source_sha256": "3fd453b53bb0598ebca9b32b7d1ec7148295406c868d135b884153a248e9118a",
+    "sha256": "9a7af1883bca2e321c7ad2c90f8abcf6bc0358e4a280ed633c65a4647bb2f89a",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "welcome-paper.svg",
+    "source_derivative": "assets/home/welcome-paper.svg",
+    "source_sha256": "3fd453b53bb0598ebca9b32b7d1ec7148295406c868d135b884153a248e9118a",
+    "sha256": "d7fc50b6f260968a581e726fc9b132ae39d213b8e3e759c30112202da72a947f",
+    "delivery": "original SVG"
+  },
+  {
+    "file": "welcome-heart.svg",
+    "source_derivative": "assets/home/welcome-heart.svg",
+    "source_sha256": "3fd453b53bb0598ebca9b32b7d1ec7148295406c868d135b884153a248e9118a",
+    "sha256": "11f352f7ef9179f2db4f1b2e454f6bfb870734c9627ee428c884994c3f73ff7a",
+    "delivery": "original SVG"
+  },
+  {
+    "file": "study.webp",
+    "source_derivative": "assets/home/study.svg",
+    "source_sha256": "3fd453b53bb0598ebca9b32b7d1ec7148295406c868d135b884153a248e9118a",
+    "sha256": "dbaac530394e29fbcc7aa40a747e96221fe20a5c26fb2636ce32c1e0fbc9f9cd",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "food.webp",
+    "source_derivative": "assets/home/food.svg",
+    "source_sha256": "3fd453b53bb0598ebca9b32b7d1ec7148295406c868d135b884153a248e9118a",
+    "sha256": "3cb76a947d06789c4c54bb596326a761fb5333f3a63d17a7e59c24b642709809",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "activities.webp",
+    "source_derivative": "assets/home/activities.svg",
+    "source_sha256": "3fd453b53bb0598ebca9b32b7d1ec7148295406c868d135b884153a248e9118a",
+    "sha256": "212f2ca78ac048ec600835b00ef95bef7d02b4f1eda128ab7aaa583180a63a8d",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "cheatsheet.webp",
+    "source_derivative": "assets/home/cheatsheet.svg",
+    "source_sha256": "3fd453b53bb0598ebca9b32b7d1ec7148295406c868d135b884153a248e9118a",
+    "sha256": "035b288d9273fc0b3259744792e1438f0bbf7acbbb0872bd03a0ac20426fefbc",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "pattern-study.webp",
+    "source_derivative": "assets/home/pattern-study.svg",
+    "source_sha256": "3fd453b53bb0598ebca9b32b7d1ec7148295406c868d135b884153a248e9118a",
+    "sha256": "c109a28166f5d69c1da0d422b02c91a0c08d6b76ecd820842c636a9b2bee9644",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "pattern-food.webp",
+    "source_derivative": "assets/home/pattern-food.svg",
+    "source_sha256": "3fd453b53bb0598ebca9b32b7d1ec7148295406c868d135b884153a248e9118a",
+    "sha256": "ed51537151223efd0e09926576b4cc16bcb684c34fee01ab101b1214f2258490",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "pattern-activities.webp",
+    "source_derivative": "assets/home/pattern-activities.svg",
+    "source_sha256": "3fd453b53bb0598ebca9b32b7d1ec7148295406c868d135b884153a248e9118a",
+    "sha256": "9b2a8c3216dfca9061026aadbcba4cc92af94653b8bf308fc039e176ba6a6d14",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "pattern-cheatsheet.webp",
+    "source_derivative": "assets/home/pattern-cheatsheet.svg",
+    "source_sha256": "3fd453b53bb0598ebca9b32b7d1ec7148295406c868d135b884153a248e9118a",
+    "sha256": "1537fd88c0a9a05d23691a01ceec9b327ceecb62b9314816d5dc8f9686c0031f",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "tape-study.webp",
+    "source_derivative": "assets/home/tape-study.svg",
+    "source_sha256": "3fd453b53bb0598ebca9b32b7d1ec7148295406c868d135b884153a248e9118a",
+    "sha256": "348189fc0cc9816193b6cc362e5e448f4727ba2f1a36b960de81e996be5a9d7f",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "tape-food.webp",
+    "source_derivative": "assets/home/tape-food.svg",
+    "source_sha256": "3fd453b53bb0598ebca9b32b7d1ec7148295406c868d135b884153a248e9118a",
+    "sha256": "73f831c4e9063352f61b40b9ba16536eab6117fadf6f508f0201db8040edd81e",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "tape-activities.webp",
+    "source_derivative": "assets/home/tape-activities.svg",
+    "source_sha256": "3fd453b53bb0598ebca9b32b7d1ec7148295406c868d135b884153a248e9118a",
+    "sha256": "36853edf557829d3055946cc4157c776f57a886149b2fa2fa2ed0ab96d8460ea",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "tape-cheatsheet.webp",
+    "source_derivative": "assets/home/tape-cheatsheet.svg",
+    "source_sha256": "3fd453b53bb0598ebca9b32b7d1ec7148295406c868d135b884153a248e9118a",
+    "sha256": "36861c170e9702b4001fcd4989bd4d98cd12aab69295962f87d59ff1d0e55429",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "promotion-decoration.svg",
+    "source_derivative": "assets/home/promotion-decoration.svg",
+    "source_sha256": "3fd453b53bb0598ebca9b32b7d1ec7148295406c868d135b884153a248e9118a",
+    "sha256": "a1310bac71eab4fe817063204cabe7727b27b59ca4f026c8aa18d474d3e95220",
+    "delivery": "original SVG"
+  },
+  {
+    "file": "market-clipped.webp",
+    "source_derivative": "assets/home/market-clipped.svg",
+    "source_sha256": "3fd453b53bb0598ebca9b32b7d1ec7148295406c868d135b884153a248e9118a",
+    "sha256": "c4d8f0977c8dffb97cf713de82e2976d2faf652b28818dc0737ffe5931216d2a",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "tower-clipped.webp",
+    "source_derivative": "assets/home/tower-clipped.svg",
+    "source_sha256": "3fd453b53bb0598ebca9b32b7d1ec7148295406c868d135b884153a248e9118a",
+    "sha256": "a231eb47bd5522cae079fcbead95c8786a27d550206fb9e4eed4e92898d28525",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "saigon-collage.webp",
+    "source_derivative": "assets/home/saigon-collage.svg",
+    "source_sha256": "3fd453b53bb0598ebca9b32b7d1ec7148295406c868d135b884153a248e9118a",
+    "sha256": "7156f8693ec348ca98527b27f1ff71822c1347bf8b6b873d3132d00c7efbb416",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  }
+]

@@ -1,0 +1,1212 @@
+/* D: Canva artwork/color/type. E: rounded desktop geometry. A: responsive reflow. */
+.about-experience {
+  --about-cream: #fff8ec;
+  --about-yellow: #fbe7a1;
+  background: var(--about-cream);
+}
+.site-shell--about-us {
+  --page-background: #fff8ec;
+  --page-ink: #6b2d3e;
+  min-height: 0;
+}
+.about-main {
+  overflow-x: clip;
+  overflow-y: visible;
+}
+.about-art {
+  position: absolute;
+  height: auto;
+  pointer-events: none;
+  user-select: none;
+}
+.about-hero {
+  position: relative;
+  isolation: isolate;
+  background: conic-gradient(
+      var(--about-yellow) 25%,
+      var(--about-cream) 0 50%,
+      var(--about-yellow) 0 75%,
+      var(--about-cream) 0
+    )
+    68.266px 0 / 136.533px 136.533px;
+}
+/* OD: match the category checker phase and lower scallop; retain About artwork. */
+.about-hero::before {
+  content: "";
+  position: absolute;
+  inset: auto 0 52px;
+  height: 40px;
+  background: var(--about-cream);
+  mask: url("/lock-in/scallop-mask.svg") center / 1366px 40px repeat-x;
+  z-index: -1;
+}
+.about-hero::after {
+  content: "";
+  position: absolute;
+  inset: auto 0 0;
+  height: 56px;
+  background: var(--about-cream);
+  z-index: -1;
+}
+.about-hero__meadow {
+  position: absolute;
+  inset: auto 0 0;
+  height: 100px;
+  background: url("/about-us/hero-flowers.webp") center bottom / 1366px 100px
+    repeat-x;
+}
+.about-art--hero-flower-pink {
+  left: calc(50% - 71px);
+  top: 4px;
+  width: 64px;
+}
+.about-art--hero-flower-green {
+  left: calc(50% + 277px);
+  top: 72px;
+  width: 64px;
+}
+.about-art--hero-flower-blue {
+  left: 5%;
+  top: 276px;
+  width: 64px;
+}
+.about-art--hero-flower-purple {
+  right: 5%;
+  top: 344px;
+  width: 64px;
+}
+.about-art[class*="hero-butterflies"] {
+  z-index: 2;
+}
+.about-art--hero-butterflies-1 {
+  left: -12px;
+  bottom: 72px;
+  width: 108px;
+}
+.about-art--hero-butterflies-2 {
+  left: 7.32%;
+  bottom: 40px;
+  width: 144px;
+}
+.about-art--hero-butterflies-3 {
+  left: 31.63%;
+  bottom: 52px;
+  width: 108px;
+}
+.about-art--hero-butterflies-4 {
+  left: 53.88%;
+  bottom: 72px;
+  width: 108px;
+}
+.about-art--hero-butterflies-5 {
+  left: 71.74%;
+  bottom: 52px;
+  width: 108px;
+}
+.about-art--hero-butterflies-6 {
+  right: 6px;
+  bottom: 40px;
+  width: 168px;
+}
+.about-story {
+  position: relative;
+  height: 768px;
+}
+.about-story__paper {
+  position: absolute;
+  top: 148px;
+  transform: translateX(-50%);
+  min-height: 532px;
+  padding: 72px 64px 100px 76px;
+  background: url("/about-us/story-paper.svg") center / 100% 100% no-repeat;
+}
+.about-story h2 {
+  margin: 0;
+  text-align: center;
+  color: #653311;
+  font: 700 85.33px/1.2 var(--font-faustina);
+  text-shadow: 5px 5px #978778;
+  transform: translate(32px, 10px);
+}
+.about-story__script {
+  margin: 0;
+  text-align: center;
+  font: 700 48px/1.2 var(--font-dancing-script);
+  color: #ff7a25;
+  transform: translate(32px, 4px);
+}
+.about-story__copy {
+  margin: 28px 0 0;
+  font: 400 23px/1.18 var(--font-faustina);
+  letter-spacing: 3px;
+  text-align: justify;
+  color: #4a3a3f;
+}
+.about-story__date {
+  position: absolute;
+  z-index: 2;
+  top: 132px;
+  left: calc(50% - 576px);
+  margin: 0;
+  padding: 0 8px;
+  border: 2px solid #f3d458;
+  border-radius: 8px;
+  background: #ffbb75;
+  transform: rotate(-14deg);
+  color: #653311;
+  font: italic 700 36px/1.5 var(--font-faustina);
+}
+.about-art--story-star-trail {
+  top: 0;
+  left: 0;
+  width: 276px;
+}
+.about-art--story-heart-left {
+  top: 52px;
+  left: calc(50% - 363px);
+  width: 200px;
+}
+.about-art--story-heart-right {
+  top: 52px;
+  left: calc(50% + 141px);
+  width: 200px;
+}
+.about-art--story-trumpet {
+  top: 32px;
+  left: calc(50% + 317px);
+  width: 116px;
+}
+.about-art--story-piano {
+  top: 536px;
+  left: max(20px, calc(50% - 643px));
+  width: 232px;
+}
+.about-art--story-rabbit {
+  top: 564px;
+  right: max(20px, calc(50% - 613px));
+  width: 104px;
+}
+.about-art--story-cat {
+  top: 584px;
+  right: max(116px, calc(50% - 513px));
+  width: 124px;
+}
+.about-art--story-sheep {
+  top: 592px;
+  right: max(240px, calc(50% - 397px));
+  width: 140px;
+}
+.about-art--story-music-left {
+  top: 448px;
+  left: 0;
+  width: 120px;
+}
+.about-art--story-music-right {
+  top: 148px;
+  right: 0;
+  width: 260px;
+}
+.about-values {
+  position: relative;
+  height: 768px;
+  padding-top: 212px;
+}
+.about-values__band {
+  position: absolute;
+  inset: 152px 0 136px;
+  background: var(--about-yellow);
+}
+.about-values__band::before,
+.about-values__band::after {
+  content: "";
+  position: absolute;
+  inset-inline: 0;
+  height: 44px;
+  background: var(--about-yellow);
+  mask: url("/about-us/scallop-mask.svg") center / 1366px 44px repeat-x;
+}
+.about-values__band::before {
+  top: -44px;
+}
+.about-values__band::after {
+  bottom: -28px;
+  transform: rotate(180deg);
+}
+.about-values__content {
+  position: relative;
+}
+.about-values h2 {
+  margin: 0;
+  text-align: center;
+  font: 400 50.96px/1.2 var(--font-anton);
+  letter-spacing: 15px;
+  padding-left: 15px;
+}
+.about-values__cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 28px;
+  margin-top: 76px;
+}
+.about-value {
+  min-height: 240px;
+  border-radius: 32px;
+  background: white;
+  padding: 20px 12px 8px;
+  color: black;
+}
+.about-value h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 152px;
+  min-height: 46px;
+  margin: 0 0 4px 16px;
+  border-radius: 99px;
+  background: var(--about-yellow);
+  color: #6b2d3e;
+  font: 700 32px/1.2 var(--font-dancing-script);
+}
+/* D: v2 PDF font/size; E: negative tracking, web line boxes and insets. */
+.about-value__copy {
+  margin: 16px 12px 0;
+  font: 400 24px/28px var(--font-faustina);
+  letter-spacing: -1.8px;
+  text-align: justify;
+}
+.about-value--purpose .about-value__copy {
+  margin-inline: 10px;
+}
+.about-value--mission .about-value__copy {
+  margin-right: 20px;
+}
+.about-value--vision .about-value__copy {
+  margin-inline: 4px;
+}
+.about-value__tagline {
+  margin: 10px 10px 0;
+  font: italic 700 24px/28px var(--font-faustina);
+  letter-spacing: -1.25px;
+  color: #e597b0;
+}
+.about-value--vision .about-value__tagline {
+  margin-left: 16px;
+  color: #a7b1db;
+}
+.about-value__tagline + .about-value__copy {
+  margin-top: 16px;
+}
+.about-art--values-stickers {
+  top: 124px;
+  left: max(8px, calc(50% - 647px));
+  width: 188px;
+}
+.about-art--values-exclaim {
+  top: 48px;
+  right: max(16px, calc(50% - 573px));
+  width: 232px;
+}
+.about-art--stars-left {
+  bottom: 24px;
+  left: 0;
+  width: 304px;
+}
+.about-art--stars-right {
+  bottom: 12px;
+  right: 0;
+  width: 256px;
+}
+.about-team {
+  position: relative;
+  height: 544px;
+  overflow-anchor: none;
+}
+.about-experience--selected .about-team {
+  height: 0;
+}
+.about-team__decorations {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+.about-experience--selected .about-team__decorations {
+  overflow: clip;
+}
+.about-team__inner {
+  position: relative;
+  max-width: 1366px;
+  height: 100%;
+  margin-inline: auto;
+}
+.about-team__heading {
+  position: absolute;
+  top: 342px;
+  left: calc(50% + 20px);
+  width: max-content;
+  max-width: 100%;
+  transform: translateX(-50%);
+  text-align: center;
+  pointer-events: none;
+}
+.about-team__heading p {
+  margin: 0 0 8px;
+  font: 700 53.33px/1.2 var(--font-calibri);
+  letter-spacing: 16px;
+  padding-left: 16px;
+}
+.about-team h2 {
+  margin: 0;
+  font: 700 68.29px/1.2 var(--font-faustina);
+}
+.about-avatar {
+  position: absolute;
+  display: block;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  width: 176px;
+  height: 176px;
+  cursor: pointer;
+  background: transparent;
+  pointer-events: auto;
+  transform-origin: top left;
+  transition:
+    left 650ms cubic-bezier(0.2, 0.7, 0.2, 1),
+    top 650ms cubic-bezier(0.2, 0.7, 0.2, 1),
+    width 650ms ease,
+    height 650ms ease,
+    transform 650ms cubic-bezier(0.2, 0.7, 0.2, 1),
+    outline-color 400ms ease;
+}
+.about-avatar img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.about-avatar[aria-expanded="true"] {
+  outline: 3px solid var(--about-member-name);
+  outline-offset: 5px;
+}
+/* Avatars remain foreground content when the wheel tightens on tablet. */
+.about-team .about-avatar {
+  z-index: 3;
+}
+.about-team .about-avatar--mai {
+  left: 172px;
+  top: 316px;
+}
+.about-team .about-avatar--bao-lan {
+  left: 280px;
+  top: 120px;
+}
+.about-team .about-avatar--yen-nhi {
+  left: 476px;
+  top: 4px;
+}
+.about-team .about-avatar--hoang-lan {
+  left: 696px;
+  top: 4px;
+}
+.about-team .about-avatar--quynh-nhu {
+  left: 892px;
+  top: 116px;
+}
+.about-team .about-avatar--khoi-nguyen {
+  left: 996px;
+  top: 304px;
+}
+.about-art--team-music-left {
+  top: 40px;
+  left: 0;
+  width: 128px;
+  z-index: 2;
+}
+.about-art--team-music-right {
+  top: 40px;
+  right: -2px;
+  width: 192px;
+  z-index: 2;
+}
+.about-member {
+  position: relative;
+  height: 536px;
+  overflow-anchor: none;
+}
+.about-member__backgrounds {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+}
+.about-member__gradient {
+  position: absolute;
+  inset: 0;
+  background-position: center top;
+  background-size: 100% 768px;
+  background-repeat: no-repeat;
+  opacity: 0;
+  transition: opacity 450ms ease;
+}
+.about-member__gradient.is-selected {
+  opacity: 1;
+}
+.about-member__inner {
+  position: relative;
+  max-width: 1366px;
+  margin-inline: auto;
+  height: 10%;
+}
+.about-member__portrait-slot {
+  position: absolute;
+  left: 64px;
+  top: 40px;
+  width: 384px;
+  height: 352px;
+  z-index: 1;
+}
+.about-member__portrait {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  opacity: 0;
+  transition: opacity 450ms ease;
+}
+.about-member__portrait.is-selected {
+  opacity: 1;
+}
+.about-member__copy {
+  position: absolute;
+  left: 456px;
+  right: 344px;
+  top: 132px;
+  z-index: 1;
+  text-align: center;
+  color: var(--about-member-copy);
+  transition: color 450ms ease;
+}
+.about-member__nickname {
+  margin: 0;
+  color: var(--about-member-script);
+  font: 400 34.66px/1.2 var(--font-dancing-script);
+  transition: color 450ms ease;
+}
+.about-member__nickname--captain {
+  font-weight: 700;
+}
+.about-member h2 {
+  margin: -4px 0 18px;
+  color: var(--about-member-name);
+  font: 400 var(--about-member-name-size)/1.2 var(--font-anton);
+  transition: color 450ms ease;
+}
+.about-member__role,
+.about-member__bio {
+  margin: 0;
+  font: italic 400 32px/1.2 var(--font-faustina);
+}
+.about-member__bio {
+  max-width: 744px;
+  margin-inline: auto;
+}
+.about-member__microphone {
+  position: absolute;
+  left: 0;
+  top: 324px;
+  width: 204px;
+  aspect-ratio: 204 / 328;
+  z-index: 2;
+  pointer-events: none;
+}
+.about-member__microphone-layer {
+  position: absolute;
+  inset: 0;
+  mask: var(--microphone-mask) center / 100% 100% no-repeat;
+  background-color: var(--microphone-color);
+  transition: background-color 450ms ease;
+}
+.about-member__microphone-layer--head {
+  --microphone-color: var(--about-microphone-head);
+}
+.about-member__microphone-layer--handle {
+  --microphone-color: var(--about-microphone-handle);
+}
+.about-member__microphone-layer--detail {
+  --microphone-color: var(--about-microphone-detail);
+}
+.about-member__microphone-layer--cream {
+  --microphone-color: #fcf1cd;
+}
+.about-art--profile-stars-left {
+  top: 52px;
+  left: 8px;
+  width: 308px;
+}
+.about-art--profile-stars-right {
+  top: 60px;
+  right: 2px;
+  width: 300px;
+}
+
+/* E: overview heading alignment retained from the reference composition. */
+@media (min-width: 1200px) {
+  .about-team h2 {
+    transform: translateX(-32px);
+  }
+}
+
+/* A: no mobile exports. Keep order and artwork proportions; reflow text and avatar controls. */
+@media (max-width: 1199px) {
+  .about-story__paper {
+    padding-inline: 56px;
+  }
+  .about-story__copy {
+    font-size: 20px;
+    letter-spacing: 2px;
+  }
+  .about-story__date {
+    left: 24px;
+  }
+  .about-art--story-star-trail {
+    width: 180px;
+    left: -32px;
+  }
+  .about-art--story-music-right {
+    width: 140px;
+    right: -32px;
+  }
+  .about-art--story-heart-left {
+    width: 160px;
+    left: 30%;
+  }
+  .about-art--story-heart-right {
+    width: 160px;
+    left: 68%;
+  }
+  .about-art--story-trumpet {
+    width: 96px;
+    left: auto;
+    right: 24px;
+  }
+  .about-values {
+    height: auto;
+    min-height: 768px;
+    padding-bottom: 176px;
+  }
+  .about-values h2 {
+    font-size: 44px;
+    letter-spacing: 10px;
+  }
+  .about-values__cards {
+    gap: 20px;
+  }
+  .about-value__copy,
+  .about-value__tagline {
+    font-size: 22px;
+    letter-spacing: -1px;
+  }
+  .about-art--values-stickers {
+    width: 104px;
+    top: 80px;
+  }
+  .about-art--values-exclaim {
+    width: 160px;
+    top: 24px;
+    right: 24px;
+  }
+  .about-team .about-avatar {
+    width: 144px;
+    height: 144px;
+  }
+  .about-team .about-avatar--mai {
+    left: 2%;
+    top: 312px;
+  }
+  .about-team .about-avatar--bao-lan {
+    left: 14%;
+    top: 128px;
+  }
+  .about-team .about-avatar--yen-nhi {
+    left: 33%;
+    top: 12px;
+  }
+  .about-team .about-avatar--hoang-lan {
+    left: 53%;
+    top: 12px;
+  }
+  .about-team .about-avatar--quynh-nhu {
+    left: 72%;
+    top: 128px;
+  }
+  .about-team .about-avatar--khoi-nguyen {
+    left: 83%;
+    top: 312px;
+  }
+  .about-team h2 {
+    font-size: 56px;
+  }
+  .about-team__heading p {
+    font-size: 42px;
+    letter-spacing: 12px;
+  }
+  .about-member h2 {
+    font-size: clamp(36px, 5vw, 60px);
+  }
+  .about-member__role,
+  .about-member__bio {
+    font-size: 26px;
+  }
+  .about-member__microphone {
+    top: auto;
+    bottom: -32px;
+    width: 144px;
+  }
+}
+@media (min-width: 768px) and (max-width: 959px) {
+  .about-team .about-avatar {
+    width: 120px;
+    height: 120px;
+  }
+}
+@media (max-width: 767px) {
+  .about-desktop-break {
+    display: none;
+  }
+  .about-art--hero-flower-pink {
+    width: 44px;
+    top: 12px;
+    left: 40%;
+  }
+  .about-art--hero-flower-green {
+    width: 44px;
+    top: 12px;
+    left: auto;
+    right: 8%;
+  }
+  .about-art--hero-flower-blue {
+    width: 44px;
+    top: 404px;
+    left: 0;
+  }
+  .about-art--hero-flower-purple {
+    width: 44px;
+    top: 396px;
+    right: 0;
+  }
+  .about-art--hero-butterflies-2 {
+    left: 8%;
+    width: 112px;
+  }
+  .about-art--hero-butterflies-3 {
+    left: 32%;
+    width: 80px;
+  }
+  .about-art--hero-butterflies-4 {
+    left: 52%;
+    width: 80px;
+  }
+  .about-art--hero-butterflies-5 {
+    left: 70%;
+    width: 80px;
+  }
+  .about-art--hero-butterflies-6 {
+    right: -32px;
+    width: 112px;
+  }
+  .about-story {
+    height: auto;
+    min-height: 768px;
+    padding: 144px 0 132px;
+  }
+  .about-story__paper {
+    position: relative;
+    top: auto;
+    transform: none;
+    min-height: 0;
+    padding: 64px 28px 88px;
+  }
+  .about-story h2 {
+    font-size: clamp(36px, 7vw, 56px);
+    transform: none;
+  }
+  .about-story__script {
+    font-size: 32px;
+    margin-top: 8px;
+    transform: none;
+  }
+  .about-story__copy {
+    font-size: 18px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    text-align: left;
+    margin-top: 20px;
+  }
+  .about-story__date {
+    top: 104px;
+    left: 24px;
+    font-size: 26px;
+  }
+  .about-art--story-heart-left {
+    top: 60px;
+    left: 28%;
+    width: 100px;
+  }
+  .about-art--story-heart-right {
+    top: 60px;
+    left: 60%;
+    width: 100px;
+  }
+  .about-art--story-trumpet {
+    top: 20px;
+    left: auto;
+    right: 8px;
+    width: 88px;
+  }
+  .about-art--story-star-trail {
+    width: 140px;
+    top: 0;
+    left: -48px;
+  }
+  .about-art--story-music-left {
+    top: 420px;
+    left: -24px;
+    width: 72px;
+  }
+  .about-art--story-music-right {
+    top: 200px;
+    right: -48px;
+    width: 120px;
+  }
+  .about-art--story-piano {
+    top: auto;
+    bottom: 40px;
+    left: 8px;
+    width: 140px;
+  }
+  .about-art--story-rabbit {
+    top: auto;
+    bottom: 40px;
+    right: 4px;
+    width: 64px;
+  }
+  .about-art--story-cat {
+    top: auto;
+    bottom: 40px;
+    right: 60px;
+    width: 72px;
+  }
+  .about-art--story-sheep {
+    top: auto;
+    bottom: 36px;
+    right: 124px;
+    width: 80px;
+  }
+  .about-values {
+    height: auto;
+    padding: 144px 0 120px;
+  }
+  .about-values__band {
+    inset-block: 72px 80px;
+  }
+  .about-values__content {
+    margin-inline: auto;
+  }
+  .about-values h2 {
+    font-size: 34px;
+    line-height: 1.4;
+    letter-spacing: 5px;
+    padding-left: 5px;
+  }
+  .about-values__cards {
+    grid-template-columns: 1fr;
+    margin: 52px auto 0;
+    gap: 24px;
+  }
+  .about-value {
+    min-height: 216px;
+    padding: 20px;
+  }
+  .about-value h3 {
+    margin-left: 0;
+  }
+  .about-value .about-value__copy,
+  .about-value .about-value__tagline {
+    margin: 16px 0 0;
+    font-size: 24px;
+    line-height: 1.3;
+    letter-spacing: -0.5px;
+    text-align: left;
+  }
+  .about-art--values-stickers {
+    width: 100px;
+    top: 40px;
+    left: -8px;
+  }
+  .about-art--values-exclaim {
+    width: 100px;
+    top: 0;
+    right: 8px;
+  }
+  .about-art--stars-left {
+    width: 180px;
+    bottom: 4px;
+  }
+  .about-art--stars-right {
+    width: 140px;
+    bottom: 4px;
+  }
+  .about-team,
+  .about-experience--selected .about-team {
+    height: auto;
+    min-height: 568px;
+    padding: 64px 24px 80px;
+  }
+  .about-team__heading {
+    position: static;
+    order: -1;
+    margin-bottom: 32px;
+    width: auto;
+    transform: none;
+  }
+  .about-team__heading p {
+    font-size: 26px;
+    letter-spacing: 8px;
+    padding-left: 8px;
+  }
+  .about-team h2 {
+    font-size: clamp(30px, 6vw, 44px);
+  }
+  .about-team .about-avatar {
+    position: static;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1;
+  }
+  .about-art--team-music-left {
+    width: 64px;
+    left: -20px;
+  }
+  .about-art--team-music-right {
+    width: 72px;
+    right: -24px;
+  }
+  .about-member__nickname {
+    font-size: 30px;
+  }
+  .about-member h2 {
+    margin-block: 8px 20px;
+    font-size: clamp(30px, 7vw, 48px);
+  }
+  .about-member__role,
+  .about-member__bio {
+    font-size: 24px;
+    line-height: 1.4;
+  }
+  .about-member__microphone {
+    width: 100px;
+    bottom: -64px;
+  }
+  .about-art--profile-stars-left {
+    width: 160px;
+    top: 16px;
+  }
+  .about-art--profile-stars-right {
+    width: 160px;
+    top: 16px;
+    right: -20px;
+  }
+}
+
+.about-story__paper {
+  left: 50%;
+}
+@media (max-width: 767px) {
+  .about-story__paper {
+    left: auto;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .about-member__gradient,
+  .about-member__copy,
+  .about-member__nickname,
+  .about-member h2,
+  .about-avatar {
+    transition: none;
+  }
+}
+
+@media (max-width: 600px) {
+  .about-hero {
+    background-size: 96px 96px;
+    background-position: 48px 0;
+  }
+}
+
+/* One persistent six-member wheel; its frame is independent of profile copy. */
+.about-team__avatars {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 544px;
+  z-index: 3;
+  pointer-events: none;
+  transition:
+    left 650ms cubic-bezier(0.2, 0.7, 0.2, 1),
+    top 650ms cubic-bezier(0.2, 0.7, 0.2, 1),
+    width 650ms ease,
+    height 650ms ease,
+    gap 650ms ease;
+}
+.about-experience--selected .about-team__avatars {
+  left: calc(100% - 264px);
+  top: 8px;
+  width: 232px;
+  height: 520px;
+}
+.about-experience--selected .about-team__avatars .about-avatar {
+  width: 176px;
+  height: 176px;
+  transform: scale(0.5);
+}
+.about-experience--selected .about-team__avatars .about-avatar--mai {
+  left: 0px;
+  top: 0px;
+}
+.about-experience--selected .about-team__avatars .about-avatar--bao-lan {
+  left: 88px;
+  top: 78px;
+}
+.about-experience--selected .about-team__avatars .about-avatar--yen-nhi {
+  left: 144px;
+  top: 168px;
+}
+.about-experience--selected .about-team__avatars .about-avatar--hoang-lan {
+  left: 144px;
+  top: 264px;
+}
+.about-experience--selected .about-team__avatars .about-avatar--quynh-nhu {
+  left: 88px;
+  top: 354px;
+}
+.about-experience--selected .about-team__avatars .about-avatar--khoi-nguyen {
+  left: 0px;
+  top: 432px;
+}
+@media (min-width: 1200px) and (max-width: 1359px) {
+  .about-member__copy {
+    top: 80px;
+  }
+  .about-member h2 {
+    font-size: 56px;
+  }
+  .about-member__nickname {
+    font-size: 32px;
+  }
+  .about-member__role,
+  .about-member__bio {
+    font-size: 26px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1199px) {
+  .about-member {
+    height: 760px;
+  }
+  .about-member__portrait-slot {
+    left: 32px;
+    top: 40px;
+    width: 240px;
+    height: 220px;
+  }
+  .about-member__copy {
+    left: 32px;
+    right: 258px;
+    top: 300px;
+  }
+  .about-member__gradient {
+    background-size: 100% 143.284%;
+  }
+  .about-experience--selected .about-team__avatars {
+    left: calc(100% - 234px);
+    top: 24px;
+    width: 210px;
+    height: 352px;
+  }
+  .about-experience--selected .about-team__avatars .about-avatar {
+    width: 128px;
+    height: 128px;
+  }
+  .about-experience--selected .about-team__avatars .about-avatar--mai {
+    left: 0px;
+    top: 208px;
+  }
+  .about-experience--selected .about-team__avatars .about-avatar--bao-lan {
+    left: 0px;
+    top: 80px;
+  }
+  .about-experience--selected .about-team__avatars .about-avatar--yen-nhi {
+    left: 73px;
+    top: 0px;
+  }
+  .about-experience--selected .about-team__avatars .about-avatar--hoang-lan {
+    left: 146px;
+    top: 80px;
+  }
+  .about-experience--selected .about-team__avatars .about-avatar--quynh-nhu {
+    left: 146px;
+    top: 208px;
+  }
+  .about-experience--selected .about-team__avatars .about-avatar--khoi-nguyen {
+    left: 73px;
+    top: 288px;
+  }
+}
+@media (max-width: 767px) {
+  .about-team__inner {
+    height: 424px;
+    min-height: 424px;
+  }
+  .about-team__avatars {
+    --about-avatar-size: calc((min(100vw - 48px, 440px) - 24px) / 3);
+    left: max(0px, calc((100% - 440px) / 2));
+    top: 112px;
+    width: min(100%, 440px);
+    height: calc(var(--about-avatar-size) * 2 + 20px);
+  }
+  .about-team__avatars .about-avatar {
+    position: absolute;
+    width: var(--about-avatar-size);
+    height: var(--about-avatar-size);
+  }
+  .about-team__avatars .about-avatar--mai {
+    left: 0;
+    top: 0;
+  }
+  .about-team__avatars .about-avatar--bao-lan {
+    left: calc(var(--about-avatar-size) + 12px);
+    top: 0;
+  }
+  .about-team__avatars .about-avatar--yen-nhi {
+    left: calc(var(--about-avatar-size) * 2 + 24px);
+    top: 0;
+  }
+  .about-team__avatars .about-avatar--hoang-lan {
+    left: 0;
+    top: calc(var(--about-avatar-size) + 20px);
+  }
+  .about-team__avatars .about-avatar--quynh-nhu {
+    left: calc(var(--about-avatar-size) + 12px);
+    top: calc(var(--about-avatar-size) + 20px);
+  }
+  .about-team__avatars .about-avatar--khoi-nguyen {
+    left: calc(var(--about-avatar-size) * 2 + 24px);
+    top: calc(var(--about-avatar-size) + 20px);
+  }
+  .about-experience--selected .about-team {
+    height: 0;
+    min-height: 0;
+    padding: 0;
+  }
+  .about-experience--selected .about-team__inner {
+    height: 0;
+    min-height: 0;
+  }
+  .about-experience--selected .about-team__avatars {
+    left: calc(100% - 204px);
+    top: 24px;
+    width: 180px;
+    height: auto;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 6px;
+  }
+  .about-experience--selected .about-team__avatars .about-avatar {
+    position: static;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1;
+    transform: none;
+  }
+  .about-member {
+    height: 960px;
+  }
+  .about-member__portrait-slot {
+    left: 50%;
+    top: 160px;
+    width: min(280px, calc(100% - 48px));
+    height: 256px;
+    transform: translateX(-50%);
+  }
+  .about-member__copy {
+    left: 24px;
+    right: 24px;
+    top: 456px;
+  }
+  .about-member__gradient {
+    background-size: 100% 143.284%;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .about-team__avatars,
+  .about-avatar,
+  .about-member__portrait,
+  .about-member__microphone {
+    transition: none;
+  }
+}
+
+/* Selected profiles meet the values scallop directly, without the old overview strip. */
+.about-experience--selected .about-values {
+  height: 660px;
+}
+.about-experience--selected .about-values__band {
+  bottom: 28px;
+}
+.about-experience--selected .about-art--stars-left,
+.about-experience--selected .about-art--stars-right {
+  display: none;
+}
+@media (max-width: 1199px) {
+  .about-experience--selected .about-values {
+    height: auto;
+    min-height: 0;
+    padding-bottom: 68px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .about-member__microphone-layer {
+    transition: none;
+  }
+}
+
+/* Extend the profile surface beneath the values scallop; no cream seam remains. */
+.about-experience--selected .about-values {
+  z-index: 1;
+}
+.about-member__backgrounds {
+  top: -44px;
+}
+@media (max-width: 1199px) {
+  .about-team__avatars,
+  .about-avatar {
+    transition: none;
+  }
+}
+
+/* Measured artwork transforms are constant across selection; animate opacity only. */
+.about-avatar img,
+.about-member__portrait {
+  transform-origin: center;
+  pointer-events: none;
+}
+
+/* Hover scales artwork independently of wheel positioning and alpha normalization. */
+@media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
+  .about-avatar img {
+    transition: scale 180ms ease;
+  }
+  .about-avatar:hover img {
+    scale: 1.06;
+  }
+}

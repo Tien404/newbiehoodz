@@ -1,0 +1,12 @@
+{
+  "source": "public/brand/logo.png",
+  "sourceSha256": "c1cb7f8e3e9f1f35b5e10402b0addc8cd67df16995c7c12630275d3fa2ed857b",
+  "delivery": "public/brand/social-card.png",
+  "size": [
+    600,
+    315
+  ],
+  "background": "#fff8ec",
+  "logoUpscaled": false,
+  "note": "Original approved logo centered at native size on the existing brand cream. Social metadata only; no page UI redesign."
+}

@@ -1,0 +1,15 @@
+{
+  "source": "references/canva/local-bites.svg",
+  "isolatedSource": "assets/local-bites/eatery-heart.svg",
+  "sourceSha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48",
+  "isolatedSourceSha256": "f4f1054267c3fb53476e9f4162c79f4702b762d310abd782da200cdf517eff07",
+  "removedRectangularFrameClips": [
+    "54a95f1d30",
+    "46c67f9f43",
+    "513c42bf0f",
+    "74ba9e2c95"
+  ],
+  "retained": "Original heart fill/outline paths, transforms and shape clips; original Canva and cropped derivative unchanged",
+  "delivery": "public/local-bites/eatery-heart-full.webp",
+  "deliverySha256": "b945c4942f36f55ea16fa037fe024278918aabcb1752ee7e95a1410e16c962f9"
+}

@@ -1,0 +1,44 @@
+.text-disclosure-trigger {
+  border: 0;
+  cursor: pointer;
+}
+.text-disclosure-trigger > span {
+  display: block;
+  min-width: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.text-disclosure-popover {
+  position: fixed;
+  inset: auto;
+  margin: 0;
+  width: min(360px, calc(100vw - 32px));
+  max-height: min(320px, calc(100dvh - 32px));
+  overflow: auto;
+  padding: 16px;
+  border: 2px solid var(--listing-outline, var(--color-burgundy));
+  border-radius: 16px;
+  background: white;
+  color: var(--color-ink-guide);
+  font: 400 20px/26px var(--font-calibri);
+  white-space: normal;
+  overflow-wrap: anywhere;
+  box-shadow: 0 4px 16px #6b2d3e26;
+}
+.text-disclosure-popover p {
+  margin: 0;
+}
+.text-disclosure-close {
+  display: block;
+  margin: 12px 0 0 auto;
+  padding: 4px 8px;
+  border: 0;
+  background: transparent;
+  color: var(--color-burgundy);
+  font: 700 18px/24px var(--font-calibri);
+  cursor: pointer;
+}
+.text-disclosure-close:hover {
+  text-decoration: underline;
+}

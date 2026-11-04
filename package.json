@@ -5,13 +5,21 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint . --max-warnings=0",
+    "type-check": "next typegen && tsc --noEmit",
+    "data:export": "node --experimental-strip-types scripts/export-public-places.mjs",
+    "data:check": "node --experimental-strip-types scripts/check-public-places.mjs",
+    "prebuild": "npm run data:check",
+    "test": "node --experimental-strip-types --test scripts/check-place-*.test.mjs scripts/check-site-seo.test.mjs scripts/places.test.mjs",
+    "test:data-provenance": "node --experimental-strip-types scripts/check-activity-source-classification.mjs",
+    "format": "prettier . --write",
+    "format:check": "prettier . --check"
   },
   "dependencies": {
     "next": "16.4.3",
     "react": "19.3.0",
-    "react-dom": "19.3.0"
+    "react-dom": "19.3.0",
+    "zod": "4.6.7"
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "^4",
@@ -20,6 +28,7 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.4.3",
+    "prettier": "^3.9.10",
     "tailwindcss": "^4",
     "typescript": "^5"
   }

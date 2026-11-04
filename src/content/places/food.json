@@ -1,0 +1,3693 @@
+[
+  {
+    "id": "plc_01f2d9a4-e9e8-56a6-bf05-4d2921a46cb4",
+    "slug": "nha-hang-be-vang-01f2d9a4",
+    "name": "Nhà Hàng Bê Vàng",
+    "englishName": null,
+    "address": "261-263 An Dương Vương, Phường 3",
+    "mapsUrl": "https://maps.google.com/?cid=17884906432593772667",
+    "summary": "Salmon Sashimi and Dragon Roll",
+    "openingHours": {
+      "text": "10:00 AM – 22:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Japanese Cuisine",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 5",
+      "nearbyCampusText": "UMP / HCMUE",
+      "recommendedDishText": "Salmon Sashimi and Dragon Roll",
+      "pricePerPerson": {
+        "text": "200,000 – 400,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 200000, "max": 400000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Salmon, tuna, sushi rice, nori, seafood",
+      "orderingText": "Staff",
+      "paymentText": "Cash, Card, Transfer",
+      "serviceModeText": "Dine-in"
+    },
+    "photos": [
+      {
+        "id": "img_adaa6d746d92a147de9b517131852b5aa5571a4ebfb865b51b3d5d245cc977f1",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776488/newbiehoodzzzz/places/local-bites/plc_01f2d9a4-e9e8-56a6-bf05-4d2921a46cb4/adaa6d746d92a147de9b517131852b5aa5571a4ebfb865b51b3d5d245cc977f1?_a=BAMAROce0",
+        "width": 640,
+        "height": 702,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_d3a98dd029e467aaac3e30c5841dd7ed2b813b556a73eabcf722fe00e5ac5c0e",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776732/newbiehoodzzzz/places/local-bites/plc_01f2d9a4-e9e8-56a6-bf05-4d2921a46cb4/d3a98dd029e467aaac3e30c5841dd7ed2b813b556a73eabcf722fe00e5ac5c0e?_a=BAMAROce0",
+        "width": 640,
+        "height": 813,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_021f8bdc-3252-5597-94c8-8fbe63395897",
+    "slug": "com-nieu-sai-gon-021f8bdc",
+    "name": "Cơm Niêu Sài Gòn",
+    "englishName": null,
+    "address": "59 Hồ Xuân Hương, Phường 6",
+    "mapsUrl": "https://maps.google.com/?cid=3497852573272297387",
+    "summary": "Upscale claypot rice restaurant serving traditional homestyle Vietnamese dishes.",
+    "openingHours": {
+      "text": "10:00 AM – 10:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Traditional Vietnamese",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 3",
+      "nearbyCampusText": "HUFLIT / Architecture Uni",
+      "recommendedDishText": "Crispy bottom claypot rice with caramelized fish",
+      "pricePerPerson": {
+        "text": "150,000 – 300,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 150000, "max": 300000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Rice, claypot, braised fish, sour soup",
+      "orderingText": "Staff",
+      "paymentText": "Cash, Card, Transfer",
+      "serviceModeText": "Dine-in"
+    },
+    "photos": [
+      {
+        "id": "img_6165f7a4bfe10e315f9f24facd44ea2c947ef6e0f1579e848e0bc094caf645ba",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776053/newbiehoodzzzz/places/local-bites/plc_021f8bdc-3252-5597-94c8-8fbe63395897/6165f7a4bfe10e315f9f24facd44ea2c947ef6e0f1579e848e0bc094caf645ba?_a=BAMAROce0",
+        "width": 640,
+        "height": 471,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_9f14cdddf4c3003fe1e40d339bdac4d9e5194a955252326bdc9e0fa1d5fe3efa",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776401/newbiehoodzzzz/places/local-bites/plc_021f8bdc-3252-5597-94c8-8fbe63395897/9f14cdddf4c3003fe1e40d339bdac4d9e5194a955252326bdc9e0fa1d5fe3efa?_a=BAMAROce0",
+        "width": 640,
+        "height": 550,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_05d5f267-84d1-5181-a36c-abaec29cf0ba",
+    "slug": "sup-cua-bong-05d5f267",
+    "name": "Súp Cua Bông",
+    "englishName": null,
+    "address": "59C Mạc Đĩnh Chi, Phường Tân Định",
+    "mapsUrl": "https://maps.google.com/?cid=6189144533988507555",
+    "summary": "Popular street food spot serving rich and hearty crab soup.",
+    "openingHours": {
+      "text": "12:00 PM – 08:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Vietnamese Soup",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 1",
+      "nearbyCampusText": "Architecture University",
+      "recommendedDishText": "Special crab soup with century egg and marrow",
+      "pricePerPerson": {
+        "text": "35,000 – 70,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 35000, "max": 70000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Crab meat, quail eggs, corn, broth, century egg",
+      "orderingText": "Counter",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_7e7c4f1d3ee6cfca7f02f605ebb26149d5d6ee2c5ded8ff2c2291fe05559b35e",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776215/newbiehoodzzzz/places/local-bites/plc_05d5f267-84d1-5181-a36c-abaec29cf0ba/7e7c4f1d3ee6cfca7f02f605ebb26149d5d6ee2c5ded8ff2c2291fe05559b35e?_a=BAMAROce0",
+        "width": 640,
+        "height": 753,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_cf9a6572b15c965cdbb52ee6bf261f1c34a41ecfe498c671855093d56a7cf8ad",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776633/newbiehoodzzzz/places/local-bites/plc_05d5f267-84d1-5181-a36c-abaec29cf0ba/cf9a6572b15c965cdbb52ee6bf261f1c34a41ecfe498c671855093d56a7cf8ad?_a=BAMAROce0",
+        "width": 640,
+        "height": 735,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_10bf2ca4-987e-50ef-9939-864e36cfdf97",
+    "slug": "chivago-chicken-10bf2ca4",
+    "name": "Chivago Chicken",
+    "englishName": null,
+    "address": "161 Nguyễn Thái Học, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=17895689259821153299",
+    "summary": "Popular franchise specializing in crispy Korean-style fried chicken & beer.",
+    "openingHours": {
+      "text": "11:00 AM – 02:00 AM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Korean Fast Food / Fried Chicken",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 1",
+      "nearbyCampusText": "ULAW, HCMUS,HCMUE",
+      "recommendedDishText": "Snow Cheese Chicken / Yangnyeom",
+      "pricePerPerson": {
+        "text": "100,000 – 250,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 100000, "max": 250000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Chicken, cheese powder, gochujang",
+      "orderingText": "Staff / Apps",
+      "paymentText": "Cash, Card, E-wallets",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_201af5062bd79630d3d23f7c4d9a3378bc2e853ba9de11b8b8bc3757a200a294",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775714/newbiehoodzzzz/places/local-bites/plc_10bf2ca4-987e-50ef-9939-864e36cfdf97/201af5062bd79630d3d23f7c4d9a3378bc2e853ba9de11b8b8bc3757a200a294?_a=BAMAROce0",
+        "width": 606,
+        "height": 864,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_1b14e29b-a802-5cae-a865-20d33d40a272",
+    "slug": "quan-chay-phuc-an-an-gia-1b14e29b",
+    "name": "Quán Chay Phúc Ấn An Gia",
+    "englishName": null,
+    "address": "163/21/3 Tô Hiến Thành, Phường 13",
+    "mapsUrl": "https://maps.google.com/?cid=10564010680592471430",
+    "summary": "Cozy family-style restaurant serving wholesome vegetarian dishes.",
+    "openingHours": {
+      "text": "10:00 AM – 09:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Vegetarian Vietnamese",
+      "dietaryDescription": "Vegetarian ",
+      "areaText": "District 10",
+      "nearbyCampusText": "HCMUT",
+      "recommendedDishText": "Special vegetarian set meal",
+      "pricePerPerson": {
+        "text": "50,000 – 120,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 50000, "max": 120000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Tofu, mushrooms, fresh vegetables, soy protein",
+      "orderingText": "Table",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_20b015bcb85b81c66234867e1a9f7eee1fe8fa05ff5299eba37a8b47fe9cece6",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775720/newbiehoodzzzz/places/local-bites/plc_1b14e29b-a802-5cae-a865-20d33d40a272/20b015bcb85b81c66234867e1a9f7eee1fe8fa05ff5299eba37a8b47fe9cece6?_a=BAMAROce0",
+        "width": 640,
+        "height": 572,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_3f6062be6200282c303bb005e6e59bd7a4e8271abb5be429cc0ab4ebe8f4faaa",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775892/newbiehoodzzzz/places/local-bites/plc_1b14e29b-a802-5cae-a865-20d33d40a272/3f6062be6200282c303bb005e6e59bd7a4e8271abb5be429cc0ab4ebe8f4faaa?_a=BAMAROce0",
+        "width": 640,
+        "height": 381,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_1c5410a2-6203-58dc-bd44-5b2036034ed4",
+    "slug": "hu-tieu-mi-hong-ky-1c5410a2",
+    "name": "Hủ Tiếu Mì Hồng Ký",
+    "englishName": null,
+    "address": "187 Cô Bắc, Phường Cô Giang",
+    "mapsUrl": "https://maps.google.com/?cid=9530254903119259063",
+    "summary": "Long-standing local eatery serving authentic wonton and egg noodle soup.",
+    "openingHours": {
+      "text": "06:00 AM – 10:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Chinese-Vietnamese Noodles",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 1",
+      "nearbyCampusText": "UEH",
+      "recommendedDishText": "Wonton egg noodle soup with char siu",
+      "pricePerPerson": {
+        "text": "45,000 – 85,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 45000, "max": 85000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Egg noodles, pork bone broth, wontons, char siu",
+      "orderingText": "Counter",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_65229e3ee74350c8540da3ef92ba34aeeefab4af2e5a9b8f3dc045f4a93b2a4a",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776072/newbiehoodzzzz/places/local-bites/plc_1c5410a2-6203-58dc-bd44-5b2036034ed4/65229e3ee74350c8540da3ef92ba34aeeefab4af2e5a9b8f3dc045f4a93b2a4a?_a=BAMAROce0",
+        "width": 490,
+        "height": 816,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_c4fcc3e537c46f8393a92f864955ad1c6b19f57c32a76372612db77e0d39cab4",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776588/newbiehoodzzzz/places/local-bites/plc_1c5410a2-6203-58dc-bd44-5b2036034ed4/c4fcc3e537c46f8393a92f864955ad1c6b19f57c32a76372612db77e0d39cab4?_a=BAMAROce0",
+        "width": 640,
+        "height": 846,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_1eab1870-8250-55fb-b385-36a3b86c08f6",
+    "slug": "chao-ech-kim-1eab1870",
+    "name": "Cháo ếch Kim",
+    "englishName": null,
+    "address": "110 Phan Văn Trị, Phường 2, Quận 5, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=8581902706116181442",
+    "summary": "Specialized late-night spot serving savory braised frog with plain porridge.",
+    "openingHours": {
+      "text": "11:00 AM – 01:00 AM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Singaporean Cuisine",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 5",
+      "nearbyCampusText": "Med & Pharm Uni",
+      "recommendedDishText": "Spicy kung pao braised frog with porridge",
+      "pricePerPerson": {
+        "text": "60,000 – 120,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 60000, "max": 120000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Frog meat, dark soy sauce, scallions",
+      "orderingText": "Staff",
+      "paymentText": "Cash, E-wallets, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_5f21fb571edbef9b6b1515f02f48475d9b25c48d5c71556d3069095ce26a51cc",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776038/newbiehoodzzzz/places/local-bites/plc_1eab1870-8250-55fb-b385-36a3b86c08f6/5f21fb571edbef9b6b1515f02f48475d9b25c48d5c71556d3069095ce26a51cc?_a=BAMAROce0",
+        "width": 640,
+        "height": 732,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_605d7dcfc9b6218c745524e5cc5980139731ccadd13ea19b9e2199cd1d1b15b2",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776045/newbiehoodzzzz/places/local-bites/plc_1eab1870-8250-55fb-b385-36a3b86c08f6/605d7dcfc9b6218c745524e5cc5980139731ccadd13ea19b9e2199cd1d1b15b2?_a=BAMAROce0",
+        "width": 640,
+        "height": 646,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_1ebc8a3c-e2bb-589e-99b4-f5b9659539c6",
+    "slug": "mi-quang-di-bay-1ebc8a3c",
+    "name": "Mì Quảng Dì Bảy",
+    "englishName": null,
+    "address": "35 Lê Văn Việt, Hiệp Phú",
+    "mapsUrl": "https://maps.google.com/?cid=4845092477528259441",
+    "summary": "Authentic Quang-style turmeric rice noodles with rich broth.",
+    "openingHours": {
+      "text": "06:00 AM – 09:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Central Vietnamese",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "Thủ Đức",
+      "nearbyCampusText": "University of Transport and Communications (UTH)",
+      "recommendedDishText": "Special shrimp and pork Quang noodles",
+      "pricePerPerson": {
+        "text": "40,000 – 75,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 40000, "max": 75000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Turmeric noodles, shrimp, pork, peanuts, broth",
+      "orderingText": "Counter",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_32466cb78aab921b863003ba2d98831aece01ad942dada982205f0d1102570d8",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775837/newbiehoodzzzz/places/local-bites/plc_1ebc8a3c-e2bb-589e-99b4-f5b9659539c6/32466cb78aab921b863003ba2d98831aece01ad942dada982205f0d1102570d8?_a=BAMAROce0",
+        "width": 640,
+        "height": 692,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_d1f1afafa8b12a631b889f4776ff736e7fc6a773adfecf5f8128988a183049db",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776648/newbiehoodzzzz/places/local-bites/plc_1ebc8a3c-e2bb-589e-99b4-f5b9659539c6/d1f1afafa8b12a631b889f4776ff736e7fc6a773adfecf5f8128988a183049db?_a=BAMAROce0",
+        "width": 564,
+        "height": 804,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_20f1f0ef-5b82-5f4d-b6e6-b7be6be36a76",
+    "slug": "mi-cay-sasin-nguyen-gia-tri-20f1f0ef",
+    "name": "Mì Cay Sasin Nguyễn Gia Trí",
+    "englishName": null,
+    "address": "72 Nguyễn Gia Trí, Phường 25",
+    "mapsUrl": "https://maps.google.com/?cid=12613718191346541981",
+    "summary": "Famous multi-level spicy Korean noodle restaurant chain.",
+    "openingHours": {
+      "text": "09:00 AM – 10:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Korean Spicy Noodles",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "Bình Thạnh",
+      "nearbyCampusText": "HUTECH / FTU",
+      "recommendedDishText": "Level 7 Seafood Spicy Ramen",
+      "pricePerPerson": {
+        "text": "50,000 – 110,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 50000, "max": 110000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Ramen, kimchi, seafood, chili powder",
+      "orderingText": "Table",
+      "paymentText": "Cash, E-wallets, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_448b35993f7d7a0faa3356e289a4cb3ec9b1f472d09ce05376970028c3e8bb77",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775916/newbiehoodzzzz/places/local-bites/plc_20f1f0ef-5b82-5f4d-b6e6-b7be6be36a76/448b35993f7d7a0faa3356e289a4cb3ec9b1f472d09ce05376970028c3e8bb77?_a=BAMAROce0",
+        "width": 640,
+        "height": 412,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_52867c841bd4cee78e99c4195d8521b3e55b961880678601ae9703b572b05c21",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775968/newbiehoodzzzz/places/local-bites/plc_20f1f0ef-5b82-5f4d-b6e6-b7be6be36a76/52867c841bd4cee78e99c4195d8521b3e55b961880678601ae9703b572b05c21?_a=BAMAROce0",
+        "width": 615,
+        "height": 748,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_22ea60d2-22e0-5ce6-a727-6a69fbcfdc4d",
+    "slug": "bun-thit-nuong-339-22ea60d2",
+    "name": "Bún Thịt Nướng 339",
+    "englishName": null,
+    "address": "339/7-9 Tô Hiến Thành, Phường 13",
+    "mapsUrl": "https://maps.google.com/?cid=17748382629489114835",
+    "summary": "Popular local spot known for fragrant grilled pork vermicelli.",
+    "openingHours": {
+      "text": "09:00 AM – 09:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Vietnamese Noodles",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 10",
+      "nearbyCampusText": "HCMUT",
+      "recommendedDishText": "Grilled pork vermicelli with crispy spring roll",
+      "pricePerPerson": {
+        "text": "40,000 – 75,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 40000, "max": 75000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Rice vermicelli, grilled pork, fish sauce, herbs",
+      "orderingText": "Counter",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_380d92b3c7f1f2a1009642bac43b1a68a08d6e4a57af6bad65549d25db53e460",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775862/newbiehoodzzzz/places/local-bites/plc_22ea60d2-22e0-5ce6-a727-6a69fbcfdc4d/380d92b3c7f1f2a1009642bac43b1a68a08d6e4a57af6bad65549d25db53e460?_a=BAMAROce0",
+        "width": 640,
+        "height": 623,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_4187648021c5f4950ac7a084b948102bd9e5cc1b874a0d6a626742270f94e293",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775900/newbiehoodzzzz/places/local-bites/plc_22ea60d2-22e0-5ce6-a727-6a69fbcfdc4d/4187648021c5f4950ac7a084b948102bd9e5cc1b874a0d6a626742270f94e293?_a=BAMAROce0",
+        "width": 640,
+        "height": 306,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_23b90acd-3ab2-5a3d-beb8-ff548f0d9fb6",
+    "slug": "banh-mi-que-da-nang-quin-23b90acd",
+    "name": "Bánh Mì Que Đà Nẵng Quin",
+    "englishName": null,
+    "address": "450 Lê Văn Việt, Tăng Nhơn Phú A",
+    "mapsUrl": "https://maps.google.com/?cid=5256049648689858065",
+    "summary": "Crispy mini pate baguettes inspired by Da Nang street food flavor.",
+    "openingHours": {
+      "text": "06:00 AM – 09:30 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Fast Food / Banh Mi",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "Thủ Đức",
+      "nearbyCampusText": "HCMC University of Technology and Education",
+      "recommendedDishText": "Crispy pate baguette sticks",
+      "pricePerPerson": {
+        "text": "10,000 – 25,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 10000, "max": 25000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Mini baguette, pork pate, chili sauce",
+      "orderingText": "Counter",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_1347b0674e6c85c23e302bda711b70eb49d89204226060d406926de07cf78396",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775640/newbiehoodzzzz/places/local-bites/plc_23b90acd-3ab2-5a3d-beb8-ff548f0d9fb6/1347b0674e6c85c23e302bda711b70eb49d89204226060d406926de07cf78396?_a=BAMAROce0",
+        "width": 379,
+        "height": 528,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_cc86dca26d7f7bc0bfb2b4cbb0f2f455f5e59275b2d6b3b051ffd68de41f734e",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776618/newbiehoodzzzz/places/local-bites/plc_23b90acd-3ab2-5a3d-beb8-ff548f0d9fb6/cc86dca26d7f7bc0bfb2b4cbb0f2f455f5e59275b2d6b3b051ffd68de41f734e?_a=BAMAROce0",
+        "width": 406,
+        "height": 781,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_249d4d02-91de-5c79-b407-18d1cda11364",
+    "slug": "banh-trang-nuong-da-lat-co-ba-249d4d02",
+    "name": "Bánh Tráng Nướng Đà Lạt Cô Ba",
+    "englishName": null,
+    "address": "26 Cao Thắng, Phường 5",
+    "mapsUrl": "https://maps.google.com/?cid=14820175807363188878",
+    "summary": "Popular street snack stall famous for Vietnamese-style pizza on rice paper.",
+    "openingHours": {
+      "text": "03:00 PM – 09:30 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Street Food",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 3",
+      "nearbyCampusText": "HUFLIT",
+      "recommendedDishText": "Special cheese and sausage grilled rice paper",
+      "pricePerPerson": {
+        "text": "20,000 – 40,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 20000, "max": 40000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Rice paper, egg, cheese, butter, dried beef",
+      "orderingText": "Counter",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_14c7c45b64c8e572550ec109a23764c4e8776b0fab544f3e541f4725ecf386a9",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775646/newbiehoodzzzz/places/local-bites/plc_249d4d02-91de-5c79-b407-18d1cda11364/14c7c45b64c8e572550ec109a23764c4e8776b0fab544f3e541f4725ecf386a9?_a=BAMAROce0",
+        "width": 640,
+        "height": 427,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_ec556a762c936d41c2b6f7f7bd891e69cf129daf25c52e49647e58737c6c0b8e",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776800/newbiehoodzzzz/places/local-bites/plc_249d4d02-91de-5c79-b407-18d1cda11364/ec556a762c936d41c2b6f7f7bd891e69cf129daf25c52e49647e58737c6c0b8e?_a=BAMAROce0",
+        "width": 640,
+        "height": 328,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_2548738a-4750-591b-86f2-6c6817560c50",
+    "slug": "pho-kiem-2548738a",
+    "name": "Phở Kiêm",
+    "englishName": null,
+    "address": "14 Nguyễn Oanh, Phường 7",
+    "mapsUrl": "https://maps.google.com/?cid=9398325291809956659",
+    "summary": "Traditional beef noodle soup spot favored by locals in Go Vap.",
+    "openingHours": {
+      "text": "06:00 AM – 10:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Traditional Vietnamese",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "Gò Vấp",
+      "nearbyCampusText": "Industrial University of HCMC (IUH)",
+      "recommendedDishText": "Special beef brisket and rare beef pho",
+      "pricePerPerson": {
+        "text": "45,000 – 85,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 45000, "max": 85000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Rice noodles, beef bone broth, beef slices",
+      "orderingText": "Counter",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_281d0a78a53544e3acc8cc0de3d5e9d406afc1df8aea50ccaa1b9bd86cbd0591",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775799/newbiehoodzzzz/places/local-bites/plc_2548738a-4750-591b-86f2-6c6817560c50/281d0a78a53544e3acc8cc0de3d5e9d406afc1df8aea50ccaa1b9bd86cbd0591?_a=BAMAROce0",
+        "width": 640,
+        "height": 795,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_7ef0e6155d473fab8235cb1f54dddfb695ef7bf5812abff74d7354a226beb770",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776220/newbiehoodzzzz/places/local-bites/plc_2548738a-4750-591b-86f2-6c6817560c50/7ef0e6155d473fab8235cb1f54dddfb695ef7bf5812abff74d7354a226beb770?_a=BAMAROce0",
+        "width": 624,
+        "height": 702,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_2557da6d-e8ee-54e3-920f-3ce865f6b700",
+    "slug": "banh-xeo-co-ba-2557da6d",
+    "name": "Bánh Xèo Cô Ba",
+    "englishName": null,
+    "address": "10 Nguyễn Thị Nhỏ, Phường 15",
+    "mapsUrl": "https://maps.google.com/?cid=12587268303885808278",
+    "summary": "Crispy Central-style sizzling pancakes served with wild forest herbs.",
+    "openingHours": {
+      "text": "10:00 AM – 09:30 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Central Vietnamese",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 11",
+      "nearbyCampusText": "HCMC University of Technology",
+      "recommendedDishText": "Phan Rang style crispy mini pancakes",
+      "pricePerPerson": {
+        "text": "40,000 – 90,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 40000, "max": 90000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Rice batter, shrimp, squid, bean sprouts, herbs",
+      "orderingText": "Table",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_01edee26d02356cdbd9dfb1730c73be868b583c716f44700eec6957f75b1c365",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775548/newbiehoodzzzz/places/local-bites/plc_2557da6d-e8ee-54e3-920f-3ce865f6b700/01edee26d02356cdbd9dfb1730c73be868b583c716f44700eec6957f75b1c365?_a=BAMAROce0",
+        "width": 640,
+        "height": 740,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_da41eaefb226c2b7bd6c7f0ff9756b75401b1f989ecb40dbd8c8f21c2f88a396",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776698/newbiehoodzzzz/places/local-bites/plc_2557da6d-e8ee-54e3-920f-3ce865f6b700/da41eaefb226c2b7bd6c7f0ff9756b75401b1f989ecb40dbd8c8f21c2f88a396?_a=BAMAROce0",
+        "width": 640,
+        "height": 499,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_27e7a300-c13b-5269-a8f5-c4f5b7a575de",
+    "slug": "pizza-phu-27e7a300",
+    "name": "Pizza Phu",
+    "englishName": null,
+    "address": "120/3 Thích Quảng Đức, Phường 4",
+    "mapsUrl": "https://maps.google.com/?cid=12100730680208704539",
+    "summary": "Small local bakery and pizzeria offering affordable handcrafted pizzas.",
+    "openingHours": {
+      "text": "10:00 AM – 09:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Western Bakery & Pizza",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "Phú Nhuận",
+      "nearbyCampusText": "Hoa Sen University",
+      "recommendedDishText": "Seafood supreme wood-fired pizza",
+      "pricePerPerson": {
+        "text": "70,000 – 150,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 70000, "max": 150000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Pizza dough, mozzarella cheese, shrimp, squid",
+      "orderingText": "Counter / Apps",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_3eb7d3dbe4a1d10718013a09d926ff82c9cb718a0d1623547a2388a57e439a5d",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775892/newbiehoodzzzz/places/local-bites/plc_27e7a300-c13b-5269-a8f5-c4f5b7a575de/3eb7d3dbe4a1d10718013a09d926ff82c9cb718a0d1623547a2388a57e439a5d?_a=BAMAROce0",
+        "width": 640,
+        "height": 701,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_fd7881e0d8acadd3fa1831ff2446b2b6149b790626711f83e8c107c2e85e2761",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776904/newbiehoodzzzz/places/local-bites/plc_27e7a300-c13b-5269-a8f5-c4f5b7a575de/fd7881e0d8acadd3fa1831ff2446b2b6149b790626711f83e8c107c2e85e2761?_a=BAMAROce0",
+        "width": 640,
+        "height": 544,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_29e74349-de9b-5fee-a1ce-5d57260f99db",
+    "slug": "xoi-ba-chieu-29e74349",
+    "name": "Xôi Bà Chiểu",
+    "englishName": null,
+    "address": "318/1 Đường Bùi Hữu Nghĩa, Phường 1",
+    "mapsUrl": "https://maps.google.com/?cid=3098012713985880830",
+    "summary": "Legendary night-time sticky rice stall with rich, savory toppings.",
+    "openingHours": {
+      "text": "03:00 PM – 11:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Vietnamese Sticky Rice",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "Bình Thạnh",
+      "nearbyCampusText": "University of Fine Arts",
+      "recommendedDishText": "Sweet and savory sticky rice with braised pork",
+      "pricePerPerson": {
+        "text": "25,000 – 50,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 25000, "max": 50000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Glutinous rice, char siu, pate, quail eggs",
+      "orderingText": "Counter",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Takeaway"
+    },
+    "photos": [
+      {
+        "id": "img_6da75c9023fc4989e95f7802eb2b778f6a35a0fd3786dfe25aaa7eefb2029107",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776114/newbiehoodzzzz/places/local-bites/plc_29e74349-de9b-5fee-a1ce-5d57260f99db/6da75c9023fc4989e95f7802eb2b778f6a35a0fd3786dfe25aaa7eefb2029107?_a=BAMAROce0",
+        "width": 511,
+        "height": 873,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_ddd7f79399cf3f45345cc20b7a5f25e7ef5856e9f781383f8a1324611ea36179",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776719/newbiehoodzzzz/places/local-bites/plc_29e74349-de9b-5fee-a1ce-5d57260f99db/ddd7f79399cf3f45345cc20b7a5f25e7ef5856e9f781383f8a1324611ea36179?_a=BAMAROce0",
+        "width": 640,
+        "height": 387,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_2b7de2aa-fc12-5a43-bd4b-3c4c3a62e2a6",
+    "slug": "nau-food-2b7de2aa",
+    "name": "Nâu Food",
+    "englishName": null,
+    "address": "143 Tôn Thất Thuyết, Phường 6, Quận 4, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=12880353499643782505",
+    "summary": "Favorite hangout spot for students offering street snacks and drinks.",
+    "openingHours": {
+      "text": "10:00 AM – 11:30 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Street Food & Snacks",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 4",
+      "nearbyCampusText": "Nguyễn Tất Thành Uni",
+      "recommendedDishText": "Mixed rice paper (Bánh tráng trộn)",
+      "pricePerPerson": {
+        "text": "30,000 – 80,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 30000, "max": 80000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Rice paper, quail eggs, dried beef",
+      "orderingText": "Staff",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_08a20033b76d60f07bc3d4115f4e45d94f94b38d8325b34bdf31f1d64eafe83f",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775577/newbiehoodzzzz/places/local-bites/plc_2b7de2aa-fc12-5a43-bd4b-3c4c3a62e2a6/08a20033b76d60f07bc3d4115f4e45d94f94b38d8325b34bdf31f1d64eafe83f?_a=BAMAROce0",
+        "width": 640,
+        "height": 772,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_2e37daadf39e969f4e45405c5172f1d5b7c2d8058960d8687026a6a16a2c68f2",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775818/newbiehoodzzzz/places/local-bites/plc_2b7de2aa-fc12-5a43-bd4b-3c4c3a62e2a6/2e37daadf39e969f4e45405c5172f1d5b7c2d8058960d8687026a6a16a2c68f2?_a=BAMAROce0",
+        "width": 640,
+        "height": 385,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_2c2b0e97-6b5b-5e31-911b-f450736b698b",
+    "slug": "busan-korean-food-2c2b0e97",
+    "name": "Busan Korean Food",
+    "englishName": null,
+    "address": "75 Gò Dầu, Phường Tân Quý, Quận Tân Phú, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=14542880173463497168",
+    "summary": "Student-favorite Korean restaurant chain with affordable comforting dishes.",
+    "openingHours": {
+      "text": "09:30 AM – 09:30 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Korean Casual Dining",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "Tân Phú / Bình Thạnh",
+      "nearbyCampusText": "HUTECH / FTU",
+      "recommendedDishText": "Mixed Tteokbokki Hotpot with cheese",
+      "pricePerPerson": {
+        "text": "60,000 – 150,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 60000, "max": 150000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Rice cakes, noodles, gochujang, pork",
+      "orderingText": "Staff",
+      "paymentText": "Cash, Transfer, E-wallets",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_0f894dd34854cfe0ce28396dfba2d522683f13ea48836a8d4b71d7fda37bcbfc",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775616/newbiehoodzzzz/places/local-bites/plc_2c2b0e97-6b5b-5e31-911b-f450736b698b/0f894dd34854cfe0ce28396dfba2d522683f13ea48836a8d4b71d7fda37bcbfc?_a=BAMAROce0",
+        "width": 619,
+        "height": 825,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_7217c20bdcc80ae41aa5e1e1c53f1208386b3993c992a877621cde9e7a20a9ab",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776138/newbiehoodzzzz/places/local-bites/plc_2c2b0e97-6b5b-5e31-911b-f450736b698b/7217c20bdcc80ae41aa5e1e1c53f1208386b3993c992a877621cde9e7a20a9ab?_a=BAMAROce0",
+        "width": 640,
+        "height": 661,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_2c5f6bf1-8c3a-542e-a934-4c77454b9790",
+    "slug": "goc-hue-an-duong-vuong-2c5f6bf1",
+    "name": "Góc Huế An Dương Vương",
+    "englishName": null,
+    "address": "400 An Dương Vương, Phường 4",
+    "mapsUrl": "https://maps.google.com/?cid=11972409829938480883",
+    "summary": "Cozy eatery serving authentic royal-style Hue dishes.",
+    "openingHours": {
+      "text": "08:00 AM – 09:30 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Central Vietnamese",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 5",
+      "nearbyCampusText": "UMP / HCMUE",
+      "recommendedDishText": "Bánh bèo, bánh nậm, bún bò Huế",
+      "pricePerPerson": {
+        "text": "40,000 – 90,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 40000, "max": 90000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Rice flour, shrimp, pork, broth",
+      "orderingText": "Counter",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_2f4c990addf3748971606a3deb49cdd4f57dcc8e0a5d96379e2b3207e6269c65",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775824/newbiehoodzzzz/places/local-bites/plc_2c5f6bf1-8c3a-542e-a934-4c77454b9790/2f4c990addf3748971606a3deb49cdd4f57dcc8e0a5d96379e2b3207e6269c65?_a=BAMAROce0",
+        "width": 640,
+        "height": 580,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_61875cf342cd795083645134c8185b0e90bfe98595f74154a7c080a180db9a96",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776057/newbiehoodzzzz/places/local-bites/plc_2c5f6bf1-8c3a-542e-a934-4c77454b9790/61875cf342cd795083645134c8185b0e90bfe98595f74154a7c080a180db9a96?_a=BAMAROce0",
+        "width": 640,
+        "height": 562,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_371134b7-195b-50c4-b194-d06cce18189d",
+    "slug": "ha-cao-ngoc-lan-371134b7",
+    "name": "Há cảo Ngọc Lan",
+    "englishName": null,
+    "address": "500 Vĩnh Viễn, Phường 6, Quận 10, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=17624434379721226572",
+    "summary": "Well-known local dumpling stall offering piping-hot Cantonese dumplings.",
+    "openingHours": {
+      "text": "09:00 AM – 10:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Chinese Dim Sum / Snacks",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 10",
+      "nearbyCampusText": "HUFLIT / Vạn Hạnh",
+      "recommendedDishText": "Mixed Steamed Dumpling Platter",
+      "pricePerPerson": {
+        "text": "35,000 – 70,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 35000, "max": 70000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Shrimp, pork, tapioca flour wrapper",
+      "orderingText": "Counter",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_1eb09233390fa33ce446a4e4e8d988b42a73629808cd559ab3f1cfe81063bf13",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775700/newbiehoodzzzz/places/local-bites/plc_371134b7-195b-50c4-b194-d06cce18189d/1eb09233390fa33ce446a4e4e8d988b42a73629808cd559ab3f1cfe81063bf13?_a=BAMAROce0",
+        "width": 640,
+        "height": 767,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_d3066aaeef9ebd803a097131404a47a5705fa5da987854e2a0728c292708e9e3",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776649/newbiehoodzzzz/places/local-bites/plc_371134b7-195b-50c4-b194-d06cce18189d/d3066aaeef9ebd803a097131404a47a5705fa5da987854e2a0728c292708e9e3?_a=BAMAROce0",
+        "width": 495,
+        "height": 532,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_3bfd7d51-6f27-527f-bbc7-a1d8a6215751",
+    "slug": "speit-mac-and-cheese-3bfd7d51",
+    "name": "Speit - Mac and Cheese",
+    "englishName": null,
+    "address": "349/16 Nguyễn Trãi, Phường 7, Quận 5, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=12080161256607576458",
+    "summary": "Niche diner dedicated to creamy, decadent, customizable mac and cheese.",
+    "openingHours": {
+      "text": "11:00 AM – 10:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Western Fast Casual",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 5",
+      "nearbyCampusText": "VNU-HCM Sci",
+      "recommendedDishText": "Bacon & Truffle Mac and Cheese",
+      "pricePerPerson": {
+        "text": "60,000 – 150,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 60000, "max": 150000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Macaroni, cheddar/mozzarella, cream",
+      "orderingText": "Counter / Apps",
+      "paymentText": "Cash, Transfer, E-wallets",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_62233ed55195b28a65abc1404314a73fc116c8e57aaa39252b24da044aae6186",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776116/newbiehoodzzzz/places/local-bites/plc_3bfd7d51-6f27-527f-bbc7-a1d8a6215751/62233ed55195b28a65abc1404314a73fc116c8e57aaa39252b24da044aae6186?_a=BAMAROce0",
+        "width": 640,
+        "height": 387,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_c37b89892dbe162acbae06c8a399bd0ad3c6bd0f9ceba7026e61912f4e9b48b4",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776641/newbiehoodzzzz/places/local-bites/plc_3bfd7d51-6f27-527f-bbc7-a1d8a6215751/c37b89892dbe162acbae06c8a399bd0ad3c6bd0f9ceba7026e61912f4e9b48b4?_a=BAMAROce0",
+        "width": 640,
+        "height": 727,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_48435818-071e-58a0-a54d-0071ec0a8ec4",
+    "slug": "nha-hang-van-hoa-48435818",
+    "name": "Nhà Hàng Văn Hoa",
+    "englishName": null,
+    "address": "68-76 Tản Đà, Phường 11",
+    "mapsUrl": "https://maps.google.com/?cid=719682111078683951",
+    "summary": "Traditional Cantonese restaurant serving exquisite dim sum and roast meats.",
+    "openingHours": {
+      "text": "08:00 AM – 10:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Chinese Cantonese",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 5",
+      "nearbyCampusText": "UMP",
+      "recommendedDishText": "Roasted Peking duck and steamed shrimp dumplings",
+      "pricePerPerson": {
+        "text": "200,000 – 400,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 200000, "max": 400000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Duck, shrimp, pork, wheat wrapper",
+      "orderingText": "Staff",
+      "paymentText": "Cash, Card, Transfer",
+      "serviceModeText": "Dine-in"
+    },
+    "photos": [
+      {
+        "id": "img_187e11753ce8593c825b8707fd678fc5fb4fcf4b231c61adeff47305a80790f2",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775672/newbiehoodzzzz/places/local-bites/plc_48435818-071e-58a0-a54d-0071ec0a8ec4/187e11753ce8593c825b8707fd678fc5fb4fcf4b231c61adeff47305a80790f2?_a=BAMAROce0",
+        "width": 640,
+        "height": 447,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_2b56a7abd9ffb2ec68ed72344c35896ead3ef6f8dbf11d5524aee6388d968946",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775810/newbiehoodzzzz/places/local-bites/plc_48435818-071e-58a0-a54d-0071ec0a8ec4/2b56a7abd9ffb2ec68ed72344c35896ead3ef6f8dbf11d5524aee6388d968946?_a=BAMAROce0",
+        "width": 640,
+        "height": 765,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_4971ed84-a27d-5696-a732-106b35ad2cac",
+    "slug": "be-bot-chien-4971ed84",
+    "name": "Bé Bột Chiên",
+    "englishName": null,
+    "address": "132 Đường số 10, Phường Bình Trị Đông B (khu Bình Phú), Quận Bình Tân, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=8384677405167835625",
+    "summary": "Local street vendor serving crispy pan-fried rice cakes with farm eggs.",
+    "openingHours": {
+      "text": "10:00 AM – 11:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Southern Street Food",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 6",
+      "nearbyCampusText": "UEH (Campus)",
+      "recommendedDishText": "Fried rice cake with double eggs",
+      "pricePerPerson": {
+        "text": "30,000 – 60,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 30000, "max": 60000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Rice flour cake, eggs, scallions, papaya",
+      "orderingText": "Vendor",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_1203da18e889d6bcbb03c8f093fb9f9970cc18c9185f42d785c809fe3eeb0d0a",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775628/newbiehoodzzzz/places/local-bites/plc_4971ed84-a27d-5696-a732-106b35ad2cac/1203da18e889d6bcbb03c8f093fb9f9970cc18c9185f42d785c809fe3eeb0d0a?_a=BAMAROce0",
+        "width": 640,
+        "height": 640,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_b931bd4cac43c3788dec306bed683df89d35d1be6a333f8aa710e0a2222d1782",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776543/newbiehoodzzzz/places/local-bites/plc_4971ed84-a27d-5696-a732-106b35ad2cac/b931bd4cac43c3788dec306bed683df89d35d1be6a333f8aa710e0a2222d1782?_a=BAMAROce0",
+        "width": 640,
+        "height": 563,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_4f81e4c6-f84d-5cf0-9e77-bf164b29c390",
+    "slug": "mi-cay-asan-4f81e4c6",
+    "name": "Mì cay Asan",
+    "englishName": null,
+    "address": "288 Tô Hiến Thành, Phường 13, Quận 10, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=15480721264934674856",
+    "summary": "Pioneering chain of multi-level spicy Korean ramen in the city.",
+    "openingHours": {
+      "text": "09:00 AM – 10:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Korean-fusion Spicy Noodles",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 5 / District 10",
+      "nearbyCampusText": "VNU-HCM Sci / HUFLIT",
+      "recommendedDishText": "Level 3 or 5 Beef/Seafood Spicy Ramen",
+      "pricePerPerson": {
+        "text": "50,000 – 120,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 50000, "max": 120000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Ramen, kimchi, beef/seafood, chili",
+      "orderingText": "Table",
+      "paymentText": "Cash, E-wallets, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_993c66a34688add5253a21f188b560f89c4dfb28825a1d198cee77dc5a150c70",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776367/newbiehoodzzzz/places/local-bites/plc_4f81e4c6-f84d-5cf0-9e77-bf164b29c390/993c66a34688add5253a21f188b560f89c4dfb28825a1d198cee77dc5a150c70?_a=BAMAROce0",
+        "width": 640,
+        "height": 837,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_d993bc728af67b7261f73ac4baa764e604af02b45b858923db90ec5b47a9b752",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776694/newbiehoodzzzz/places/local-bites/plc_4f81e4c6-f84d-5cf0-9e77-bf164b29c390/d993bc728af67b7261f73ac4baa764e604af02b45b858923db90ec5b47a9b752?_a=BAMAROce0",
+        "width": 640,
+        "height": 696,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_50cd5eb1-cd89-56d8-b1c9-e2280daa6d1a",
+    "slug": "pha-lau-bo-co-thao-50cd5eb1",
+    "name": "Phá Lấu Bò Cô Thảo",
+    "englishName": null,
+    "address": "243/29G Tôn Thất Thuyết, Phường 3",
+    "mapsUrl": "https://maps.google.com/?cid=2641101880004940589",
+    "summary": "Legendary beef offal stew spot in District 4.",
+    "openingHours": {
+      "text": "01:30 PM – 09:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Southern Street Food",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 4",
+      "nearbyCampusText": "University of Nguyễn Tất Thành",
+      "recommendedDishText": "Phá lấu with bread and tamarind fish sauce",
+      "pricePerPerson": {
+        "text": "30,000 – 60,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 30000, "max": 60000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Beef offal, coconut milk, five-spice, bread",
+      "orderingText": "Counter",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_3d6d1f1408ccb85ecc8993e31345314f0178d4a84198b5510c302cc4b7864f5d",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775888/newbiehoodzzzz/places/local-bites/plc_50cd5eb1-cd89-56d8-b1c9-e2280daa6d1a/3d6d1f1408ccb85ecc8993e31345314f0178d4a84198b5510c302cc4b7864f5d?_a=BAMAROce0",
+        "width": 640,
+        "height": 480,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_d4e4ac65d419694bd219af0a004f8018cd2c357119fb464820b43f0b25a1c4ae",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776662/newbiehoodzzzz/places/local-bites/plc_50cd5eb1-cd89-56d8-b1c9-e2280daa6d1a/d4e4ac65d419694bd219af0a004f8018cd2c357119fb464820b43f0b25a1c4ae?_a=BAMAROce0",
+        "width": 640,
+        "height": 648,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_5480c775-b6c6-5ad9-849e-4d01f600bfc7",
+    "slug": "banh-duc-nong-phan-dang-luu-5480c775",
+    "name": "Bánh Đúc Nóng Phan Đăng Lưu",
+    "englishName": null,
+    "address": "116/2/3 Phan Đăng Lưu, Phường 3",
+    "mapsUrl": "https://maps.google.com/?cid=9408994787923888221",
+    "summary": "Iconic pavement stall serving hot, savory rice flour cakes.",
+    "openingHours": {
+      "text": "02:00 PM – 05:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Traditional Snack",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "Phú Nhuận",
+      "nearbyCampusText": "Hoa Sen University",
+      "recommendedDishText": "Hot savory rice cake with minced pork",
+      "pricePerPerson": {
+        "text": "20,000 – 40,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 20000, "max": 40000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Rice flour, minced pork, wood ear mushrooms",
+      "orderingText": "Counter",
+      "paymentText": "Cash",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_b77aaaa4d5ac3cfe0b71092800dd0ad228e08acfaad16fca9d04173bedb06fd1",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776537/newbiehoodzzzz/places/local-bites/plc_5480c775-b6c6-5ad9-849e-4d01f600bfc7/b77aaaa4d5ac3cfe0b71092800dd0ad228e08acfaad16fca9d04173bedb06fd1?_a=BAMAROce0",
+        "width": 640,
+        "height": 713,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_b7b467323fdeb30ccc58cd0e3b456b2c94f889812c61730735e8d2a495e12898",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776538/newbiehoodzzzz/places/local-bites/plc_5480c775-b6c6-5ad9-849e-4d01f600bfc7/b7b467323fdeb30ccc58cd0e3b456b2c94f889812c61730735e8d2a495e12898?_a=BAMAROce0",
+        "width": 640,
+        "height": 719,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_55aee8a0-672e-597c-9db1-03bb6119e5fa",
+    "slug": "mi-a-ty-55aee8a0",
+    "name": "Mì A Tỷ",
+    "englishName": null,
+    "address": "45 Võ Văn Tần, Phường 6",
+    "mapsUrl": "https://maps.google.com/?cid=15129035551154780677",
+    "summary": "Modern noodle shop offering creative fusion noodle variations.",
+    "openingHours": {
+      "text": "09:30 AM – 09:30 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Asian Fusion Noodles",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 3",
+      "nearbyCampusText": "HUFLIT / UEH",
+      "recommendedDishText": "Signature mixed dry noodles with special sauce",
+      "pricePerPerson": {
+        "text": "50,000 – 100,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 50000, "max": 100000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Noodles, minced pork, secret sauce, soft-boiled egg",
+      "orderingText": "Table",
+      "paymentText": "Cash, Card, E-wallets",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_0294db39787b214a6dabde53005125ee8ae31be7329b8b7d53951ef9bffb6791",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775552/newbiehoodzzzz/places/local-bites/plc_55aee8a0-672e-597c-9db1-03bb6119e5fa/0294db39787b214a6dabde53005125ee8ae31be7329b8b7d53951ef9bffb6791?_a=BAMAROce0",
+        "width": 640,
+        "height": 643,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_104a8fc3a38a12546f110c5a2a546ee3db19af98a276c5df406c11a764eee660",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775622/newbiehoodzzzz/places/local-bites/plc_55aee8a0-672e-597c-9db1-03bb6119e5fa/104a8fc3a38a12546f110c5a2a546ee3db19af98a276c5df406c11a764eee660?_a=BAMAROce0",
+        "width": 640,
+        "height": 767,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_68356fd3-5b8e-5d13-b0fc-e81e49bb7185",
+    "slug": "yoko-sushi-68356fd3",
+    "name": "Yoko Sushi",
+    "englishName": null,
+    "address": "108 Pasteur, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=7122291680205031781",
+    "summary": "Japanese restaurant offering fresh nigiri, sashimi, maki, and skewers.",
+    "openingHours": {
+      "text": "11:00 AM – 10:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Japanese Sushi & Izakaya",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "Bình Tân / District 1",
+      "nearbyCampusText": "Med & Pharm / UEH",
+      "recommendedDishText": "Salmon Sashimi and Dragon Roll",
+      "pricePerPerson": {
+        "text": "120,000 – 300,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 120000, "max": 300000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Salmon, tuna, sushi rice, nori, seafood",
+      "orderingText": "Staff",
+      "paymentText": "Cash, Card, E-wallets",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_bd8487495eac557616a7e6623e0026a6754527a020a4a138f8fc5c7272be62cd",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776558/newbiehoodzzzz/places/local-bites/plc_68356fd3-5b8e-5d13-b0fc-e81e49bb7185/bd8487495eac557616a7e6623e0026a6754527a020a4a138f8fc5c7272be62cd?_a=BAMAROce0",
+        "width": 640,
+        "height": 410,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_e68dce39d162dd6ed9715bee0b425a2157530e8b763b8bd5644cba7d9b7723db",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776769/newbiehoodzzzz/places/local-bites/plc_68356fd3-5b8e-5d13-b0fc-e81e49bb7185/e68dce39d162dd6ed9715bee0b425a2157530e8b763b8bd5644cba7d9b7723db?_a=BAMAROce0",
+        "width": 640,
+        "height": 574,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_6bc53ffe-97a7-5ae3-90f8-b2d8b68f32fa",
+    "slug": "sushi-hokkaido-sachi-hung-vuong-6bc53ffe",
+    "name": "Sushi Hokkaido Sachi Hùng Vương",
+    "englishName": null,
+    "address": "Ground Floor, Hùng Vương Plaza, 126 Hồng Bàng",
+    "mapsUrl": "https://maps.google.com/?cid=15254442116545171570",
+    "summary": "Premium Japanese restaurant chain known for air-freighted fresh seafood from Hokkaido.",
+    "openingHours": {
+      "text": "10:00 AM – 10:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Japanese Sushi",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 5",
+      "nearbyCampusText": "UMP",
+      "recommendedDishText": "Assorted salmon and tuna sashimi",
+      "pricePerPerson": {
+        "text": "300,000 – 600,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 300000, "max": 600000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Fresh salmon, tuna, sea urchin, rice",
+      "orderingText": "Staff",
+      "paymentText": "Cash, Card, E-wallets",
+      "serviceModeText": "Dine-in"
+    },
+    "photos": [
+      {
+        "id": "img_787933873e774d6dbea298d4892216af7c06e333d14032be886f8ea94a68f481",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776178/newbiehoodzzzz/places/local-bites/plc_6bc53ffe-97a7-5ae3-90f8-b2d8b68f32fa/787933873e774d6dbea298d4892216af7c06e333d14032be886f8ea94a68f481?_a=BAMAROce0",
+        "width": 640,
+        "height": 332,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_ce3d2539e5a6ec3ff05d42fcca0dafd64badef2ef8deb8f89477cee4f35856da",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776624/newbiehoodzzzz/places/local-bites/plc_6bc53ffe-97a7-5ae3-90f8-b2d8b68f32fa/ce3d2539e5a6ec3ff05d42fcca0dafd64badef2ef8deb8f89477cee4f35856da?_a=BAMAROce0",
+        "width": 640,
+        "height": 812,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_6eb3dfd9-fc74-5ad8-8740-f1c5ca3e78cf",
+    "slug": "banh-mi-huynh-hoa-6eb3dfd9",
+    "name": "Bánh Mì Huynh Hoa",
+    "englishName": null,
+    "address": "26 Lê Thị Riêng, Phường Bến Thành",
+    "mapsUrl": "https://maps.google.com/?cid=7665333571196675420",
+    "summary": "World-famous banh mi shop known for its extraordinarily rich cold cuts and pâté.",
+    "openingHours": {
+      "text": "06:00 AM – 10:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Vietnamese Banh Mi",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 1",
+      "nearbyCampusText": "UEH",
+      "recommendedDishText": "Special mixed cold cut Banh Mi",
+      "pricePerPerson": {
+        "text": "50,000 – 70,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 50000, "max": 70000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Baguette, assorted ham, pâté, butter, pork floss",
+      "orderingText": "Counter",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Takeaway"
+    },
+    "photos": [
+      {
+        "id": "img_1dd003d1009d5c9bd078f7a2d4cf7ec749edc00951b94c7e73671edcde448f42",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775698/newbiehoodzzzz/places/local-bites/plc_6eb3dfd9-fc74-5ad8-8740-f1c5ca3e78cf/1dd003d1009d5c9bd078f7a2d4cf7ec749edc00951b94c7e73671edcde448f42?_a=BAMAROce0",
+        "width": 622,
+        "height": 676,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_f724acbd8a93efed999528393bf8e1a8dae6bc7518ae3ad735d8fb95c540322c",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776862/newbiehoodzzzz/places/local-bites/plc_6eb3dfd9-fc74-5ad8-8740-f1c5ca3e78cf/f724acbd8a93efed999528393bf8e1a8dae6bc7518ae3ad735d8fb95c540322c?_a=BAMAROce0",
+        "width": 640,
+        "height": 833,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_6f88f48d-62d8-57b2-a9de-8cb83bb586d7",
+    "slug": "vua-mi-mi-bo-dai-loan-6f88f48d",
+    "name": "Vua Mì - Mì bò Đài Loan",
+    "englishName": null,
+    "address": "190 Cao Thắng, Phường 12, Quận 10, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=12148078928743679306",
+    "summary": "Franchise chain specializing in rich Taiwanese braised beef noodle soup.",
+    "openingHours": {
+      "text": "09:00 AM – 10:30 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Taiwanese Noodle House",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 3 / Bình Thạnh / Gò Vấp",
+      "nearbyCampusText": "HUFLIT / HUTECH / VLU",
+      "recommendedDishText": "Signature Braised Beef Shank Noodle Soup",
+      "pricePerPerson": {
+        "text": "70,000 – 150,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 70000, "max": 150000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Wheat noodles, beef shank, star anise",
+      "orderingText": "Staff",
+      "paymentText": "Cash, Card, E-wallets",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_9ac237551a1b383e64c875301d0766495c050281bb3c8b9eddc6f1c7e6e97006",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776373/newbiehoodzzzz/places/local-bites/plc_6f88f48d-62d8-57b2-a9de-8cb83bb586d7/9ac237551a1b383e64c875301d0766495c050281bb3c8b9eddc6f1c7e6e97006?_a=BAMAROce0",
+        "width": 640,
+        "height": 798,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_c845061ed406603c526bd253a54b537e2b3026d0bea2af11a18408e89543edb5",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776601/newbiehoodzzzz/places/local-bites/plc_6f88f48d-62d8-57b2-a9de-8cb83bb586d7/c845061ed406603c526bd253a54b537e2b3026d0bea2af11a18408e89543edb5?_a=BAMAROce0",
+        "width": 640,
+        "height": 584,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_705e01c8-2aa8-54e8-9260-10b8941613e3",
+    "slug": "pacho-pocha-express-705e01c8",
+    "name": "Pacho Pocha Express",
+    "englishName": null,
+    "address": "220/58 Lê Văn Sỹ, Phường 14, Quận 3, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=17639675355858111917",
+    "summary": "Vibrant Korean snack bar chain offering quick, delicious street food.",
+    "openingHours": {
+      "text": "11:30 AM – 11:30 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Korean Street Food",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 3",
+      "nearbyCampusText": "UEL",
+      "recommendedDishText": "Rabokki (Ramen with rice cakes)",
+      "pricePerPerson": {
+        "text": "50,000 – 150,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 50000, "max": 150000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Rice cakes, ramen, gochujang, fish cakes",
+      "orderingText": "Counter / QR",
+      "paymentText": "Cash, E-wallets, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_4613ffb75fa05998fe00db682e0b87e5013fb0bf682acc5a09a5ec6579a875c7",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775919/newbiehoodzzzz/places/local-bites/plc_705e01c8-2aa8-54e8-9260-10b8941613e3/4613ffb75fa05998fe00db682e0b87e5013fb0bf682acc5a09a5ec6579a875c7?_a=BAMAROce0",
+        "width": 640,
+        "height": 444,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_ad23bb210b00dbf4bfcdb6616bc02335edb453205c7cdcf530956eb62af14e28",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776485/newbiehoodzzzz/places/local-bites/plc_705e01c8-2aa8-54e8-9260-10b8941613e3/ad23bb210b00dbf4bfcdb6616bc02335edb453205c7cdcf530956eb62af14e28?_a=BAMAROce0",
+        "width": 640,
+        "height": 446,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_70f8909b-4a05-5e7a-874a-b712caa6ed56",
+    "slug": "clover-korean-house-food-70f8909b",
+    "name": "Clover Korean House Food",
+    "englishName": null,
+    "address": "4C Võ Thị Sáu, Phường Tân Định, Quận 1, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=17412510963223378750",
+    "summary": "Cozy house-style restaurant serving comforting home-cooked Korean food.",
+    "openingHours": {
+      "text": "08:00 AM – 11:30 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Korean Homestyle Food",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 1",
+      "nearbyCampusText": "Architecture Uni",
+      "recommendedDishText": "Kimchi Jjigae with rice",
+      "pricePerPerson": {
+        "text": "60,000 – 150,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 60000, "max": 150000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Kimchi, pork, tofu, rice cakes",
+      "orderingText": "Counter / Table",
+      "paymentText": "Cash, Transfer, E-wallets",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_74b1c0f91edbb1166049752207289a5612dc8919fe68785ca1708e468b114e09",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776156/newbiehoodzzzz/places/local-bites/plc_70f8909b-4a05-5e7a-874a-b712caa6ed56/74b1c0f91edbb1166049752207289a5612dc8919fe68785ca1708e468b114e09?_a=BAMAROce0",
+        "width": 640,
+        "height": 455,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_e67fe12b7dcf6dcd430178bfd1b03192dd22909f4ca3aa3678fe4c6ee612c9d1",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776768/newbiehoodzzzz/places/local-bites/plc_70f8909b-4a05-5e7a-874a-b712caa6ed56/e67fe12b7dcf6dcd430178bfd1b03192dd22909f4ca3aa3678fe4c6ee612c9d1?_a=BAMAROce0",
+        "width": 640,
+        "height": 476,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_728aa315-71ba-5902-b3a1-15b66c439ff7",
+    "slug": "bun-bo-5t-728aa315",
+    "name": "Bún Bò 5T",
+    "englishName": null,
+    "address": "70 Nguyễn Trường Tộ, Phường 12, Quận 4, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=9377061766990936727",
+    "summary": "Highly rated local spot famous for authentic, richly spiced Hue-style beef noodles.",
+    "openingHours": {
+      "text": "06:00 AM – 09:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Central Vietnamese Noodles",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 4",
+      "nearbyCampusText": "Nguyễn Tất Thành Uni",
+      "recommendedDishText": "Special Bún Bò with shank and crab cake",
+      "pricePerPerson": {
+        "text": "40,000 – 70,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 40000, "max": 70000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Rice vermicelli, beef shank, lemongrass",
+      "orderingText": "Counter",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_0899c8284484c18b7de26b08fb984bd584ca22f5a0d3018aa7a259f3c59fea18",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775575/newbiehoodzzzz/places/local-bites/plc_728aa315-71ba-5902-b3a1-15b66c439ff7/0899c8284484c18b7de26b08fb984bd584ca22f5a0d3018aa7a259f3c59fea18?_a=BAMAROce0",
+        "width": 564,
+        "height": 813,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_d38dedda893631991bbd19f67e5d4407e98f1d9aef217a2c60c39f47a7fdbc46",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776652/newbiehoodzzzz/places/local-bites/plc_728aa315-71ba-5902-b3a1-15b66c439ff7/d38dedda893631991bbd19f67e5d4407e98f1d9aef217a2c60c39f47a7fdbc46?_a=BAMAROce0",
+        "width": 513,
+        "height": 601,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_72bbfe28-4b84-5694-97eb-f9fa41de33cc",
+    "slug": "kokoria-chicken-and-cheese-72bbfe28",
+    "name": "Kokoria - Chicken and Cheese",
+    "englishName": null,
+    "address": "106 Lê Văn Duyệt, Phường 1, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=6067950513580901697",
+    "summary": "Trendy Korean restaurant chain loved for cheesy chicken and pleasant interior.",
+    "openingHours": {
+      "text": "10:30 AM – 10:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Korean Fast Food & Fusion",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "Bình Thạnh",
+      "nearbyCampusText": "HUTECH / Fine Arts",
+      "recommendedDishText": "Fried chicken with melted mozzarella",
+      "pricePerPerson": {
+        "text": "70,000 – 180,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 70000, "max": 180000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Chicken, mozzarella, gochujang",
+      "orderingText": "Staff",
+      "paymentText": "Cash, Transfer, E-wallets",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_0fa00c3478b55abc90ec5188ca421de95f5c00b18490e73f79bd6deaa91b2491",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775616/newbiehoodzzzz/places/local-bites/plc_72bbfe28-4b84-5694-97eb-f9fa41de33cc/0fa00c3478b55abc90ec5188ca421de95f5c00b18490e73f79bd6deaa91b2491?_a=BAMAROce0",
+        "width": 640,
+        "height": 797,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_f3a8dae863cfa1247bd51edaaaa67179cd22f8e207f66a66ed1a236e104adb6d",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776836/newbiehoodzzzz/places/local-bites/plc_72bbfe28-4b84-5694-97eb-f9fa41de33cc/f3a8dae863cfa1247bd51edaaaa67179cd22f8e207f66a66ed1a236e104adb6d?_a=BAMAROce0",
+        "width": 640,
+        "height": 726,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_74274980-8225-5c17-8450-6cda233ad05f",
+    "slug": "tuong-by-double-t-74274980",
+    "name": "Tường by double t",
+    "englishName": null,
+    "address": "343/3 Tô Hiến Thành, Phường 12, Quận 10, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=12750150317996739476",
+    "summary": "Hip burger joint specializing in juicy, crispy-edged smash burgers.",
+    "openingHours": {
+      "text": "03:00 PM – 09:30 PM (Mon-Fri)\n\n02:00 PM – 09:30 PM (Sat-Sun)",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Western Fast Food / Burgers",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 10",
+      "nearbyCampusText": "HCMUT",
+      "recommendedDishText": "Double Smash Burger with melted cheddar",
+      "pricePerPerson": {
+        "text": "70,000 – 160,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 70000, "max": 160000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Beef patty, brioche bun, cheddar, sauce",
+      "orderingText": "Counter",
+      "paymentText": "Cash, Transfer, E-wallets",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_2c9049b615b84957abc9513074ce6f4e43b9ef8b7b699f0ff4b6ef03af5bfd48",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775812/newbiehoodzzzz/places/local-bites/plc_74274980-8225-5c17-8450-6cda233ad05f/2c9049b615b84957abc9513074ce6f4e43b9ef8b7b699f0ff4b6ef03af5bfd48?_a=BAMAROce0",
+        "width": 640,
+        "height": 558,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_a2455c4637a2af9774c83c62e68a7b6ea5942792a4ce0f60f7a830e9c4661117",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776429/newbiehoodzzzz/places/local-bites/plc_74274980-8225-5c17-8450-6cda233ad05f/a2455c4637a2af9774c83c62e68a7b6ea5942792a4ce0f60f7a830e9c4661117?_a=BAMAROce0",
+        "width": 640,
+        "height": 790,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_7bd90e07-ad39-51ad-b806-dc5827ae186c",
+    "slug": "com-tam-ba-muoi-7bd90e07",
+    "name": "Cơm Tấm Bà Mười",
+    "englishName": null,
+    "address": "294/35 Xô Viết Nghệ Tĩnh, Phường 21",
+    "mapsUrl": "https://maps.google.com/?cid=17958067819121230319",
+    "summary": "Late-night broken rice stall famous among night owls.",
+    "openingHours": {
+      "text": "05:00 PM – 11:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Southern Vietnamese Rice",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "Bình Thạnh",
+      "nearbyCampusText": "University of Fine Arts / HUTECH",
+      "recommendedDishText": "Broken rice with grilled pork rib",
+      "pricePerPerson": {
+        "text": "35,000 – 70,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 35000, "max": 70000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Broken rice, grilled pork, scallion oil",
+      "orderingText": "Counter",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_8b4430ab4574a11062935a2a2e41a5affeb813f8b16064f63e428308362a8cd2",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776277/newbiehoodzzzz/places/local-bites/plc_7bd90e07-ad39-51ad-b806-dc5827ae186c/8b4430ab4574a11062935a2a2e41a5affeb813f8b16064f63e428308362a8cd2?_a=BAMAROce0",
+        "width": 640,
+        "height": 746,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_b628293086c45bbcffe58bff2c9a64b4e4e2696e1b87fe51aef4f42b6633b764",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776532/newbiehoodzzzz/places/local-bites/plc_7bd90e07-ad39-51ad-b806-dc5827ae186c/b628293086c45bbcffe58bff2c9a64b4e4e2696e1b87fe51aef4f42b6633b764?_a=BAMAROce0",
+        "width": 640,
+        "height": 626,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_f7da168c14159fcd9c3eb73975d07183be18c4ad15b52e038fbdf2997751949a",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776872/newbiehoodzzzz/places/local-bites/plc_7bd90e07-ad39-51ad-b806-dc5827ae186c/f7da168c14159fcd9c3eb73975d07183be18c4ad15b52e038fbdf2997751949a?_a=BAMAROce0",
+        "width": 538,
+        "height": 646,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_7c0afcb8-bb74-5dec-9da5-6e97600a7a27",
+    "slug": "oc-dieu-bui-vien-7c0afcb8",
+    "name": "Ốc Diệu Bùi Viện",
+    "englishName": null,
+    "address": "26/50/52 Đỗ Quang Đẩu, Phường Phạm Ngũ Lão",
+    "mapsUrl": "https://maps.google.com/?cid=10088311405790411360",
+    "summary": "Lively hidden alley snail spot near the backpacker district.",
+    "openingHours": {
+      "text": "04:00 PM – 11:30 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Vietnamese Seafood",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 1",
+      "nearbyCampusText": "UEH",
+      "recommendedDishText": "Grilled scallops with scallion oil",
+      "pricePerPerson": {
+        "text": "60,000 – 150,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 60000, "max": 150000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Snails, clams, butter, garlic, chili",
+      "orderingText": "Staff",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_6fe787c04df451feb80f77c7fb3447332de013ffaeedb8f1f5294e7a948a3e72",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776123/newbiehoodzzzz/places/local-bites/plc_7c0afcb8-bb74-5dec-9da5-6e97600a7a27/6fe787c04df451feb80f77c7fb3447332de013ffaeedb8f1f5294e7a948a3e72?_a=BAMAROce0",
+        "width": 640,
+        "height": 634,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_86d08d0aa6a09ddcf1deb247f7f0e8152bcf864c469ee7071a0240095d49449a",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776257/newbiehoodzzzz/places/local-bites/plc_7c0afcb8-bb74-5dec-9da5-6e97600a7a27/86d08d0aa6a09ddcf1deb247f7f0e8152bcf864c469ee7071a0240095d49449a?_a=BAMAROce0",
+        "width": 640,
+        "height": 439,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_92a8c5e8-2615-549c-ab92-4e5179abfd47",
+    "slug": "pho-thanh-92a8c5e8",
+    "name": "Phở Thanh",
+    "englishName": null,
+    "address": "14 Nguyễn Thiện Thuật, Phường 2",
+    "mapsUrl": "https://maps.google.com/?cid=7570440280677029047",
+    "summary": "Traditional beef pho spot favored for clear, fragrant broth and tender beef.",
+    "openingHours": {
+      "text": "06:00 AM – 11:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Traditional Vietnamese",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 3",
+      "nearbyCampusText": "UEH",
+      "recommendedDishText": "Special rare beef and brisket pho",
+      "pricePerPerson": {
+        "text": "50,000 – 90,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 50000, "max": 90000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Rice noodles, beef bones, beef slices, herbs",
+      "orderingText": "Counter",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_42656a4d47451f903e17e3e5f56edfc2853208134e8834280020a6d5dd4d14a4",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775906/newbiehoodzzzz/places/local-bites/plc_92a8c5e8-2615-549c-ab92-4e5179abfd47/42656a4d47451f903e17e3e5f56edfc2853208134e8834280020a6d5dd4d14a4?_a=BAMAROce0",
+        "width": 640,
+        "height": 403,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_d0b75b381a157f380ed360e3322156e1a5f7d88f6b7b3819f1783894965ba569",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776642/newbiehoodzzzz/places/local-bites/plc_92a8c5e8-2615-549c-ab92-4e5179abfd47/d0b75b381a157f380ed360e3322156e1a5f7d88f6b7b3819f1783894965ba569?_a=BAMAROce0",
+        "width": 609,
+        "height": 598,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_948cedc9-e3c8-5601-859b-badfb75dadba",
+    "slug": "pho-mien-ga-ky-dong-948cedc9",
+    "name": "Phở Miến gà Kỳ Đồng",
+    "englishName": null,
+    "address": "14/5Bis Đ. Kỳ Đồng, Nhiêu Lộc, ",
+    "mapsUrl": "https://maps.app.goo.gl/zgXkdmnsCQ4sr9ea6",
+    "summary": "Traditional beef noodle soup spot favored by locals in District 3",
+    "openingHours": {
+      "text": "5:30 AM - 22:30 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Traditional Vietnamese",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 3",
+      "nearbyCampusText": "HCMUE/ SGU",
+      "recommendedDishText": "Special beef brisket and rare beef pho",
+      "pricePerPerson": {
+        "text": "50,000 – 110,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 50000, "max": 110000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Special beef brisket and rare beef pho",
+      "orderingText": "Table",
+      "paymentText": "Cash, Transfer, E-wallets",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_32c1765b860118436eb46e21ff241b7e6e2ec99483b4a3a872e8fa1b7d54c50b",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775840/newbiehoodzzzz/places/local-bites/plc_948cedc9-e3c8-5601-859b-badfb75dadba/32c1765b860118436eb46e21ff241b7e6e2ec99483b4a3a872e8fa1b7d54c50b?_a=BAMAROce0",
+        "width": 640,
+        "height": 397,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_36cef2eaa93611a17164eb9be6e5a61cfee0fb154fdc9ee38e159886a0003da4",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775857/newbiehoodzzzz/places/local-bites/plc_948cedc9-e3c8-5601-859b-badfb75dadba/36cef2eaa93611a17164eb9be6e5a61cfee0fb154fdc9ee38e159886a0003da4?_a=BAMAROce0",
+        "width": 640,
+        "height": 729,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_94bdf7fb-37db-5741-b2a0-9b022c1e1343",
+    "slug": "wrap-run",
+    "name": "Wrap & Run",
+    "englishName": null,
+    "address": "173/4 Nguyễn Thị Minh Khai, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=15593476770146871903",
+    "summary": "Cozy spot offering flavorful Vietnamese rolls and wholesome dishes.",
+    "openingHours": {
+      "text": "11:00 AM – 10:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Asian / Rolls & Wraps",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 1",
+      "nearbyCampusText": "UEH",
+      "recommendedDishText": "Signature wrapped rolls with special dipping sauce",
+      "pricePerPerson": {
+        "text": "50,000 – 150,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 50000, "max": 150000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Rice paper, pork, shrimp, herbs",
+      "orderingText": "Counter / Apps",
+      "paymentText": "Cash, Card, E-wallets",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_78b5468f2a0bc6856293294a48ac9b637c7cae353996bf87aeba8e3139ed48a9",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776225/newbiehoodzzzz/places/local-bites/plc_94bdf7fb-37db-5741-b2a0-9b022c1e1343/78b5468f2a0bc6856293294a48ac9b637c7cae353996bf87aeba8e3139ed48a9?_a=BAMAROce0",
+        "width": 631,
+        "height": 699,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_7d99a0f17146139a2dcfd8d9b612a55021cc0139386c5acae8308c9d42001613",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776209/newbiehoodzzzz/places/local-bites/plc_94bdf7fb-37db-5741-b2a0-9b022c1e1343/7d99a0f17146139a2dcfd8d9b612a55021cc0139386c5acae8308c9d42001613?_a=BAMAROce0",
+        "width": 640,
+        "height": 607,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_cacef1453da04cf8a93e71b6a18e056a02b68ba20a91a4e25737b7ac73d6dd39",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776612/newbiehoodzzzz/places/local-bites/plc_94bdf7fb-37db-5741-b2a0-9b022c1e1343/cacef1453da04cf8a93e71b6a18e056a02b68ba20a91a4e25737b7ac73d6dd39?_a=BAMAROce0",
+        "width": 640,
+        "height": 401,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_99ecca27-dc9e-5181-934b-6ab94bc057b9",
+    "slug": "lee-ma-ma-99ecca27",
+    "name": "Lee Ma Ma",
+    "englishName": null,
+    "address": "15 Nguyễn Gia Trí, Phường 25",
+    "mapsUrl": "https://maps.google.com/?cid=17695217539899309873",
+    "summary": "Cozy student-oriented diner serving tasty Korean street foods.",
+    "openingHours": {
+      "text": "10:00 AM – 09:30 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Korean Fast Food",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "Bình Thạnh",
+      "nearbyCampusText": "HUTECH / FTU",
+      "recommendedDishText": "Jajangmyeon (Black bean noodles)",
+      "pricePerPerson": {
+        "text": "50,000 – 110,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 50000, "max": 110000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Wheat noodles, black bean paste, pork, onions",
+      "orderingText": "Table",
+      "paymentText": "Cash, Transfer, E-wallets",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_17b4bd43356aa63bf732957202557f3da59d069ec6e28ec20524f552bd3f5c3c",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775665/newbiehoodzzzz/places/local-bites/plc_99ecca27-dc9e-5181-934b-6ab94bc057b9/17b4bd43356aa63bf732957202557f3da59d069ec6e28ec20524f552bd3f5c3c?_a=BAMAROce0",
+        "width": 640,
+        "height": 701,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_e70c5e8e7f01066ca3025b42c9947df11d9525719432187115745833120d7a89",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776843/newbiehoodzzzz/places/local-bites/plc_99ecca27-dc9e-5181-934b-6ab94bc057b9/e70c5e8e7f01066ca3025b42c9947df11d9525719432187115745833120d7a89?_a=BAMAROce0",
+        "width": 625,
+        "height": 703,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_a4bc7dee-c0e2-56ee-8782-90d8cba6139c",
+    "slug": "osaka-ramen-a4bc7dee",
+    "name": "Osaka Ramen",
+    "englishName": null,
+    "address": "53 Nguyễn Thời Trung, Phường 6, Quận 5, Thành phố Hồ Chí Minh (và chi nhánh E008 Đường số 6, Phú Mỹ Hưng, Quận 7)",
+    "mapsUrl": "https://maps.google.com/?cid=1783914606527198392",
+    "summary": "Japanese restaurant serving warm noodle soups and sizzling rice bowls.",
+    "openingHours": {
+      "text": "10:00 AM – 09:30 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Japanese Ramen",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 7 / District 5",
+      "nearbyCampusText": "RMIT / Ton Duc Thang",
+      "recommendedDishText": "Tonkotsu Ramen",
+      "pricePerPerson": {
+        "text": "70,000 – 180,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 70000, "max": 180000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Ramen noodles, pork bone broth, egg",
+      "orderingText": "Staff",
+      "paymentText": "Cash, Card, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_05ed88dd6143d8cecfc2f69e29c456293f4342937efa8f06fd00eaf58c74b2aa",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775561/newbiehoodzzzz/places/local-bites/plc_a4bc7dee-c0e2-56ee-8782-90d8cba6139c/05ed88dd6143d8cecfc2f69e29c456293f4342937efa8f06fd00eaf58c74b2aa?_a=BAMAROce0",
+        "width": 640,
+        "height": 551,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_fe8698f419e5ce35e40e289804644ee2c734963847da6fc3bec69f6374ad31c4",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776908/newbiehoodzzzz/places/local-bites/plc_a4bc7dee-c0e2-56ee-8782-90d8cba6139c/fe8698f419e5ce35e40e289804644ee2c734963847da6fc3bec69f6374ad31c4?_a=BAMAROce0",
+        "width": 633,
+        "height": 727,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_a639bd0c-eccc-5d6e-b987-d812ed5e35d1",
+    "slug": "chick-and-cheese-a639bd0c",
+    "name": "Chick and Cheese",
+    "englishName": null,
+    "address": "276 Cao Lỗ, Phường 4, Quận 8, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=3638199009995599369",
+    "summary": "Heaven for cheese lovers featuring melted cheese pulls over spicy chicken.",
+    "openingHours": {
+      "text": "12:00 PM – 09:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Korean Fast Food",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 8 / Tân Phú",
+      "nearbyCampusText": "Ton Duc Thang / HUTECH",
+      "recommendedDishText": "Volcano Cheese Chicken",
+      "pricePerPerson": {
+        "text": "90,000 – 200,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 90000, "max": 200000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Chicken, mozzarella, gochujang",
+      "orderingText": "Staff",
+      "paymentText": "Cash, Transfer, E-wallets",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_0805df204ed35cd3255d82fc866cbd6ed4acce95954aa8eec5723ce27e4dbdaa",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775573/newbiehoodzzzz/places/local-bites/plc_a639bd0c-eccc-5d6e-b987-d812ed5e35d1/0805df204ed35cd3255d82fc866cbd6ed4acce95954aa8eec5723ce27e4dbdaa?_a=BAMAROce0",
+        "width": 640,
+        "height": 534,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_1e1031b03f88b08df9b4492876141fe46d6860fb12d58062b2cf5affb5cb9d52",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775700/newbiehoodzzzz/places/local-bites/plc_a639bd0c-eccc-5d6e-b987-d812ed5e35d1/1e1031b03f88b08df9b4492876141fe46d6860fb12d58062b2cf5affb5cb9d52?_a=BAMAROce0",
+        "width": 640,
+        "height": 755,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_ac10ba9a-26b7-5c72-91a2-2221a422fb6d",
+    "slug": "chuoi-nuong-mien-tay-ac10ba9a",
+    "name": "Chuối Nướng Miền Tây",
+    "englishName": null,
+    "address": "378 Kha Vạn Cân, Linh Đông",
+    "mapsUrl": "https://maps.google.com/?cid=13141477236708231535",
+    "summary": "Traditional grilled banana wrapped in sticky rice with coconut cream.",
+    "openingHours": {
+      "text": "02:00 PM – 09:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Southern Dessert",
+      "dietaryDescription": "Vegetarian / Sweet",
+      "areaText": "Thủ Đức",
+      "nearbyCampusText": "University of Economics and Law (UEL)",
+      "recommendedDishText": "Grilled banana in sticky rice with coconut milk",
+      "pricePerPerson": {
+        "text": "15,000 – 35,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 15000, "max": 35000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Banana, glutinous rice, coconut milk, tapioca",
+      "orderingText": "Counter",
+      "paymentText": "Cash",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_4743bae72e72779e0c385a1e466e2708dbd2d6be55bfb999242c31ce205cd411",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775926/newbiehoodzzzz/places/local-bites/plc_ac10ba9a-26b7-5c72-91a2-2221a422fb6d/4743bae72e72779e0c385a1e466e2708dbd2d6be55bfb999242c31ce205cd411?_a=BAMAROce0",
+        "width": 640,
+        "height": 719,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_6705f5690895eb2415aae7d9a6f102de500f14845c761dc03d0beea7163e08ef",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776087/newbiehoodzzzz/places/local-bites/plc_ac10ba9a-26b7-5c72-91a2-2221a422fb6d/6705f5690895eb2415aae7d9a6f102de500f14845c761dc03d0beea7163e08ef?_a=BAMAROce0",
+        "width": 640,
+        "height": 382,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_b22a131a-f6ee-592f-85f1-c8f407901999",
+    "slug": "texas-chicken-nguyen-van-cu-b22a131a",
+    "name": "Texas Chicken Nguyễn Văn Cừ",
+    "englishName": null,
+    "address": "217 Nguyễn Văn Cừ, Phường 4",
+    "mapsUrl": "https://maps.google.com/?cid=11632617876233458568",
+    "summary": "International fried chicken brand known for large portions and honey biscuits.",
+    "openingHours": {
+      "text": "10:00 AM – 09:30 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "American Fast Food",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 5",
+      "nearbyCampusText": "HCMUE / University of Science",
+      "recommendedDishText": "Crispy fried chicken and honey butter biscuit",
+      "pricePerPerson": {
+        "text": "70,000 – 150,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 70000, "max": 150000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Chicken, flour, honey, butter, biscuits",
+      "orderingText": "Counter / Apps",
+      "paymentText": "Cash, Card, E-wallets",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_4b7559fb208c39d2cfb26ef3115e42a311a75b076527ffaafdd77605f93cf5e0",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775942/newbiehoodzzzz/places/local-bites/plc_b22a131a-f6ee-592f-85f1-c8f407901999/4b7559fb208c39d2cfb26ef3115e42a311a75b076527ffaafdd77605f93cf5e0?_a=BAMAROce0",
+        "width": 640,
+        "height": 361,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_61e8a6be3deb348452d2843fd391338ba5991d64efeb960070f7cb04935a1c49",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776062/newbiehoodzzzz/places/local-bites/plc_b22a131a-f6ee-592f-85f1-c8f407901999/61e8a6be3deb348452d2843fd391338ba5991d64efeb960070f7cb04935a1c49?_a=BAMAROce0",
+        "width": 640,
+        "height": 716,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_b2e47e53-9ece-5a4d-b073-1aeb8f3cd020",
+    "slug": "nha-hang-chay-giac-ngo-b2e47e53",
+    "name": "Nhà Hàng Chay Giác Ngộ",
+    "englishName": null,
+    "address": "213A Hùng Vương, Phường 9",
+    "mapsUrl": "https://maps.google.com/?cid=17578740709051997284",
+    "summary": "Peaceful, zen-inspired restaurant offering refined vegetarian meals.",
+    "openingHours": {
+      "text": "08:00 AM – 09:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Vegetarian Cuisine",
+      "dietaryDescription": "Vegetarian (Chay)",
+      "areaText": "District 5",
+      "nearbyCampusText": "UMP",
+      "recommendedDishText": "Vegetarian lotus root fried rice",
+      "pricePerPerson": {
+        "text": "60,000 – 150,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 60000, "max": 150000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Lotus root, rice, vegetables, mushrooms",
+      "orderingText": "Table",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_6fa7d57934ab8a2d0d052bf13b54c145a7866944fd63647a5174571f916161c3",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776121/newbiehoodzzzz/places/local-bites/plc_b2e47e53-9ece-5a4d-b073-1aeb8f3cd020/6fa7d57934ab8a2d0d052bf13b54c145a7866944fd63647a5174571f916161c3?_a=BAMAROce0",
+        "width": 640,
+        "height": 356,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_822723b822a1a35ebb6ddd381358f611f7025a1110d30498d48e432bfce4779b",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776232/newbiehoodzzzz/places/local-bites/plc_b2e47e53-9ece-5a4d-b073-1aeb8f3cd020/822723b822a1a35ebb6ddd381358f611f7025a1110d30498d48e432bfce4779b?_a=BAMAROce0",
+        "width": 640,
+        "height": 332,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_b33c865d-e598-569d-9e82-058352e68459",
+    "slug": "kim-bbq-nguyen-thi-thap-b33c865d",
+    "name": "Kim BBQ Nguyễn Thị Thập",
+    "englishName": null,
+    "address": "417 Nguyễn Thị Thập, Tân Phong",
+    "mapsUrl": "https://maps.google.com/?cid=8649707312252781558",
+    "summary": "Casual Korean barbecue restaurant offering grill sets and side dishes.",
+    "openingHours": {
+      "text": "11:00 AM – 10:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Korean BBQ",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 7",
+      "nearbyCampusText": "RMIT / Ton Duc Thang University",
+      "recommendedDishText": "Marinated beef short ribs (Galbi)",
+      "pricePerPerson": {
+        "text": "150,000 – 300,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 150000, "max": 300000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Beef, pork belly, garlic, kimchi, lettuce",
+      "orderingText": "Table",
+      "paymentText": "Cash, Card, E-wallets",
+      "serviceModeText": "Dine-in"
+    },
+    "photos": [
+      {
+        "id": "img_7c0fe5f2ff73fa265efe214007e3a0fb3543a64ff81616b5f2ab406b0625a353",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776193/newbiehoodzzzz/places/local-bites/plc_b33c865d-e598-569d-9e82-058352e68459/7c0fe5f2ff73fa265efe214007e3a0fb3543a64ff81616b5f2ab406b0625a353?_a=BAMAROce0",
+        "width": 640,
+        "height": 491,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_e32b908ec2a503f370d73d54eb599caa78e5e0cc477180ee1df6e48d175bd1e5",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776751/newbiehoodzzzz/places/local-bites/plc_b33c865d-e598-569d-9e82-058352e68459/e32b908ec2a503f370d73d54eb599caa78e5e0cc477180ee1df6e48d175bd1e5?_a=BAMAROce0",
+        "width": 640,
+        "height": 757,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_b3d22b68-9627-5214-acb5-dcca6af78ef3",
+    "slug": "bun-dau-cau-go-phan-xich-long-b3d22b68",
+    "name": "Bún Đậu Cầu Gỗ Phan Xích Long",
+    "englishName": null,
+    "address": "442-444 Phan Xích Long, Phường 2",
+    "mapsUrl": "https://maps.google.com/?cid=9083519008349837440",
+    "summary": "Clean, premium venue serving traditional Hanoi bún đậu mắm tôm.",
+    "openingHours": {
+      "text": "08:00 AM – 09:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Northern Vietnamese",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "Phú Nhuận",
+      "nearbyCampusText": "Hoa Sen University",
+      "recommendedDishText": "Full-topping Bún Đậu platter",
+      "pricePerPerson": {
+        "text": "60,000 – 140,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 60000, "max": 140000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Vermicelli, fried tofu, pork, shrimp paste",
+      "orderingText": "Table",
+      "paymentText": "Cash, Card, E-wallets",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_7ba1e079666932ba51eaa8cae1580e0bb5788dd915ac095212d26204b4f7fb39",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776188/newbiehoodzzzz/places/local-bites/plc_b3d22b68-9627-5214-acb5-dcca6af78ef3/7ba1e079666932ba51eaa8cae1580e0bb5788dd915ac095212d26204b4f7fb39?_a=BAMAROce0",
+        "width": 640,
+        "height": 413,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_e1960e2488a5695fca4fb5f97ad0af2a0ac3fafac256bdeaada03e4762b6173d",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776736/newbiehoodzzzz/places/local-bites/plc_b3d22b68-9627-5214-acb5-dcca6af78ef3/e1960e2488a5695fca4fb5f97ad0af2a0ac3fafac256bdeaada03e4762b6173d?_a=BAMAROce0",
+        "width": 640,
+        "height": 395,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_b475ee33-2abc-55ca-9d3e-4acd454a2984",
+    "slug": "quan-chay-thanh-lac-b475ee33",
+    "name": "Quán Chay Thanh Lạc",
+    "englishName": null,
+    "address": "144 Nguyễn Tất Thành, Phường 13",
+    "mapsUrl": "https://maps.google.com/?cid=8661955268743418221",
+    "summary": "Clean vegetarian eatery offering comforting noodle soups and rice dishes.",
+    "openingHours": {
+      "text": "06:00 AM – 09:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Vegetarian Cuisine",
+      "dietaryDescription": "Vegetarian ",
+      "areaText": "District 4",
+      "nearbyCampusText": "University of Nguyễn Tất Thành",
+      "recommendedDishText": "Vegetarian noodle soup (Hủ tiếu chay)",
+      "pricePerPerson": {
+        "text": "30,000 – 60,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 30000, "max": 60000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Rice noodles, vegetable broth, tofu, mushrooms",
+      "orderingText": "Counter",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_73c1f33da728195bed1fe94c57bc61a9e2dc3cb75b9f6d1959200a310bdc3be4",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776149/newbiehoodzzzz/places/local-bites/plc_b475ee33-2abc-55ca-9d3e-4acd454a2984/73c1f33da728195bed1fe94c57bc61a9e2dc3cb75b9f6d1959200a310bdc3be4?_a=BAMAROce0",
+        "width": 640,
+        "height": 634,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_f615688ae2c5a802797f564720ed2c3a88bb907706babc8aec4d013f500cf83c",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776855/newbiehoodzzzz/places/local-bites/plc_b475ee33-2abc-55ca-9d3e-4acd454a2984/f615688ae2c5a802797f564720ed2c3a88bb907706babc8aec4d013f500cf83c?_a=BAMAROce0",
+        "width": 640,
+        "height": 455,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_b4dbebce-3936-5312-a7b8-c5c6178446bb",
+    "slug": "com-tam-phuc-loc-tho-b4dbebce",
+    "name": "Cơm Tấm Phúc Lộc Thọ",
+    "englishName": null,
+    "address": "226 Nguyễn Văn Cừ, Phường Nguyễn Cư Trinh",
+    "mapsUrl": "https://maps.google.com/?cid=3246088344581041930",
+    "summary": "Modern broken rice restaurant chain with clean space and fast service.",
+    "openingHours": {
+      "text": "06:00 AM – 10:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Southern Vietnamese Rice",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 1",
+      "nearbyCampusText": "UEH / HCMUE",
+      "recommendedDishText": "Broken rice with grilled pork rib and fried egg",
+      "pricePerPerson": {
+        "text": "55,000 – 95,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 55000, "max": 95000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Broken rice, grilled pork, fish sauce, egg",
+      "orderingText": "Counter / App",
+      "paymentText": "Cash, Card, E-wallets",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_19cff86f6b15164ef3c08b444aa60e094302b290cb2ab52bfb97d44af7bb0491",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775676/newbiehoodzzzz/places/local-bites/plc_b4dbebce-3936-5312-a7b8-c5c6178446bb/19cff86f6b15164ef3c08b444aa60e094302b290cb2ab52bfb97d44af7bb0491?_a=BAMAROce0",
+        "width": 520,
+        "height": 819,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_55b0bb464b85bec9ca196f7e90db1e2f4b3494de672eebfb01d06b7e6e92b42e",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775982/newbiehoodzzzz/places/local-bites/plc_b4dbebce-3936-5312-a7b8-c5c6178446bb/55b0bb464b85bec9ca196f7e90db1e2f4b3494de672eebfb01d06b7e6e92b42e?_a=BAMAROce0",
+        "width": 640,
+        "height": 561,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_bee7e266-aee3-5706-9ee0-e3dc688fdf7f",
+    "slug": "pong-quan-phan-rang-specialities-bee7e266",
+    "name": "Pong Quán (Phan Rang Specialities)",
+    "englishName": null,
+    "address": "168/73 Nguyễn Gia Trí, Phường 25",
+    "mapsUrl": "https://maps.google.com/?cid=15337169008875105433",
+    "summary": "Student-friendly hub offering delicious Phan Rang regional snacks.",
+    "openingHours": {
+      "text": "10:00 AM – 10:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Central Vietnamese Snacks",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "Bình Thạnh",
+      "nearbyCampusText": "HUTECH / FTU",
+      "recommendedDishText": "Baked quail eggs in ceramic cups",
+      "pricePerPerson": {
+        "text": "30,000 – 70,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 30000, "max": 70000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Quail eggs, rice paper, fish cake",
+      "orderingText": "Table",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_9097fbffb75f5222d28a05d830852368a11f644a422d48abb505c781e5c1a74a",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776304/newbiehoodzzzz/places/local-bites/plc_bee7e266-aee3-5706-9ee0-e3dc688fdf7f/9097fbffb75f5222d28a05d830852368a11f644a422d48abb505c781e5c1a74a?_a=BAMAROce0",
+        "width": 640,
+        "height": 721,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_9323e142b977929e196a3b50f20aa1135c3c90b702d214f4fb41fabdc4c836e9",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776321/newbiehoodzzzz/places/local-bites/plc_bee7e266-aee3-5706-9ee0-e3dc688fdf7f/9323e142b977929e196a3b50f20aa1135c3c90b702d214f4fb41fabdc4c836e9?_a=BAMAROce0",
+        "width": 640,
+        "height": 496,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_c055d046-02dd-5a86-93c0-aad53dea12fd",
+    "slug": "dookki-now-zone-c055d046",
+    "name": "Dookki Now Zone",
+    "englishName": null,
+    "address": "235 Nguyễn Văn Cừ, Phường Nguyễn Cư Trinh",
+    "mapsUrl": "https://maps.google.com/?cid=7051530841634093676",
+    "summary": "Popular Korean Tteokbokki buffet chain offering unlimited hotpot ingredients.",
+    "openingHours": {
+      "text": "10:30 AM – 10:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Korean Buffet",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 1",
+      "nearbyCampusText": "UEH / HCMUE",
+      "recommendedDishText": "DIY Tteokbokki hotpot with fried rice",
+      "pricePerPerson": {
+        "text": "150,000 – 200,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 150000, "max": 200000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Rice cakes, fish cakes, ramen, cheese, sauce",
+      "orderingText": "Buffet counter",
+      "paymentText": "Cash, Card, E-wallets",
+      "serviceModeText": "Dine-in"
+    },
+    "photos": [
+      {
+        "id": "img_600ada32ed069eb6ca6c354f9a3cf789341fff2514ca29599e6edcda4a31bd18",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776043/newbiehoodzzzz/places/local-bites/plc_c055d046-02dd-5a86-93c0-aad53dea12fd/600ada32ed069eb6ca6c354f9a3cf789341fff2514ca29599e6edcda4a31bd18?_a=BAMAROce0",
+        "width": 640,
+        "height": 604,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_bcd13d977f3e09408175aba2309330aa3c0df6336e10a13b647dac465393d81b",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776556/newbiehoodzzzz/places/local-bites/plc_c055d046-02dd-5a86-93c0-aad53dea12fd/bcd13d977f3e09408175aba2309330aa3c0df6336e10a13b647dac465393d81b?_a=BAMAROce0",
+        "width": 640,
+        "height": 432,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_c05b4bcd-021a-53b4-9c7f-166640519cb1",
+    "slug": "manwah-taiwanese-hot-pot-c05b4bcd",
+    "name": "Manwah Taiwanese Hot Pot",
+    "englishName": null,
+    "address": "126 Đường Hồng Bàng, Phường 12",
+    "mapsUrl": "https://maps.google.com/?cid=2564365750633910734",
+    "summary": "Premium Taiwanese hotpot buffet with diverse broth flavors and fresh meats.",
+    "openingHours": {
+      "text": "11:00 AM – 10:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Taiwanese Hotpot Buffet",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 5",
+      "nearbyCampusText": "UMP",
+      "recommendedDishText": "Wagyu beef slice with Mala broth",
+      "pricePerPerson": {
+        "text": "300,000 – 500,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 300000, "max": 500000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Beef, mushrooms, herbal broth, handmade dumplings",
+      "orderingText": "Staff",
+      "paymentText": "Cash, Card, E-wallets",
+      "serviceModeText": "Dine-in"
+    },
+    "photos": [
+      {
+        "id": "img_1ace3eff523ea57c8875d1cd9788dde34acd26dd3cb249455a18c8ab67ace49c",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775684/newbiehoodzzzz/places/local-bites/plc_c05b4bcd-021a-53b4-9c7f-166640519cb1/1ace3eff523ea57c8875d1cd9788dde34acd26dd3cb249455a18c8ab67ace49c?_a=BAMAROce0",
+        "width": 640,
+        "height": 755,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_ce82f1c11d7a1ecf15e51ae89b5814d5ed7dd62f40fcb0ef65cacae1c98be023",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776628/newbiehoodzzzz/places/local-bites/plc_c05b4bcd-021a-53b4-9c7f-166640519cb1/ce82f1c11d7a1ecf15e51ae89b5814d5ed7dd62f40fcb0ef65cacae1c98be023?_a=BAMAROce0",
+        "width": 640,
+        "height": 543,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_c142539f-3aef-5026-a92f-79f36d6f69a9",
+    "slug": "chao-suon-chu-chen-c142539f",
+    "name": "Cháo Sườn Chú Chen",
+    "englishName": null,
+    "address": "281 Nguyễn Trãi, Phường Nguyễn Cư Trinh",
+    "mapsUrl": "https://maps.app.goo.gl/TTXxBdggmjindAuM7",
+    "summary": "Famous late-night Taiwanese savory porridge spot in District 1.",
+    "openingHours": {
+      "text": "07:00 AM – 03:00 AM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Taiwanese Congee",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 1",
+      "nearbyCampusText": "UEH",
+      "recommendedDishText": "Pork and century egg congee",
+      "pricePerPerson": {
+        "text": "60,000 – 120,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 60000, "max": 120000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Rice congee, pork, century egg, scallions",
+      "orderingText": "Table",
+      "paymentText": "Cash, Card, E-wallets",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_266e1ad6f57a38418de5c87b832ec6435ea6a491f5f92a852f18e776d7a5528b",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775795/newbiehoodzzzz/places/local-bites/plc_c142539f-3aef-5026-a92f-79f36d6f69a9/266e1ad6f57a38418de5c87b832ec6435ea6a491f5f92a852f18e776d7a5528b?_a=BAMAROce0",
+        "width": 640,
+        "height": 413,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_ced9a0fa72db32ccb454b1e4afe3c6f53c76c6cd43cc363f494b4b93c672df0b",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776630/newbiehoodzzzz/places/local-bites/plc_c142539f-3aef-5026-a92f-79f36d6f69a9/ced9a0fa72db32ccb454b1e4afe3c6f53c76c6cd43cc363f494b4b93c672df0b?_a=BAMAROce0",
+        "width": 640,
+        "height": 424,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_c3297c66-52a7-549e-82f8-2c52cebd77d7",
+    "slug": "hem-dau-c3297c66",
+    "name": "Hẻm Đậu",
+    "englishName": null,
+    "address": "140E Lý Chính Thắng, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=3042910623164729376",
+    "summary": "Popular chain serving authentic Northern-style bún đậu with shrimp paste.",
+    "openingHours": {
+      "text": "09:00 AM – 09:30 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Northern Vietnamese",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 3",
+      "nearbyCampusText": "HUFLIT",
+      "recommendedDishText": "Special Combo Bún Đậu",
+      "pricePerPerson": {
+        "text": "50,000 – 120,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 50000, "max": 120000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Vermicelli, fried tofu, boiled pork, mắm tôm",
+      "orderingText": "Staff",
+      "paymentText": "Cash, E-wallets, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_181b53b8d55f958e08ab363aa5e9b477b3fe15bfd9fc5d073ac15ad8924312c9",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775668/newbiehoodzzzz/places/local-bites/plc_c3297c66-52a7-549e-82f8-2c52cebd77d7/181b53b8d55f958e08ab363aa5e9b477b3fe15bfd9fc5d073ac15ad8924312c9?_a=BAMAROce0",
+        "width": 640,
+        "height": 490,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_90d461f25485dac656713b91a960016efde23ac72ebabca3d23a5fa159b6f19b",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776306/newbiehoodzzzz/places/local-bites/plc_c3297c66-52a7-549e-82f8-2c52cebd77d7/90d461f25485dac656713b91a960016efde23ac72ebabca3d23a5fa159b6f19b?_a=BAMAROce0",
+        "width": 640,
+        "height": 630,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_ca018193-4787-55bd-887f-585706b11cd5",
+    "slug": "pho-nuong-ca018193",
+    "name": "Phố Nướng",
+    "englishName": null,
+    "address": "107 Tân Sơn Nhì, Phường Tân Sơn Nhì, Quận Tân Phú, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=1455938253687539640",
+    "summary": "Lively open-air barbecue spot offering marinated meats for DIY table grilling.",
+    "openingHours": {
+      "text": "04:30 PM – 11:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Vietnamese BBQ & Grill",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "Tân Phú",
+      "nearbyCampusText": "Van Lang / Industrial Uni",
+      "recommendedDishText": "Honey-glazed grilled pork ribs and beef",
+      "pricePerPerson": {
+        "text": "130,000 – 250,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 130000, "max": 250000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Beef, pork, shrimp, octopus, marinades",
+      "orderingText": "Buffet ",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Dine-in"
+    },
+    "photos": [
+      {
+        "id": "img_acba4056dddc302f770f7af4bf9bc26c031833cc25fe383bb9e447d9ea286f9f",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776480/newbiehoodzzzz/places/local-bites/plc_ca018193-4787-55bd-887f-585706b11cd5/acba4056dddc302f770f7af4bf9bc26c031833cc25fe383bb9e447d9ea286f9f?_a=BAMAROce0",
+        "width": 640,
+        "height": 681,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_c5cd017d02d3e74591b36c1a988c9cf6b9a4a3dc9dfab4bc7110afbcc0060f3f",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776592/newbiehoodzzzz/places/local-bites/plc_ca018193-4787-55bd-887f-585706b11cd5/c5cd017d02d3e74591b36c1a988c9cf6b9a4a3dc9dfab4bc7110afbcc0060f3f?_a=BAMAROce0",
+        "width": 640,
+        "height": 587,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_cac80efe-23d8-596a-b2e2-80256e93adfa",
+    "slug": "hao-quan-bun-dau-ha-noi-cac80efe",
+    "name": "Hảo Quán - Bún đậu Hà Nội",
+    "englishName": null,
+    "address": "193/16 Bà Hạt, Phường 9, Quận 10, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=2442554570838797331",
+    "summary": "Alley venue delivering genuine Northern flavors with crispy tofu and shrimp paste.",
+    "openingHours": {
+      "text": "10:30 AM – 10:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Northern Vietnamese",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 10",
+      "nearbyCampusText": "HUFLIT / HCMUT",
+      "recommendedDishText": "Special Full-topping Bún Đậu Platter",
+      "pricePerPerson": {
+        "text": "50,000 – 100,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 50000, "max": 100000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Vermicelli, fried tofu, pork, chả cốm",
+      "orderingText": "Table",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_55e4601a6d2de90d8c91942aa71c6b32374c00514ce14664ce2a33d03a7a8bef",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775983/newbiehoodzzzz/places/local-bites/plc_cac80efe-23d8-596a-b2e2-80256e93adfa/55e4601a6d2de90d8c91942aa71c6b32374c00514ce14664ce2a33d03a7a8bef?_a=BAMAROce0",
+        "width": 640,
+        "height": 437,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_7346dc79639490e99fbaf05dfd9a27699ec5b8432f177db7a4f303eb76a976d8",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776145/newbiehoodzzzz/places/local-bites/plc_cac80efe-23d8-596a-b2e2-80256e93adfa/7346dc79639490e99fbaf05dfd9a27699ec5b8432f177db7a4f303eb76a976d8?_a=BAMAROce0",
+        "width": 640,
+        "height": 550,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_cbd96962-5e14-5d1b-acda-02c85d6b0953",
+    "slug": "che-ha-ky-cbd96962",
+    "name": "Chè Hà Ký",
+    "englishName": null,
+    "address": "138 Châu Văn Liêm, Phường 11",
+    "mapsUrl": "https://maps.google.com/?cid=2675914096062218185",
+    "summary": "Traditional Chinese sweet soup (Chè) house operating for decades.",
+    "openingHours": {
+      "text": "10:00 AM – 10:30 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Traditional Dessert",
+      "dietaryDescription": "Vegetarian / Sweet",
+      "areaText": "District 5",
+      "nearbyCampusText": "UMP / University of Science",
+      "recommendedDishText": "Black sesame sweet soup & herbal jelly",
+      "pricePerPerson": {
+        "text": "30,000 – 60,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 30000, "max": 60000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Black sesame, lotus seeds, herbs, rock sugar",
+      "orderingText": "Counter",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_1525771d7e4b275cfc6ea3a6193f131df6e460c31d9d923acdfa6abc1b00a941",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775649/newbiehoodzzzz/places/local-bites/plc_cbd96962-5e14-5d1b-acda-02c85d6b0953/1525771d7e4b275cfc6ea3a6193f131df6e460c31d9d923acdfa6abc1b00a941?_a=BAMAROce0",
+        "width": 640,
+        "height": 381,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_7032dacd725822e28a5fa8a40d61b40aeca91434d2f70f603d0cc6febe9fdc63",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776125/newbiehoodzzzz/places/local-bites/plc_cbd96962-5e14-5d1b-acda-02c85d6b0953/7032dacd725822e28a5fa8a40d61b40aeca91434d2f70f603d0cc6febe9fdc63?_a=BAMAROce0",
+        "width": 621,
+        "height": 625,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_d5a1e995-1001-5f4d-bb83-87323a1f41e2",
+    "slug": "banh-canh-bot-gao-thanh-quyen-d5a1e995",
+    "name": "Bánh canh bột gạo Thanh Quyên",
+    "englishName": null,
+    "address": "428 Nguyễn Tri Phương, Phường 4, Quận 10, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=15456716768631300874",
+    "summary": "Long-standing local favorite serving thick handmade rice flour noodles.",
+    "openingHours": {
+      "text": "06:30 AM – 01:30 AM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Traditional Noodle Soup",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 10",
+      "nearbyCampusText": "HCMUT",
+      "recommendedDishText": "Signature Rice Bánh Canh with pork hock",
+      "pricePerPerson": {
+        "text": "40,000 – 75,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 40000, "max": 75000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Hand-cut rice noodles, pork broth, hock",
+      "orderingText": "Counter",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_8719c429c98600f1e52f33da31b897246b58fdb10a69e920266cdb3bf1e1752c",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776259/newbiehoodzzzz/places/local-bites/plc_d5a1e995-1001-5f4d-bb83-87323a1f41e2/8719c429c98600f1e52f33da31b897246b58fdb10a69e920266cdb3bf1e1752c?_a=BAMAROce0",
+        "width": 640,
+        "height": 565,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_973557913d678726eaaf5cd9f5edf39c3c6bc19171852456534b79d1b1a3d07a",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776349/newbiehoodzzzz/places/local-bites/plc_d5a1e995-1001-5f4d-bb83-87323a1f41e2/973557913d678726eaaf5cd9f5edf39c3c6bc19171852456534b79d1b1a3d07a?_a=BAMAROce0",
+        "width": 640,
+        "height": 515,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_d68bf9a1-ef8f-5803-8606-1264d2d0c2c2",
+    "slug": "aroi-thai-d68bf9a1",
+    "name": "Aroi Thai",
+    "englishName": null,
+    "address": "104 Hậu Giang, Phường 6, Quận 6, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=3088921393990705378",
+    "summary": "Popular spot serving aromatic and spicy Thai boat and tom yum soups.",
+    "openingHours": {
+      "text": "08:00 AM – 11:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Thai Street Food & Noodles",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 6 / District 3",
+      "nearbyCampusText": "HUFLIT / UEH",
+      "recommendedDishText": "Signature Tom Yum Noodle Bowl",
+      "pricePerPerson": {
+        "text": "50,000 – 120,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 50000, "max": 120000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Rice noodles, broth, lemongrass, galangal",
+      "orderingText": "Table",
+      "paymentText": "Cash, Transfer, E-wallets",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_9fc975e3838de1c846020e2701c4bdc9ba2af7c25a8c0cb5920fbdb8e3ec1b9b",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776410/newbiehoodzzzz/places/local-bites/plc_d68bf9a1-ef8f-5803-8606-1264d2d0c2c2/9fc975e3838de1c846020e2701c4bdc9ba2af7c25a8c0cb5920fbdb8e3ec1b9b?_a=BAMAROce0",
+        "width": 640,
+        "height": 777,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_a01c8d98c6304f6e9c328b6313c76d17979cbe7b20fd639dffa3e3d3981c3b5b",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776413/newbiehoodzzzz/places/local-bites/plc_d68bf9a1-ef8f-5803-8606-1264d2d0c2c2/a01c8d98c6304f6e9c328b6313c76d17979cbe7b20fd639dffa3e3d3981c3b5b?_a=BAMAROce0",
+        "width": 640,
+        "height": 752,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_da764b4b-1443-5d6a-9246-ba819ec250e5",
+    "slug": "chao-long-ba-nam-da764b4b",
+    "name": "Cháo Lòng Bà Năm",
+    "englishName": null,
+    "address": "14 Nguyễn Thị Thập, Tân Hưng",
+    "mapsUrl": "https://maps.google.com/?cid=12041090413344322026",
+    "summary": "Popular morning eatery specializing in traditional Vietnamese pork organ congee.",
+    "openingHours": {
+      "text": "06:00 AM – 12:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Traditional Porridge",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 7",
+      "nearbyCampusText": "Ton Duc Thang University",
+      "recommendedDishText": "Special pork offal congee with fried dough sticks",
+      "pricePerPerson": {
+        "text": "40,000 – 75,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 40000, "max": 75000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Rice congee, pork blood pudding, offal, herbs",
+      "orderingText": "Counter",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_6c040b305eb10189ead15a64c933f155a40044768ee2d2d1574b9cd2384a4aea",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776104/newbiehoodzzzz/places/local-bites/plc_da764b4b-1443-5d6a-9246-ba819ec250e5/6c040b305eb10189ead15a64c933f155a40044768ee2d2d1574b9cd2384a4aea?_a=BAMAROce0",
+        "width": 640,
+        "height": 575,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_ce5ce2773d2e98a68beaa229e449c42a4b5d436fb665ce7cd1a0090300087ade",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776624/newbiehoodzzzz/places/local-bites/plc_da764b4b-1443-5d6a-9246-ba819ec250e5/ce5ce2773d2e98a68beaa229e449c42a4b5d436fb665ce7cd1a0090300087ade?_a=BAMAROce0",
+        "width": 490,
+        "height": 501,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_ddefc3dc-290f-5de1-82f3-07c44cce745f",
+    "slug": "moc-lam-duyen-ddefc3dc",
+    "name": "Mộc Lâm Duyên",
+    "englishName": null,
+    "address": "212B/D9 Nguyễn Trãi, Phường Cầu Ông Lãnh, Quận 1, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=15016632537485072400",
+    "summary": "Specializes in delicate Chinese-style vegetarian dishes and dim sum.",
+    "openingHours": {
+      "text": "08:00 AM – 08:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Chinese Vegetarian",
+      "dietaryDescription": "Vegetarian ",
+      "areaText": "District 1",
+      "nearbyCampusText": "USSH",
+      "recommendedDishText": "Vegetarian Dumplings / Dim Sum platter",
+      "pricePerPerson": {
+        "text": "50,000 – 150,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 50000, "max": 150000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Mushrooms, soy protein, wheat flour",
+      "orderingText": "Staff",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_463c7cd819ddf5fe8dec6e6298156c5f423323c99f551bdbf661644a4940f3a6",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775921/newbiehoodzzzz/places/local-bites/plc_ddefc3dc-290f-5de1-82f3-07c44cce745f/463c7cd819ddf5fe8dec6e6298156c5f423323c99f551bdbf661644a4940f3a6?_a=BAMAROce0",
+        "width": 640,
+        "height": 448,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_86c8bdf78113894f4adb4c1d78765dc901beb754fccad2d6930bd68be744cbef",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776256/newbiehoodzzzz/places/local-bites/plc_ddefc3dc-290f-5de1-82f3-07c44cce745f/86c8bdf78113894f4adb4c1d78765dc901beb754fccad2d6930bd68be744cbef?_a=BAMAROce0",
+        "width": 640,
+        "height": 813,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_dec26572-76f4-5900-989e-90fd39be80fb",
+    "slug": "hoang-ty-dec26572",
+    "name": "Hoàng Ty",
+    "englishName": null,
+    "address": "120 Đường Thành Thái, Phường 12",
+    "mapsUrl": "https://maps.google.com/?cid=5913328687689203931",
+    "summary": "Famous restaurant chain specializing in Trang Bang dew-wetted rice paper.",
+    "openingHours": {
+      "text": "07:30 AM – 11:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Southern Vietnamese",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 10",
+      "nearbyCampusText": "HCMUT",
+      "recommendedDishText": "Dew-wetted rice paper rolls with boiled pork",
+      "pricePerPerson": {
+        "text": "100,000 – 250,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 100000, "max": 250000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Rice paper, pork, forest herbs, fish sauce",
+      "orderingText": "Staff",
+      "paymentText": "Cash, Card, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_18608eb278ab4ebad647abf2ab413b8f22a51d35f5ceec13c6ba0a3c610cce39",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775670/newbiehoodzzzz/places/local-bites/plc_dec26572-76f4-5900-989e-90fd39be80fb/18608eb278ab4ebad647abf2ab413b8f22a51d35f5ceec13c6ba0a3c610cce39?_a=BAMAROce0",
+        "width": 640,
+        "height": 439,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_a8807ce24eae326be2c095ca14ee9ae619a5ed19e4f304d2d355aaf29f10f243",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776459/newbiehoodzzzz/places/local-bites/plc_dec26572-76f4-5900-989e-90fd39be80fb/a8807ce24eae326be2c095ca14ee9ae619a5ed19e4f304d2d355aaf29f10f243?_a=BAMAROce0",
+        "width": 640,
+        "height": 381,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_df9498f5-c377-5451-87cb-f7ffb86509b7",
+    "slug": "com-tam-nang-tron-df9498f5",
+    "name": "Cơm tấm Nàng Tròn",
+    "englishName": null,
+    "address": "321 Chợ Lớn, Phường 11, Quận 6, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=4793430316732845365",
+    "summary": "Cozy broken rice eatery offering aromatic grilled pork chops over broken rice.",
+    "openingHours": {
+      "text": "04:00 PM – 09:30 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Southern Rice Dishes",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 6",
+      "nearbyCampusText": "Van Lang Uni",
+      "recommendedDishText": "Broken rice with grilled pork chop and chả",
+      "pricePerPerson": {
+        "text": "45,000 – 90,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 45000, "max": 90000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Broken rice, grilled pork chop, bì, chả",
+      "orderingText": "Counter",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_de338cb348d2694c70f389264d4f1e470cb898f6790209eb56c35d752e2c9343",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776724/newbiehoodzzzz/places/local-bites/plc_df9498f5-c377-5451-87cb-f7ffb86509b7/de338cb348d2694c70f389264d4f1e470cb898f6790209eb56c35d752e2c9343?_a=BAMAROce0",
+        "width": 640,
+        "height": 740,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_e8138b7b4a9cf044e9d495a23f88fb743cffe3f6fdcfbf9f1095dbe7cfb33836",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776779/newbiehoodzzzz/places/local-bites/plc_df9498f5-c377-5451-87cb-f7ffb86509b7/e8138b7b4a9cf044e9d495a23f88fb743cffe3f6fdcfbf9f1095dbe7cfb33836?_a=BAMAROce0",
+        "width": 640,
+        "height": 788,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_e45450f4-472c-5694-a434-ee0a134d55d3",
+    "slug": "lau-vien-oden-simple-t-e45450f4",
+    "name": "Lẩu Viên Oden - Simple T",
+    "englishName": null,
+    "address": "245/39 Nguyễn Trãi, Phường Cầu Ông Lãnh, Quận 1, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=125225330936305181",
+    "summary": "Popular alley spot offering comforting broth and fish ball skewers.",
+    "openingHours": {
+      "text": "10:00 AM – 10:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Taiwanese / Japanese Street Food",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 1",
+      "nearbyCampusText": "USSH",
+      "recommendedDishText": "Mixed Oden Skewers in signature broth",
+      "pricePerPerson": {
+        "text": "40,000 – 120,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 40000, "max": 120000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Fish cakes, surimi, radish, dashi",
+      "orderingText": "Select skewers",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_92d054c644f9a668638cf19a6f13c3a23a9cea58209cbffc83af66c3bc486ae3",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776320/newbiehoodzzzz/places/local-bites/plc_e45450f4-472c-5694-a434-ee0a134d55d3/92d054c644f9a668638cf19a6f13c3a23a9cea58209cbffc83af66c3bc486ae3?_a=BAMAROce0",
+        "width": 640,
+        "height": 684,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_9fb87d655aabf3aca68ef1c67c2cd4a1e2e1f4b4b30f7a453797663478ef3416",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776408/newbiehoodzzzz/places/local-bites/plc_e45450f4-472c-5694-a434-ee0a134d55d3/9fb87d655aabf3aca68ef1c67c2cd4a1e2e1f4b4b30f7a453797663478ef3416?_a=BAMAROce0",
+        "width": 640,
+        "height": 330,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_e7d10cdf-25d8-5a02-a7b2-ee83f285e3a5",
+    "slug": "kimbap-fc-e7d10cdf",
+    "name": "Kimbap FC",
+    "englishName": null,
+    "address": "71/5 Điện Biên Phủ, Phường 15",
+    "mapsUrl": "https://maps.google.com/?cid=3622836332979397798",
+    "summary": "Long-standing budget-friendly Korean snack spot popular with university students.",
+    "openingHours": {
+      "text": "09:00 AM – 09:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Korean Casual Food",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "Bình Thạnh",
+      "nearbyCampusText": "HUTECH",
+      "recommendedDishText": "Special Cheese Kimbap & Tteokbokki",
+      "pricePerPerson": {
+        "text": "40,000 – 90,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 40000, "max": 90000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Rice, seaweed, vegetables, fish cakes",
+      "orderingText": "Counter",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_05f3159f78b8b8651a6dd2ba314d7dd0f7de792b1e44ca2f586ad26b0c94ec71",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775562/newbiehoodzzzz/places/local-bites/plc_e7d10cdf-25d8-5a02-a7b2-ee83f285e3a5/05f3159f78b8b8651a6dd2ba314d7dd0f7de792b1e44ca2f586ad26b0c94ec71?_a=BAMAROce0",
+        "width": 640,
+        "height": 784,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_22bfdf9d536b378ce96a0bce0e439e5172d6557f3f17a5cb34a55aecd183c725",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775777/newbiehoodzzzz/places/local-bites/plc_e7d10cdf-25d8-5a02-a7b2-ee83f285e3a5/22bfdf9d536b378ce96a0bce0e439e5172d6557f3f17a5cb34a55aecd183c725?_a=BAMAROce0",
+        "width": 640,
+        "height": 729,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_e9afc0ea-9b52-55da-a77c-1f4ceda0ad57",
+    "slug": "3a-korean-food-e9afc0ea",
+    "name": "3A Korean Food",
+    "englishName": null,
+    "address": "233A Nguyễn Văn Luông, Phường 11, Quận 6, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=5012505872911346846",
+    "summary": "Dynamic eatery known for fiery multi-level spicy noodles and glazed chicken.",
+    "openingHours": {
+      "text": "09:00 AM – 10:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Korean Fast Food",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 6 / District 10",
+      "nearbyCampusText": "UEH / HUFLIT",
+      "recommendedDishText": "Level 7 Spicy Seafood Noodle Soup",
+      "pricePerPerson": {
+        "text": "50,000 – 120,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 50000, "max": 120000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Ramen, kimchi, seafood/beef, chili",
+      "orderingText": "Table",
+      "paymentText": "Cash, Transfer, E-wallets",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_1f0a632d7935554e890323f4769ff28f39fc6a8365598fa1ef8f6350f3e692d3",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775705/newbiehoodzzzz/places/local-bites/plc_e9afc0ea-9b52-55da-a77c-1f4ceda0ad57/1f0a632d7935554e890323f4769ff28f39fc6a8365598fa1ef8f6350f3e692d3?_a=BAMAROce0",
+        "width": 615,
+        "height": 637,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_8cfc03eb795a9fcdc7e3ed159cabb2af57ded201ec11da6f9c76ae3c6e99a554",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776281/newbiehoodzzzz/places/local-bites/plc_e9afc0ea-9b52-55da-a77c-1f4ceda0ad57/8cfc03eb795a9fcdc7e3ed159cabb2af57ded201ec11da6f9c76ae3c6e99a554?_a=BAMAROce0",
+        "width": 640,
+        "height": 573,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_ea4863c0-1e09-5138-95da-8392a82162fd",
+    "slug": "miso-chikura-ea4863c0",
+    "name": "Miso Chikura",
+    "englishName": null,
+    "address": "8/21 Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=9745590342990203436",
+    "summary": "Authentic Japanese eatery tucked in Little Tokyo serving rich miso ramen.",
+    "openingHours": {
+      "text": "11:00 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Japanese Cuisine",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 1",
+      "nearbyCampusText": "UEH",
+      "recommendedDishText": "Rich Miso Ramen",
+      "pricePerPerson": {
+        "text": "100,000 – 250,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 100000, "max": 250000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Ramen noodles, pork bone broth, miso",
+      "orderingText": "Staff",
+      "paymentText": "Cash, Card, E-wallets",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_385080b082ff376a6585d9e77925897ef03bd07683529ec8ccacfe831b308091",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775863/newbiehoodzzzz/places/local-bites/plc_ea4863c0-1e09-5138-95da-8392a82162fd/385080b082ff376a6585d9e77925897ef03bd07683529ec8ccacfe831b308091?_a=BAMAROce0",
+        "width": 640,
+        "height": 540,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_987346db22d2919f38bcd68eb50f2dc06bd7be47d049f0ff6ff1d409914af5d8",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776357/newbiehoodzzzz/places/local-bites/plc_ea4863c0-1e09-5138-95da-8392a82162fd/987346db22d2919f38bcd68eb50f2dc06bd7be47d049f0ff6ff1d409914af5d8?_a=BAMAROce0",
+        "width": 640,
+        "height": 797,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_b2f4d099736f9196f2dedb7c2e0541871e5c8fe93aff90c8ecbc2f0fa19cd2d7",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776521/newbiehoodzzzz/places/local-bites/plc_ea4863c0-1e09-5138-95da-8392a82162fd/b2f4d099736f9196f2dedb7c2e0541871e5c8fe93aff90c8ecbc2f0fa19cd2d7?_a=BAMAROce0",
+        "width": 640,
+        "height": 751,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_ec0d1958-92ef-59fd-a15e-b68744afc842",
+    "slug": "oc-phung-ec0d1958",
+    "name": "Ốc Phụng",
+    "englishName": null,
+    "address": "260 Tạ Quang Bửu, Phường 4, Quận 8, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=16753054160654071730",
+    "summary": "Vibrant local seafood stall offering a wide array of seasoned shellfish.",
+    "openingHours": {
+      "text": "03:30 PM – 11:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Vietnamese Seafood / Snails",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 8 / District 1",
+      "nearbyCampusText": "RMIT / UEH",
+      "recommendedDishText": "Snails in creamy coconut sauce with bread",
+      "pricePerPerson": {
+        "text": "60,000 – 150,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 60000, "max": 150000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Snails, clams, garlic, chili, coconut milk",
+      "orderingText": "Seafood display",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_47f333d60010fd26d7a8074562115271478481efe01216708583ee54ccf02876",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775929/newbiehoodzzzz/places/local-bites/plc_ec0d1958-92ef-59fd-a15e-b68744afc842/47f333d60010fd26d7a8074562115271478481efe01216708583ee54ccf02876?_a=BAMAROce0",
+        "width": 640,
+        "height": 566,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_be4e6d7c170619e1e95bc46097fbdf8ab6f6d58b46dafabd01a59a74f2a7bf39",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776560/newbiehoodzzzz/places/local-bites/plc_ec0d1958-92ef-59fd-a15e-b68744afc842/be4e6d7c170619e1e95bc46097fbdf8ab6f6d58b46dafabd01a59a74f2a7bf39?_a=BAMAROce0",
+        "width": 640,
+        "height": 438,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_ec366d2c-ae2f-5cc5-9e64-d0935e7ef183",
+    "slug": "tiem-lau-bo-trong-hem-ec366d2c",
+    "name": "Tiệm lẩu bò trong hẻm",
+    "englishName": null,
+    "address": "140B Võ Thị Sáu, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=1272828135347633949",
+    "summary": "Hidden gem in a quiet alley specializing in rich, flavorful beef hotpot.",
+    "openingHours": {
+      "text": "10:00 AM – 10:30 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Vietnamese Hotpot",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 3",
+      "nearbyCampusText": "UEH",
+      "recommendedDishText": "Special Beef Hotpot with tendon and brisket",
+      "pricePerPerson": {
+        "text": "100,000 – 250,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 100000, "max": 250000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Beef brisket, tendon, oxtail, herbs",
+      "orderingText": "Staff",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Dine-in"
+    },
+    "photos": [
+      {
+        "id": "img_b6d5819df6d8efd797198f7baceff75424907c9adc53f34b2197d89a886e17f8",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776534/newbiehoodzzzz/places/local-bites/plc_ec366d2c-ae2f-5cc5-9e64-d0935e7ef183/b6d5819df6d8efd797198f7baceff75424907c9adc53f34b2197d89a886e17f8?_a=BAMAROce0",
+        "width": 640,
+        "height": 437,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_f5ffdb13df4387e0fd317b352c097d991e603a671e19ea2a67af5f05a2723191",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776854/newbiehoodzzzz/places/local-bites/plc_ec366d2c-ae2f-5cc5-9e64-d0935e7ef183/f5ffdb13df4387e0fd317b352c097d991e603a671e19ea2a67af5f05a2723191?_a=BAMAROce0",
+        "width": 640,
+        "height": 758,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_ed3e2c00-da34-5106-a37f-2f91c7bfacff",
+    "slug": "tron-s-kitchen",
+    "name": "Tròn's Kitchen ",
+    "englishName": null,
+    "address": "262C Lê Văn Sỹ, Phường 14, Quận 3, Thành phố Hồ Chí Minh",
+    "mapsUrl": "https://maps.google.com/?cid=11426448328521805733",
+    "summary": "Charming dining spot known for delicious fusion dishes.",
+    "openingHours": {
+      "text": "04:00 PM – 10:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Japanese Cuisine",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 3",
+      "nearbyCampusText": "UEH",
+      "recommendedDishText": "Raw Salmon",
+      "pricePerPerson": {
+        "text": "80,000 – 200,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 80000, "max": 200000 }
+      },
+      "closedDaysText": "Monday",
+      "ingredientsText": "Raw Salmon, Rice,Egg Yolk",
+      "orderingText": "Staff",
+      "paymentText": "Cash, Card, E-wallets",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_31b72c5f53a6c70df3d9895b77e32db536cbfdf5ef0defb92ea07e916e0b9a76",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775835/newbiehoodzzzz/places/local-bites/plc_ed3e2c00-da34-5106-a37f-2f91c7bfacff/31b72c5f53a6c70df3d9895b77e32db536cbfdf5ef0defb92ea07e916e0b9a76?_a=BAMAROce0",
+        "width": 549,
+        "height": 697,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_ea66b65003fecb92112658d1e06d098512b908c8a9cbb09d744a5c3e5880dbaa",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776792/newbiehoodzzzz/places/local-bites/plc_ed3e2c00-da34-5106-a37f-2f91c7bfacff/ea66b65003fecb92112658d1e06d098512b908c8a9cbb09d744a5c3e5880dbaa?_a=BAMAROce0",
+        "width": 640,
+        "height": 436,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_eda0247a-a83d-5595-a064-010ab90d0f28",
+    "slug": "quan-de-chung-eda0247a",
+    "name": "Quán Dê Chung",
+    "englishName": null,
+    "address": "3 Hoàng Sa, Đa Kao",
+    "mapsUrl": "https://maps.google.com/?cid=8888797799671624270",
+    "summary": "Riverside venue specializing in flavorful goat meat dishes and hotpot.",
+    "openingHours": {
+      "text": "10:00 AM – 10:30 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Vietnamese Goat Specialty",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 1",
+      "nearbyCampusText": "University of Social Sciences and Humanities (USSH)",
+      "recommendedDishText": "Grilled goat breast with fermented bean curd",
+      "pricePerPerson": {
+        "text": "150,000 – 300,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 150000, "max": 300000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Goat meat, herbs, fermented tofu dip",
+      "orderingText": "Staff",
+      "paymentText": "Cash, Transfer",
+      "serviceModeText": "Dine-in"
+    },
+    "photos": [
+      {
+        "id": "img_1623af18ebd006b49c512ca48de5506f334d3bce7620498a50327cfeeca8b005",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775654/newbiehoodzzzz/places/local-bites/plc_eda0247a-a83d-5595-a064-010ab90d0f28/1623af18ebd006b49c512ca48de5506f334d3bce7620498a50327cfeeca8b005?_a=BAMAROce0",
+        "width": 640,
+        "height": 468,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_eaa3b3b1556206c8f9cb02ac927193a6f163debba686402fa5fe861cd118390d",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776793/newbiehoodzzzz/places/local-bites/plc_eda0247a-a83d-5595-a064-010ab90d0f28/eaa3b3b1556206c8f9cb02ac927193a6f163debba686402fa5fe861cd118390d?_a=BAMAROce0",
+        "width": 640,
+        "height": 497,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_f61f7f57-4782-53e3-86c8-0a589a9c6ca0",
+    "slug": "bun-rieu-nha-f61f7f57",
+    "name": "Bún Riêu Nhà",
+    "englishName": null,
+    "address": "66 Võ Văn Tần, Phường 6",
+    "mapsUrl": "https://maps.google.com/?cid=17736915953315302295",
+    "summary": "Clean, modern restaurant serving rich northern crab noodle soup.",
+    "openingHours": {
+      "text": "07:00 AM – 09:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Northern Vietnamese",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 3",
+      "nearbyCampusText": "HUFLIT / UEH",
+      "recommendedDishText": "Special crab paste noodle soup (Bún riêu cua)",
+      "pricePerPerson": {
+        "text": "50,000 – 95,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 50000, "max": 95000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Rice vermicelli, freshwater crab paste, tomato",
+      "orderingText": "Table",
+      "paymentText": "Cash, E-wallets, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_326255efc67de504fa85f602e84e7a4aad4473d21c3f09aed060dcac3357d5eb",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775838/newbiehoodzzzz/places/local-bites/plc_f61f7f57-4782-53e3-86c8-0a589a9c6ca0/326255efc67de504fa85f602e84e7a4aad4473d21c3f09aed060dcac3357d5eb?_a=BAMAROce0",
+        "width": 640,
+        "height": 450,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_42d142322d440e04f37abb5a33147a082f31f90265ff64fc1ebee16bfc5738ca",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793775907/newbiehoodzzzz/places/local-bites/plc_f61f7f57-4782-53e3-86c8-0a589a9c6ca0/42d142322d440e04f37abb5a33147a082f31f90265ff64fc1ebee16bfc5738ca?_a=BAMAROce0",
+        "width": 640,
+        "height": 414,
+        "alt": null,
+        "order": null
+      }
+    ]
+  },
+  {
+    "id": "plc_fb6582fd-b010-569d-aeb7-7d0ff7a545f5",
+    "slug": "bun-bo-hue-nam-giao-fb6582fd",
+    "name": "Bún Bò Huế Nam Giao",
+    "englishName": null,
+    "address": "242 Đề Thám, Phường Phạm Ngũ Lão",
+    "mapsUrl": "https://maps.google.com/?cid=18430817373119963763",
+    "summary": "Long-standing restaurant serving authentic Hue beef noodles.",
+    "openingHours": {
+      "text": "06:00 AM – 10:00 PM",
+      "interpretation": "unparsed"
+    },
+    "category": "food",
+    "food": {
+      "diningTypeText": "Central Vietnamese",
+      "dietaryDescription": "Non-vegetarian",
+      "areaText": "District 1",
+      "nearbyCampusText": "UEH",
+      "recommendedDishText": "Special Hue beef noodle soup with pork knuckle",
+      "pricePerPerson": {
+        "text": "60,000 – 110,000",
+        "currency": "VND",
+        "amount": { "kind": "range", "min": 60000, "max": 110000 }
+      },
+      "closedDaysText": "None",
+      "ingredientsText": "Rice vermicelli, beef shank, lemongrass broth",
+      "orderingText": "Table",
+      "paymentText": "Cash, Card, Transfer",
+      "serviceModeText": "Both"
+    },
+    "photos": [
+      {
+        "id": "img_89f1d53266a75ef7d23256a206aff37732fd6e1ebfd8e9579e699b461a99dc39",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776273/newbiehoodzzzz/places/local-bites/plc_fb6582fd-b010-569d-aeb7-7d0ff7a545f5/89f1d53266a75ef7d23256a206aff37732fd6e1ebfd8e9579e699b461a99dc39?_a=BAMAROce0",
+        "width": 640,
+        "height": 728,
+        "alt": null,
+        "order": null
+      },
+      {
+        "id": "img_ea2082917bc9fe234a6686d8bdea9c49d36d4b424a382fcf7812f4165413a46b",
+        "src": "https://res.cloudinary.com/rashx6vn/image/upload/c_limit,f_auto,q_auto:good,w_640/v1793776790/newbiehoodzzzz/places/local-bites/plc_fb6582fd-b010-569d-aeb7-7d0ff7a545f5/ea2082917bc9fe234a6686d8bdea9c49d36d4b424a382fcf7812f4165413a46b?_a=BAMAROce0",
+        "width": 640,
+        "height": 424,
+        "alt": null,
+        "order": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "file": "fonts/anton/Anton-Regular.ttf",
+    "names": {
+      "1": "Anton",
+      "2": "Regular"
+    },
+    "sha256": "a4ba3a92350ebb031da0cb47630ac49eb265082ca1bc0450442f4a83ab947cab",
+    "source": "https://github.com/google/fonts/tree/main/ofl/anton",
+    "license": "fonts/anton/OFL.txt",
+    "retrieved": "2026-10-29"
+  },
+  {
+    "file": "fonts/dancingscript/DancingScript-Variable.ttf",
+    "names": {
+      "1": "Dancing Script",
+      "2": "Regular"
+    },
+    "sha256": "21808625578fe8d8cd10cb684be546dca077b27cd03a53a2f1ec11dc743c924c",
+    "source": "https://github.com/google/fonts/tree/main/ofl/dancingscript",
+    "license": "fonts/dancingscript/OFL.txt",
+    "retrieved": "2026-10-29"
+  },
+  {
+    "file": "fonts/faustina/Faustina-Variable.ttf",
+    "names": {
+      "1": "Faustina Light",
+      "2": "Regular",
+      "16": "Faustina",
+      "17": "Light"
+    },
+    "sha256": "2ce2606f0ee1d493873c24818a391e02606ee76ac924b3d985cbb820c0a53ea5",
+    "source": "https://github.com/google/fonts/tree/main/ofl/faustina",
+    "license": "fonts/faustina/OFL.txt",
+    "retrieved": "2026-10-29"
+  },
+  {
+    "file": "fonts/calibri/Calibri-Regular.ttf",
+    "family": "Calibri",
+    "weight": 400,
+    "style": "normal",
+    "sha256": "6cc4055abce8101cfa3850031df0cc226341618d4361e23a7bc4d5f2ebb2807f",
+    "source": "owner-provided font/calibri-regular.ttf",
+    "provided": "2026-10-29",
+    "format": "original unmodified TrueType"
+  },
+  {
+    "file": "fonts/calibri/Calibri-Bold.ttf",
+    "family": "Calibri",
+    "weight": 700,
+    "style": "normal",
+    "sha256": "009a5e879d37d75e8922a2786e64e7ee197762111f45ac0564262aa1d8f6f81e",
+    "source": "owner-provided font/calibri-bold.ttf",
+    "provided": "2026-10-29",
+    "format": "original unmodified TrueType"
+  },
+  {
+    "file": "fonts/calibri/Calibri-Italic.ttf",
+    "family": "Calibri",
+    "weight": 400,
+    "style": "italic",
+    "sha256": "3182dadc0816e11f11d09b83b5fdf72b94cb1573ef20e105cc3fd51beb067cf0",
+    "source": "owner-provided font/calibri-italic.ttf",
+    "provided": "2026-10-29",
+    "format": "original unmodified TrueType"
+  },
+  {
+    "file": "fonts/calibri/Calibri-BoldItalic.ttf",
+    "family": "Calibri",
+    "weight": 700,
+    "style": "italic",
+    "sha256": "9378bb36eb676530f5fdc94dc4fcc73d63a6ec6ebb7d5eebe131254d7c51d2d2",
+    "source": "owner-provided font/calibri-bold-italic.ttf",
+    "provided": "2026-10-29",
+    "format": "original unmodified TrueType"
+  },
+  {
+    "file": "fonts/bookmania/Bookmania-Regular.otf",
+    "family": "Bookmania",
+    "weight": 400,
+    "style": "normal",
+    "sha256": "e4e7edbf5cdfb80c9ffc0fc7e89172d6b0502c25a8d69faa29d6951178380ef3",
+    "source": "owner-provided font/Bookmania Regular.otf",
+    "provided": "2026-10-29",
+    "format": "original unmodified OpenType"
+  },
+  {
+    "file": "fonts/bookmania/Bookmania-Bold.otf",
+    "family": "Bookmania",
+    "weight": 700,
+    "style": "normal",
+    "sha256": "fd4c53540e4c52ffbbbf69326510b0db3a5df91a344226c0ebe83f1197c1cdff",
+    "source": "owner-provided font/Bookmania Bold.otf",
+    "provided": "2026-10-29",
+    "format": "original unmodified OpenType"
+  },
+  {
+    "file": "fonts/bookmania/Bookmania-RegularItalic.otf",
+    "family": "Bookmania",
+    "weight": 400,
+    "style": "italic",
+    "sha256": "6386ecad2a7b50690a16407c4d73dabb34bd98efc9f53d7bef5de31c97c40382",
+    "source": "owner-provided font/Bookmania Regular Italic.otf",
+    "provided": "2026-10-29",
+    "format": "original unmodified OpenType"
+  },
+  {
+    "file": "fonts/bookmania/Bookmania-BoldItalic.otf",
+    "family": "Bookmania",
+    "weight": 700,
+    "style": "italic",
+    "sha256": "4a7bce49a5837c1783cf0c1d60711d7b70cf619c77a593bc8ceadbfb241a7b45",
+    "source": "owner-provided font/Bookmania Bold Italic.otf",
+    "provided": "2026-10-29",
+    "format": "original unmodified OpenType"
+  },
+  {
+    "file": "fonts/freesans/FreeSans.otf",
+    "family": "FreeSans",
+    "weight": 400,
+    "style": "normal",
+    "source": "owner-provided font/FreeSans.otf",
+    "sha256": "bffedc8309c2f828c678ec8bf89ea2848eb9da7a9fc3fb36ed4b291bb5979db9",
+    "provided": "2026-10-30",
+    "format": "original unmodified OpenType"
+  },
+  {
+    "file": "fonts/notosans/NotoSans-Bold.ttf",
+    "family": "Noto Sans",
+    "weight": 700,
+    "style": "normal",
+    "source": "owner-provided font/NotoSans-Bold.ttf",
+    "sha256": "13a813c49624ae3ba3c5c6e72c5ebffc4b9e1e6ea32f421c04069b037c6ad431",
+    "provided": "2026-10-30",
+    "format": "original unmodified TrueType"
+  },
+  {
+    "file": "fonts/georgia/Georgia-Bold.ttf",
+    "family": "Georgia",
+    "weight": 700,
+    "style": "normal",
+    "source": "owner-provided font/georgiab.ttf",
+    "sha256": "72a6cd94fab6c179392075d3fb361e269cdddfad41bb7ab385fa22a37e49a900",
+    "provided": "2026-10-30",
+    "format": "original unmodified TrueType"
+  },
+  {
+    "file": "fonts/faustina/Faustina-Italic-Variable.ttf",
+    "family": "Faustina",
+    "style": "italic",
+    "weight": "300 800",
+    "sha256": "f29f3534003a3738411f444ffa680a2c451fa55a7d7932fb0dd3d682461e83f7",
+    "source": "owner-provided font/Faustina/Faustina-Italic-VariableFont_wght.ttf",
+    "license": "fonts/faustina/OFL.txt",
+    "retrieved": "2026-11-04"
+  },
+  {
+    "file": "fonts/anton/Anton-Regular.woff2",
+    "derivedFrom": "fonts/anton/Anton-Regular.ttf",
+    "sourceSha256": "a4ba3a92350ebb031da0cb47630ac49eb265082ca1bc0450442f4a83ab947cab",
+    "sha256": "e261fbadf359b1387d3685b865818c2b7f650517e13016d77d21e1eb7ab7fae4",
+    "format": "woff2",
+    "sourceBytes": 170812,
+    "deliveryBytes": 57412,
+    "verification": "Unicode cmap, horizontal glyph metrics and unitsPerEm match original"
+  },
+  {
+    "file": "fonts/calibri/Calibri-Bold.woff2",
+    "derivedFrom": "fonts/calibri/Calibri-Bold.ttf",
+    "sourceSha256": "009a5e879d37d75e8922a2786e64e7ee197762111f45ac0564262aa1d8f6f81e",
+    "sha256": "a9c23c97cfa4eccd5ab02ef6f76d75fc55f16bc9636c5458272b2782d17973b8",
+    "format": "woff2",
+    "sourceBytes": 848924,
+    "deliveryBytes": 284484,
+    "verification": "Unicode cmap, horizontal glyph metrics and unitsPerEm match original"
+  },
+  {
+    "file": "fonts/calibri/Calibri-BoldItalic.woff2",
+    "derivedFrom": "fonts/calibri/Calibri-BoldItalic.ttf",
+    "sourceSha256": "9378bb36eb676530f5fdc94dc4fcc73d63a6ec6ebb7d5eebe131254d7c51d2d2",
+    "sha256": "e21562f5182a7fa6217473e9a93ba61e03e6ea4ef6fd18c0438df928d7009267",
+    "format": "woff2",
+    "sourceBytes": 954052,
+    "deliveryBytes": 331028,
+    "verification": "Unicode cmap, horizontal glyph metrics and unitsPerEm match original"
+  },
+  {
+    "file": "fonts/calibri/Calibri-Italic.woff2",
+    "derivedFrom": "fonts/calibri/Calibri-Italic.ttf",
+    "sourceSha256": "3182dadc0816e11f11d09b83b5fdf72b94cb1573ef20e105cc3fd51beb067cf0",
+    "sha256": "19ecb4abe5905eeb68adbe73078d06a039fcf7867d8ed21989c41b0b9e53d51d",
+    "format": "woff2",
+    "sourceBytes": 997180,
+    "deliveryBytes": 342224,
+    "verification": "Unicode cmap, horizontal glyph metrics and unitsPerEm match original"
+  },
+  {
+    "file": "fonts/calibri/Calibri-Regular.woff2",
+    "derivedFrom": "fonts/calibri/Calibri-Regular.ttf",
+    "sourceSha256": "6cc4055abce8101cfa3850031df0cc226341618d4361e23a7bc4d5f2ebb2807f",
+    "sha256": "cf3cdeca65d57698c11b0c5831652a2ed450e388bbe8663f464dd2b881c9ed2f",
+    "format": "woff2",
+    "sourceBytes": 811412,
+    "deliveryBytes": 265016,
+    "verification": "Unicode cmap, horizontal glyph metrics and unitsPerEm match original"
+  },
+  {
+    "file": "fonts/dancingscript/DancingScript-Variable.woff2",
+    "derivedFrom": "fonts/dancingscript/DancingScript-Variable.ttf",
+    "sourceSha256": "21808625578fe8d8cd10cb684be546dca077b27cd03a53a2f1ec11dc743c924c",
+    "sha256": "7641e43dcbe5ba3217a3f12080621a041978249b8a6dacaf3d7ff10a7517f8e9",
+    "format": "woff2",
+    "sourceBytes": 133636,
+    "deliveryBytes": 59856,
+    "verification": "Unicode cmap, horizontal glyph metrics and unitsPerEm match original"
+  },
+  {
+    "file": "fonts/faustina/Faustina-Italic-Variable.woff2",
+    "derivedFrom": "fonts/faustina/Faustina-Italic-Variable.ttf",
+    "sourceSha256": "f29f3534003a3738411f444ffa680a2c451fa55a7d7932fb0dd3d682461e83f7",
+    "sha256": "084c6d601a103315b66883ebc521ac532df4499af49b6bff30bfa9e1080b27d5",
+    "format": "woff2",
+    "sourceBytes": 122216,
+    "deliveryBytes": 53308,
+    "verification": "Unicode cmap, horizontal glyph metrics and unitsPerEm match original"
+  },
+  {
+    "file": "fonts/faustina/Faustina-Variable.woff2",
+    "derivedFrom": "fonts/faustina/Faustina-Variable.ttf",
+    "sourceSha256": "2ce2606f0ee1d493873c24818a391e02606ee76ac924b3d985cbb820c0a53ea5",
+    "sha256": "aaa23384ba0d37a8b6140c57ee0b568a9b8150aed75ca3451dcfef0765142704",
+    "format": "woff2",
+    "sourceBytes": 118468,
+    "deliveryBytes": 49780,
+    "verification": "Unicode cmap, horizontal glyph metrics and unitsPerEm match original"
+  },
+  {
+    "file": "fonts/freesans/FreeSans.woff2",
+    "derivedFrom": "fonts/freesans/FreeSans.otf",
+    "sourceSha256": "bffedc8309c2f828c678ec8bf89ea2848eb9da7a9fc3fb36ed4b291bb5979db9",
+    "sha256": "49b1f75736746f363f4e92fafa9d8f72aedf00ee8700428622cf8d5a8febcfd5",
+    "format": "woff2",
+    "sourceBytes": 706688,
+    "deliveryBytes": 325588,
+    "verification": "Unicode cmap, horizontal glyph metrics and unitsPerEm match original"
+  },
+  {
+    "file": "fonts/georgia/Georgia-Bold.woff2",
+    "derivedFrom": "fonts/georgia/Georgia-Bold.ttf",
+    "sourceSha256": "72a6cd94fab6c179392075d3fb361e269cdddfad41bb7ab385fa22a37e49a900",
+    "sha256": "df03daa3ba66befb55b72c0d9d8173ef74f5f1ee9739f02b874e70f6359ae338",
+    "format": "woff2",
+    "sourceBytes": 207476,
+    "deliveryBytes": 95864,
+    "verification": "Unicode cmap, horizontal glyph metrics and unitsPerEm match original"
+  },
+  {
+    "file": "fonts/notosans/NotoSans-Bold.woff2",
+    "derivedFrom": "fonts/notosans/NotoSans-Bold.ttf",
+    "sourceSha256": "13a813c49624ae3ba3c5c6e72c5ebffc4b9e1e6ea32f421c04069b037c6ad431",
+    "sha256": "fb9e89bc03c20f322de0b48772befaab0de1392ebef74ded366af0f9b9c8c348",
+    "format": "woff2",
+    "sourceBytes": 630968,
+    "deliveryBytes": 209776,
+    "verification": "Unicode cmap, horizontal glyph metrics and unitsPerEm match original"
+  }
+]

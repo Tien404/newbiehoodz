@@ -1,0 +1,794 @@
+.home-main {
+  font-family: var(--font-arial);
+  color: var(--color-ink-home);
+}
+.home-main h1,
+.home-main h2,
+.home-main h3,
+.home-main p {
+  margin: 0;
+}
+.home-artboard {
+  position: relative;
+  width: min(100%, var(--reference-width));
+  margin-inline: auto;
+}
+.home-hero {
+  position: relative;
+  isolation: isolate;
+  min-height: 682px;
+  background: var(--color-cream-panel)
+    url("/home/hero-background-delivery.webp") center top / 1366px 682px
+    repeat-x;
+  overflow: hidden;
+}
+.home-hero__corner {
+  position: absolute;
+  z-index: 0;
+  width: clamp(144px, 20vw, 268px);
+  height: auto;
+  aspect-ratio: 268 / 312;
+  pointer-events: none;
+}
+.home-hero__corner--top-right {
+  top: 0;
+  right: -2px;
+}
+.home-hero__corner--bottom-left {
+  bottom: 0;
+  left: -4px;
+}
+.home-hero__inner {
+  z-index: 1;
+  min-height: 682px;
+  padding-top: 66px;
+}
+.home-hero__panel {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 616px;
+  min-height: 528px;
+  margin-inline: auto;
+  padding: 56px 28px 48px;
+  border: var(--border-card) solid var(--color-ink-home);
+  border-radius: var(--radius-panel);
+  background: var(--color-cream-panel);
+  box-shadow: 12px 12px 0 var(--color-header-rule);
+  text-align: center;
+}
+.home-hero__panel .home-hero__logo {
+  width: 168px;
+}
+.home-hero h1 {
+  margin-top: 64px;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+}
+.home-hero h1 span {
+  display: block;
+}
+.home-hero__panel > p {
+  margin-top: 40px;
+  font-size: 23px;
+  line-height: 28px;
+}
+.home-hero__cta {
+  width: 268px;
+  margin-top: 40px;
+  min-height: 64px;
+  padding-inline: 16px;
+}
+.home-hero__butterfly {
+  position: absolute;
+  left: calc(50% + 204px);
+  top: 474px;
+  width: 160px;
+  height: 176px;
+  pointer-events: none;
+}
+.home-welcome {
+  position: relative;
+  isolation: isolate;
+  min-height: 768px;
+  background: var(--color-cream-home);
+  overflow: hidden;
+}
+.home-welcome__flowers {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+.home-welcome__flower-piece {
+  position: absolute;
+  background-image: url("/home/welcome-flowers.webp");
+  background-size: 1366px 768px;
+  background-repeat: no-repeat;
+  transform-origin: left top;
+}
+.home-welcome__flower-piece--right {
+  transform-origin: right top;
+}
+.home-welcome__butterfly {
+  --butterfly-width: clamp(144px, 21.67vw, 296px);
+  position: absolute;
+  z-index: 0;
+  width: var(--butterfly-width);
+  height: auto;
+  aspect-ratio: 296 / 288;
+  top: calc(var(--butterfly-width) * -0.108108);
+  right: calc(var(--butterfly-width) * -0.074324);
+  pointer-events: none;
+}
+.home-welcome__inner {
+  z-index: 1;
+  min-height: 768px;
+}
+.home-welcome__paper {
+  position: absolute;
+  top: 140px;
+  left: calc(50% - 300px);
+  width: 600px;
+  height: 596px;
+}
+.home-welcome__heart {
+  position: absolute;
+  top: 36px;
+  left: calc(50% - 112px);
+  width: 216px;
+  height: 180px;
+}
+.home-welcome__copy {
+  position: relative;
+  padding-top: 224px;
+  max-width: 500px;
+  margin-inline: auto;
+  text-align: center;
+}
+.home-welcome h2 {
+  font-family: var(--font-anton);
+  font-size: 84px;
+  font-weight: 400;
+  line-height: 104px;
+}
+.home-welcome .home-welcome__script {
+  color: var(--color-script-home);
+  font-family: var(--font-dancing-script);
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 44px;
+}
+.home-welcome .home-welcome__description {
+  margin-top: 8px;
+  color: var(--color-hot-pink);
+  font-size: 26px;
+  line-height: 35px;
+  letter-spacing: 3px;
+}
+.home-welcome__description span {
+  display: block;
+}
+.home-welcome__cta {
+  width: 308px;
+  min-height: 68px;
+  margin-top: 36px;
+}
+.home-discovery {
+  min-height: 824px;
+  padding: 72px 0 84px;
+  background: var(--color-pink);
+}
+.home-discovery > h2 {
+  font-family: var(--font-faustina);
+  font-size: var(--text-home-display);
+  font-weight: 700;
+  line-height: 68px;
+  text-align: center;
+}
+.home-discovery__grid {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 16px;
+  margin-top: 44px;
+}
+.discovery-card {
+  position: relative;
+  min-height: 556px;
+  border: var(--border-card) solid var(--color-ink-home);
+  border-radius: var(--radius-card-home);
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+}
+.discovery-card--study {
+  background-color: #c9e2f2;
+  background-image: url("/home/pattern-study.webp");
+}
+.discovery-card--food {
+  background-color: var(--color-peach);
+  background-image: url("/home/pattern-food.webp");
+}
+.discovery-card--activities {
+  background-color: var(--color-yellow);
+  background-image: url("/home/pattern-activities.webp");
+}
+.discovery-card--cheatsheet {
+  background-color: var(--color-mint-home);
+  background-image: url("/home/pattern-cheatsheet.webp");
+}
+.discovery-card__label {
+  position: absolute;
+  top: 24px;
+  left: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 176px;
+  min-height: 44px;
+  padding: 4px 12px;
+  transform: rotate(-4deg);
+  background: var(--color-white);
+  color: var(--color-label-blue);
+  font-size: 23px;
+  font-weight: 700;
+  line-height: 26px;
+  text-align: center;
+}
+.discovery-card--food .discovery-card__label {
+  color: var(--color-peach);
+}
+.discovery-card--activities .discovery-card__label {
+  color: var(--color-yellow);
+}
+.discovery-card--cheatsheet .discovery-card__label {
+  top: 24px;
+  left: 56px;
+}
+.discovery-card__tape {
+  position: absolute;
+  top: -4px;
+  right: 36px;
+  width: 80px;
+  height: 48px;
+  pointer-events: none;
+}
+.discovery-card__illustration {
+  position: absolute;
+  top: 84px;
+  left: calc(50% - 90px);
+  width: 180px;
+  height: 152px;
+}
+.discovery-card--food .discovery-card__illustration {
+  top: 72px;
+  left: 36px;
+  width: 200px;
+  height: 144px;
+}
+.discovery-card--activities .discovery-card__illustration {
+  top: 80px;
+  left: 40px;
+  width: 184px;
+  height: 128px;
+}
+.discovery-card--cheatsheet .discovery-card__illustration {
+  top: 76px;
+  left: 88px;
+  width: 164px;
+  height: 140px;
+}
+.discovery-card h3 {
+  position: absolute;
+  top: 248px;
+  left: 24px;
+  right: 24px;
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 30px;
+}
+.discovery-card--activities h3,
+.discovery-card--cheatsheet h3 {
+  top: 224px;
+}
+.discovery-card > p {
+  position: absolute;
+  top: 324px;
+  left: 24px;
+  right: 24px;
+  font-size: 17.8px;
+  line-height: 21.2px;
+}
+.discovery-card__cta {
+  position: absolute;
+  bottom: 32px;
+  left: 24px;
+  right: 24px;
+  min-height: 52px;
+  padding: 12px 8px;
+  font-size: 21px;
+}
+.home-promotion {
+  position: relative;
+  isolation: isolate;
+  min-height: 824px;
+  background: var(--color-lavender) url("/home/promotion-decoration.svg") center
+    top / 100% 100% no-repeat;
+  text-align: center;
+  overflow: hidden;
+}
+/* Original circles stay round while the wave paths expand across wider screens. */
+.home-promotion__dots {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+.home-promotion__dot {
+  position: absolute;
+  display: block;
+  aspect-ratio: 1;
+  border-radius: 50%;
+}
+.home-promotion__dot--pink {
+  left: 8.9434%;
+  top: 15.6933%;
+  width: clamp(40px, 6.1013vw, 83.34px);
+  background: var(--color-pink);
+}
+.home-promotion__dot--yellow {
+  left: 86.1559%;
+  top: 72.8585%;
+  width: clamp(44px, 6.8505vw, 93.58px);
+  background: var(--color-yellow);
+}
+.home-promotion__dot--blue {
+  left: 14.9414%;
+  top: 70.38%;
+  width: clamp(32px, 4.6032vw, 62.88px);
+  background: #bfddf5;
+}
+.home-promotion__dot--mint {
+  left: 82.4129%;
+  top: 19.4219%;
+  width: clamp(32px, 4.2243vw, 57.7px);
+  background: var(--color-mint-home);
+}
+.home-promotion__inner {
+  z-index: 1;
+  min-height: 824px;
+  padding: 272px 24px 180px;
+}
+.home-promotion h2 {
+  font-family: var(--font-faustina);
+  font-size: 62.6px;
+  font-weight: 700;
+  line-height: 80px;
+}
+.home-promotion p {
+  margin-top: 12px;
+  font-family: var(--font-dancing-script);
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 44px;
+}
+.home-promotion__cta {
+  width: 440px;
+  min-height: 68px;
+  margin-top: 92px;
+}
+.home-about {
+  min-height: 664px;
+  background: var(--color-cream-home);
+  overflow: hidden;
+}
+.home-about__inner {
+  min-height: 664px;
+}
+.home-about__tower {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 168px;
+  height: 664px;
+}
+.home-about__market {
+  position: absolute;
+  left: 940px;
+  top: 0;
+  width: 488px;
+  height: 664px;
+}
+.home-about__saigon {
+  position: absolute;
+  left: 1000px;
+  top: 0;
+  width: 366px;
+  height: 200px;
+}
+.home-about__note {
+  position: absolute;
+  border: 2px solid;
+  border-radius: 20px;
+  padding: 20px 16px;
+}
+.home-about__note h3 {
+  font-family: var(--font-anton);
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 36px;
+}
+.home-about__note p {
+  margin-top: 4px;
+  font-family: var(--font-faustina);
+  font-size: 14px;
+  line-height: 18px;
+  text-align: justify;
+}
+.home-about__note--1 {
+  left: 160px;
+  top: 164px;
+  width: 260px;
+  min-height: 196px;
+  transform: rotate(-10deg);
+  background: var(--color-note-pink);
+  border-color: #f2a5c3;
+  box-shadow: 6px 6px 0 #f2a5c3;
+}
+.home-about__note--2 {
+  left: 136px;
+  top: 376px;
+  width: 304px;
+  min-height: 152px;
+  transform: rotate(7deg);
+  background: var(--color-green-panel);
+  border-color: var(--color-green-border);
+  box-shadow: 6px 6px 0 var(--color-green-border);
+}
+.home-about__copy {
+  position: absolute;
+  left: 488px;
+  top: 208px;
+  width: 608px;
+}
+.home-about .home-about__tag {
+  display: inline-block;
+  padding: 8px 24px;
+  margin-left: -20px;
+  transform: rotate(1.5deg);
+  background: var(--color-mint-home);
+  font-size: 19px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.home-about h2 {
+  margin-top: 12px;
+  font-size: 62px;
+  font-weight: 700;
+  line-height: 72px;
+}
+.home-about h2 span {
+  position: relative;
+  isolation: isolate;
+}
+.home-about h2 span::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  bottom: 7px;
+  left: -16px;
+  right: 0;
+  height: 24px;
+  border-radius: 20px;
+  background: var(--color-yellow);
+}
+.home-about .home-about__description {
+  margin-top: 4px;
+  font-size: 22.8px;
+  line-height: 26px;
+}
+.home-about__cta {
+  display: flex;
+  width: 220px;
+  min-height: 52px;
+  padding: 12px 16px;
+  margin: 16px auto 0;
+  transform: translateX(-12px);
+}
+@media (max-width: 1150px) {
+  .home-discovery {
+    padding-inline: 0;
+  }
+  .home-discovery__grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 24px;
+  }
+  .home-about {
+    padding-bottom: 320px;
+  }
+  .home-about__inner {
+    min-height: 720px;
+  }
+  .home-about__copy {
+    left: 44%;
+    width: 52%;
+  }
+  .home-about h2 {
+    font-size: 48px;
+    line-height: 60px;
+  }
+  .home-about__notes {
+    position: relative;
+    width: 40%;
+    min-height: 600px;
+  }
+  .home-about__note--1 {
+    left: 15%;
+    top: 112px;
+    width: 84%;
+  }
+  .home-about__note--2 {
+    left: 10%;
+    top: 368px;
+    width: 90%;
+  }
+  .home-about__market {
+    left: auto;
+    right: -72px;
+    top: auto;
+    bottom: -320px;
+    width: 488px;
+    height: auto;
+  }
+  .home-about__tower {
+    top: 360px;
+    height: auto;
+  }
+  .home-about__saigon {
+    left: auto;
+    right: 16px;
+  }
+}
+@media (max-width: 700px) {
+  .home-welcome__flower-piece {
+    transform: scale(0.7);
+  }
+  .home-hero {
+    position: relative;
+    isolation: isolate;
+    min-height: 640px;
+    background-position: center top;
+  }
+  .home-hero__inner {
+    z-index: 1;
+    min-height: 640px;
+    padding: 56px 24px 80px;
+  }
+  .home-hero__panel {
+    width: min(100%, 616px);
+    min-height: 0;
+    padding: 40px 20px;
+  }
+  .home-hero__panel .home-hero__logo {
+    width: 144px;
+  }
+  .home-hero h1 {
+    font-size: clamp(24px, 5vw, 36px);
+    line-height: 1.2;
+    margin-top: 40px;
+  }
+  .home-hero h1 span {
+    display: inline;
+  }
+  .home-hero__panel > p {
+    margin-top: 28px;
+    font-size: 20px;
+    line-height: 26px;
+  }
+  .home-hero__cta {
+    margin-top: 28px;
+    width: min(100%, 268px);
+  }
+  .home-hero__butterfly {
+    width: 100px;
+    height: 110px;
+    left: auto;
+    right: 0;
+    top: auto;
+    bottom: 36px;
+  }
+  .home-welcome {
+    min-height: 720px;
+  }
+  .home-welcome__inner {
+    z-index: 1;
+    min-height: 720px;
+    padding: 0 28px 60px;
+  }
+  .home-welcome__paper {
+    width: calc(100% - 32px);
+    height: calc(100% - 144px);
+    left: 16px;
+    top: 120px;
+    object-fit: fill;
+  }
+  .home-welcome__heart {
+    width: 168px;
+    height: 140px;
+    left: calc(50% - 84px);
+    top: 28px;
+  }
+  .home-welcome__copy {
+    padding-top: 188px;
+  }
+  .home-welcome h2 {
+    font-size: 64px;
+    line-height: 80px;
+  }
+  .home-welcome .home-welcome__script {
+    font-size: 32px;
+    line-height: 44px;
+  }
+  .home-welcome .home-welcome__description {
+    margin-top: 8px;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 1px;
+  }
+  .home-welcome__description span {
+    display: inline;
+  }
+  .home-welcome__cta {
+    width: min(100%, 308px);
+    margin-top: 28px;
+  }
+  .home-discovery {
+    padding-block: 64px;
+    padding-inline: 0;
+  }
+  .home-discovery > h2 {
+    font-size: 40px;
+    line-height: 48px;
+    transform: none;
+  }
+  .home-discovery__grid {
+    grid-template-columns: minmax(0, 1fr);
+    margin-top: 40px;
+  }
+  .discovery-card {
+    display: flex;
+    flex-direction: column;
+    min-height: 556px;
+    padding: 24px;
+  }
+  .discovery-card__label,
+  .discovery-card--cheatsheet .discovery-card__label {
+    left: calc(50% - 88px);
+  }
+  .discovery-card__illustration,
+  .discovery-card--food .discovery-card__illustration,
+  .discovery-card--activities .discovery-card__illustration,
+  .discovery-card--cheatsheet .discovery-card__illustration {
+    position: relative;
+    top: auto;
+    left: auto;
+    align-self: center;
+    flex-shrink: 0;
+    margin: 60px 0 16px;
+  }
+  .discovery-card h3,
+  .discovery-card--activities h3,
+  .discovery-card--cheatsheet h3 {
+    position: static;
+    font-size: 26px;
+    line-height: 30px;
+  }
+  .discovery-card > p {
+    position: static;
+    margin: 12px 0 24px;
+    font-size: 18px;
+    line-height: 23px;
+  }
+  .discovery-card__cta {
+    position: static;
+    width: 100%;
+    margin-top: auto;
+    flex-shrink: 0;
+    font-size: 20px;
+  }
+  .home-promotion,
+  .home-promotion__inner {
+    min-height: 640px;
+  }
+  .home-promotion__inner {
+    padding: 148px 24px 140px;
+  }
+  .home-promotion h2 {
+    font-size: 44px;
+    line-height: 52px;
+    transform: none;
+  }
+  .home-promotion p {
+    margin-top: 20px;
+    font-size: 28px;
+    line-height: 36px;
+  }
+  .home-promotion__cta {
+    width: min(100%, 440px);
+    margin-top: 64px;
+  }
+  .home-about {
+    padding: 64px 24px 0;
+  }
+  .home-about__inner {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 312px;
+  }
+  .home-about__notes {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    min-height: 0;
+    padding: 16px 0 56px;
+  }
+  .home-about__note {
+    position: relative;
+    left: auto;
+    top: auto;
+    width: min(100%, 288px);
+  }
+  .home-about__note--1 {
+    transform: rotate(-6deg);
+  }
+  .home-about__note--2 {
+    transform: rotate(5deg);
+  }
+  .home-about__copy {
+    position: relative;
+    left: auto;
+    top: auto;
+    width: 100%;
+  }
+  .home-about .home-about__tag {
+    margin-left: 0;
+  }
+  .home-about h2 {
+    font-size: 44px;
+    line-height: 56px;
+  }
+  .home-about .home-about__description {
+    font-size: 20px;
+    line-height: 27px;
+    margin-top: 12px;
+  }
+  .home-about__cta {
+    margin-top: 24px;
+    transform: none;
+  }
+  .home-about__tower {
+    top: auto;
+    bottom: -24px;
+    left: -32px;
+    width: 80px;
+  }
+  .home-about__market {
+    left: auto;
+    top: auto;
+    bottom: 0;
+    right: -80px;
+    width: 360px;
+  }
+  .home-about__saigon {
+    top: auto;
+    bottom: 180px;
+    right: -12px;
+    width: 200px;
+    height: auto;
+  }
+}

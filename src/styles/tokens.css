@@ -1,0 +1,163 @@
+/* D: observed colors and PDF text sizes. E/A geometry is listed in docs/DESIGN.md. */
+:root {
+  color-scheme: light;
+  --color-cream-home: #fff6e6;
+  --color-cream-panel: #fffaee;
+  --color-cream-guide: #fff8ec;
+  --color-ink-home: #5e3030;
+  --color-ink-home-alt: #583231;
+  --color-burgundy: #6b2d3e;
+  --color-ink-guide: #4a3a3f;
+  --color-pink: #f9c9dc;
+  --color-note-pink: #f7d0e0;
+  --color-hot-pink: #ef4792;
+  --color-header-rule: #f7b5cf;
+  --color-lavender: #d5c8f0;
+  --color-footer-lavender: #f0eafa;
+  --color-peach: #ffd3b0;
+  --color-yellow: #ffe79a;
+  --color-mint-home: #bfe8d2;
+  --color-mint: #cbe8cf;
+  --color-mint-surface: #e8f5ea;
+  --color-green-panel: #d3ebd6;
+  --color-green-border: #9dd2a6;
+  --color-script-home: #738f76;
+  --color-script-guide: #527256;
+  --color-script-brown: #896847;
+  --color-label-blue: #52ace7;
+  --color-contact: #7a3347;
+  --color-white: #ffffff;
+  --color-badge-mint: #cbe8cf;
+  --color-badge-pink: #f7c6d9;
+  --color-badge-yellow: #fbe7a1;
+  --color-badge-blue: #cfe5f5;
+  --color-badge-lavender: #e4dbf7;
+  --color-badge-peach: #fad7bd;
+
+  --font-arial: "Canva Arial", Arial, sans-serif;
+  --font-calibri: "Canva Calibri", Calibri, sans-serif;
+  --font-faustina: "Faustina", serif;
+  --font-anton: "Anton", sans-serif;
+  --font-dancing-script: "Dancing Script", cursive;
+  --font-phrase: var(--font-faustina);
+  --text-nav: 1.185rem; /* 18.96px at the default 16px root. */
+  --text-home-body: 1.111875rem;
+  --text-home-cta: 1.333125rem;
+  --text-home-hero: 2.48875rem;
+  --text-home-display: 3.5rem;
+  --text-guide-body: 1.3625rem;
+  --text-guide-title: 3.08125rem;
+  --text-guide-hero: 4.26625rem;
+  --text-guide-script: 1.75rem;
+  --text-guide-phrase: 1.540625rem;
+  --text-footer-home: 1.39875rem;
+  --text-footer-guide: 1.066875rem;
+
+  /* E: measured geometry, not a recovered Canva spacing scale. */
+  --reference-width: 85.375rem; /* 1366px */
+  --container-home: 80.8125rem; /* 1293px */
+  --container-guide: 76.5rem; /* 1224px */
+  --space-card-inset: 1.75rem;
+  --space-grid-home: 1.1875rem;
+  --space-grid-guide: 1.5625rem;
+  --radius-card-home: 1.875rem;
+  --radius-card-guide: 1.5rem;
+  --radius-panel: 2.5rem;
+  --radius-pill: 999px;
+  --border-card: 4px;
+  --border-panel: 2px;
+  --header-home-height: 5.375rem;
+  --header-guide-height: 6.0625rem;
+  --footer-home-height: 10rem;
+  --footer-guide-height: 15.5rem;
+  --focus-ring: 2px solid var(--color-burgundy); /* A: keyboard-only affordance. */
+}
+
+@font-face {
+  font-family: "Canva Arial";
+  src: local("Arial"), local("ArialMT");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Canva Arial";
+  src: local("Arial Bold"), local("Arial-BoldMT");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Canva Calibri";
+  src:
+    url("/fonts/calibri/Calibri-Regular.woff2") format("woff2"),
+    url("/fonts/calibri/Calibri-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Canva Calibri";
+  src:
+    url("/fonts/calibri/Calibri-Bold.woff2") format("woff2"),
+    url("/fonts/calibri/Calibri-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Canva Calibri";
+  src:
+    url("/fonts/calibri/Calibri-Italic.woff2") format("woff2"),
+    url("/fonts/calibri/Calibri-Italic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Canva Calibri";
+  src:
+    url("/fonts/calibri/Calibri-BoldItalic.woff2") format("woff2"),
+    url("/fonts/calibri/Calibri-BoldItalic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Anton";
+  src:
+    url("/fonts/anton/Anton-Regular.woff2") format("woff2"),
+    url("/fonts/anton/Anton-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Dancing Script";
+  src:
+    url("/fonts/dancingscript/DancingScript-Variable.woff2") format("woff2"),
+    url("/fonts/dancingscript/DancingScript-Variable.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Faustina";
+  src:
+    url("/fonts/faustina/Faustina-Variable.woff2") format("woff2"),
+    url("/fonts/faustina/Faustina-Variable.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 300 800;
+  font-display: swap;
+}
+
+/* Owner-approved replacement: real Faustina italics, no synthetic slant. */
+@font-face {
+  font-family: "Faustina";
+  src:
+    url("/fonts/faustina/Faustina-Italic-Variable.woff2") format("woff2"),
+    url("/fonts/faustina/Faustina-Italic-Variable.ttf") format("truetype");
+  font-style: italic;
+  font-weight: 300 800;
+  font-display: swap;
+}

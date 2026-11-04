@@ -1,26 +1,38 @@
 @import "tailwindcss";
-
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+@import "../styles/tokens.css";
+@import "../styles/foundation.css";
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-background: var(--color-cream-home);
+  --color-foreground: var(--color-ink-home);
+  --color-brand-burgundy: var(--color-burgundy);
+  --color-brand-mint: var(--color-mint);
+  --color-brand-pink: var(--color-pink);
+  --color-brand-lavender: var(--color-lavender);
+  --font-sans: var(--font-arial);
+  --font-display: var(--font-faustina);
+  --font-script: var(--font-dancing-script);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+@layer base {
+  html {
+    min-height: 100%;
   }
-}
-
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  body {
+    margin: 0;
+    min-height: 100vh;
+    background: var(--color-cream-home);
+    color: var(--color-ink-home);
+    font-family: var(--font-arial);
+    font-synthesis: none;
+  }
+  button,
+  a {
+    -webkit-tap-highlight-color: transparent;
+  }
+  a:focus-visible,
+  button:focus-visible {
+    outline: var(--focus-ring);
+    outline-offset: 4px;
+  }
 }

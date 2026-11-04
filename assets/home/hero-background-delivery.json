@@ -1,0 +1,17 @@
+{
+  "source": "public/home/hero-background.webp",
+  "delivery": "public/home/hero-background-delivery.webp",
+  "sourceSha256": "f609446ba2c269df1755eb5cb0a07311446c82e3c55afb95c89dfbfe3731eed0",
+  "deliverySha256": "a6f76a1e6ee4b72413bd4483d16cf8b51e338eeb0bf163fc98120d74a7e48d0c",
+  "sourceBytes": 321914,
+  "deliveryBytes": 52398,
+  "size": [
+    2732,
+    1364
+  ],
+  "compositedAgainst": "#fffaee",
+  "webpQuality": 100,
+  "lossless": false,
+  "meanChannelErrorOutOf255": 0.31569347897336375,
+  "note": "Maximum-quality RGB delivery variant on the actual static Home background color; original RGBA asset retained. Recreate if that CSS background color changes."
+}

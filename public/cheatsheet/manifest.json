@@ -1,0 +1,205 @@
+[
+  {
+    "file": "hero-hat.webp",
+    "source_derivative": "assets/cheatsheet/hero-hat.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "6f9eabe0e09b4c93922354435aee948ccb328b1b3998e18faaddfa2a6ec273e3",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "hero-child.webp",
+    "source_derivative": "assets/cheatsheet/hero-child.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "e15a5759f7545ba25455f0469f90ea722b33c80ac58186f7206114ecedf90549",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "hero-heart.webp",
+    "source_derivative": "assets/cheatsheet/hero-heart.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "71d2be2ef6b1298a2870a24c76dbae99661b68db694266321fc74ddd3ed426a7",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "hero-scallops.svg",
+    "source_derivative": "assets/cheatsheet/hero-scallops.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "df8cc5867b3b7002b16a4213c0596d91d0c6165205539674487cc6ee0b58cde4",
+    "delivery": "original SVG"
+  },
+  {
+    "file": "street-star.webp",
+    "source_derivative": "assets/cheatsheet/street-star.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "29defc1c63a0bac9ed4e0a0d49bea45db85aa9c70fa7dc71988ff11399c65471",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "street-bag.webp",
+    "source_derivative": "assets/cheatsheet/street-bag.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "f7a16d4336f96a1fccb579d58164d97aa25dfe3b8b064ab68f1b8b5983957d64",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "street-scooter.webp",
+    "source_derivative": "assets/cheatsheet/street-scooter.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "ecdc69e362c8ba8c6c076998a4c611ba215dd8385820edf3dafaabcc0bd5ff63",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "street-fruit.webp",
+    "source_derivative": "assets/cheatsheet/street-fruit.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "d4bf91b9d32e856856e31e51829a9d576e007a529b0ec2de53636974ec814207",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "app-phone.webp",
+    "source_derivative": "assets/cheatsheet/app-phone.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "9e13f72a8cb8c050235b56bbbb13c4b6b7727bc5126687a6f2c763c874c63938",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "app-heart.webp",
+    "source_derivative": "assets/cheatsheet/app-heart.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "1873d2ae2c03a0f67f3a61dfcbfa03eb47c74c39ba982edf99b1bc46a4504611",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "app-lantern.webp",
+    "source_derivative": "assets/cheatsheet/app-lantern.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "d23afba7b7848bacc4bfc06f3e6ff9efaf1587ea80d73d46b54523c9f2c63035",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "app-grocery.webp",
+    "source_derivative": "assets/cheatsheet/app-grocery.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "82f22bee8cc90bb296d0a085ca45354c0bd4244f26b9b5da681013da719c8a15",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "app-zalo.webp",
+    "source_derivative": "assets/cheatsheet/app-zalo.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "bfad4eca8ad85d2f2a10ea38e4ca1734d3140a5c1379188ff149971b7cb7e17a",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "app-rider.webp",
+    "source_derivative": "assets/cheatsheet/app-rider.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "538c06893ba78ad6f4d615e82017496682bd23b113f5e688624d44d31139d1c5",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "app-drinks.webp",
+    "source_derivative": "assets/cheatsheet/app-drinks.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "8143e883a42a6d1570b5c979657d8144db7533b84591a3a40f7d95a70633f4a4",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "app-map.webp",
+    "source_derivative": "assets/cheatsheet/app-map.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "2cffd6dcc2faaf47a2e6ada1de7144c3722fb9397bd057993a885ce26c7b5aff",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "student-card.webp",
+    "source_derivative": "assets/cheatsheet/student-card.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "6d9acd6d4a7fb2a915551b839498c532d904dc355d862fedfb9dbb78fd408c51",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "student-star.webp",
+    "source_derivative": "assets/cheatsheet/student-star.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "447bea8a370b1f9fc069632cb36fa8c03e67b10267ca9189f317d61850ec5862",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "student-lotus.webp",
+    "source_derivative": "assets/cheatsheet/student-lotus.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "e54a7446a92d6be11b26f8a820a059977bc9455baa247d3205caa7b6054741d0",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "weather-background.webp",
+    "source_derivative": "assets/cheatsheet/weather-background.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "935f7d418b5c8c777e1d547218ce3adec0d49a18904c0e8728b17d9fbb8754ca",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "weather-sun-cloud.webp",
+    "source_derivative": "assets/cheatsheet/weather-sun-cloud.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "92485a65751bd99cbda103ebcb862152a814570efbba604d40326c59f855391c",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "weather-umbrella.webp",
+    "source_derivative": "assets/cheatsheet/weather-umbrella.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "aa223b2ff52adc1c807796c8b6beb365a45bad024d241fab8bef25b99970c383",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "weather-rain.webp",
+    "source_derivative": "assets/cheatsheet/weather-rain.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "111b935b96295fe27fa767497373b6047375a1c70ed4d6391b3bbe90b30f1a70",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "phrase-lotus.webp",
+    "source_derivative": "assets/cheatsheet/phrase-lotus.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "eebc342410b77551dc727fb9be2cd25529e5014e92e3f2f5e9a7e93bd1b55e2f",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "phrase-lantern.webp",
+    "source_derivative": "assets/cheatsheet/phrase-lantern.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "756ae25b3c8679bc026b22be9a2c0b83c9af96ff455f45c6195ebc0b8ab752d5",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "phrase-hat.webp",
+    "source_derivative": "assets/cheatsheet/phrase-hat.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "4f4e53b12b597849422b50770fd4a20249cfd5826fca8692b9c7a394b793b3a9",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "phrase-heart.webp",
+    "source_derivative": "assets/cheatsheet/phrase-heart.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "2e4e20c22dd06e5477fcc5b3cbc42bf41f57ad208f295168bfe4b9705c722916",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "contact-hat.webp",
+    "source_derivative": "assets/cheatsheet/contact-hat.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "a35186cc6bb35bce908a69b83a219aed8bcb53fe97e83e598c53bc1b39f31660",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "contact-lantern.webp",
+    "source_derivative": "assets/cheatsheet/contact-lantern.svg",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96",
+    "sha256": "f52b04ab5f18399513db006ec8546cb5736c5fa62570bdcfc98be628883a6fff",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  }
+]

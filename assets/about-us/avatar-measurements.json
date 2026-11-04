@@ -1,0 +1,170 @@
+[
+  {
+    "file": "public/about-us/portrait-mai.webp",
+    "sha256": "132beeb9234b4a8a8ab4e48ae9bdf620eaf3857e1e25de09418132afad832989",
+    "canvas": [
+      768,
+      704
+    ],
+    "bounds": [
+      122,
+      149,
+      646,
+      673
+    ]
+  },
+  {
+    "file": "public/about-us/avatar-mai.webp",
+    "sha256": "96b7d80cffe71ee0e63e9169ee79b15e7b9ecec07876635d78082fee3be81593",
+    "canvas": [
+      352,
+      352
+    ],
+    "bounds": [
+      9,
+      8,
+      342,
+      341
+    ]
+  },
+  {
+    "file": "public/about-us/portrait-bao-lan.webp",
+    "sha256": "8af898017b556cc3bd4a350276da52d415ca9866f6792f780332418b31868922",
+    "canvas": [
+      768,
+      704
+    ],
+    "bounds": [
+      152,
+      163,
+      610,
+      622
+    ]
+  },
+  {
+    "file": "public/about-us/avatar-bao-lan.webp",
+    "sha256": "a4bcdd393669d2ff98341f104f765a200d87b2e3609e6e91ea2cd629634979a8",
+    "canvas": [
+      352,
+      352
+    ],
+    "bounds": [
+      9,
+      14,
+      342,
+      347
+    ]
+  },
+  {
+    "file": "public/about-us/portrait-yen-nhi.webp",
+    "sha256": "6a89478bf1ab735b3dd0511650f8da978cbdabe987ae950fe1f3d8c8797377ff",
+    "canvas": [
+      768,
+      704
+    ],
+    "bounds": [
+      144,
+      138,
+      618,
+      612
+    ]
+  },
+  {
+    "file": "public/about-us/avatar-yen-nhi.webp",
+    "sha256": "d3da4f78c42a88a3bc0ab703253fc672b6dbbf7cfda6624424be3d37dcb78fa8",
+    "canvas": [
+      352,
+      352
+    ],
+    "bounds": [
+      8,
+      15,
+      341,
+      348
+    ]
+  },
+  {
+    "file": "public/about-us/portrait-hoang-lan.webp",
+    "sha256": "7bb6aa85802b453524b716d0bd95bed10708659488c28ba5c89327942e1e89f0",
+    "canvas": [
+      768,
+      704
+    ],
+    "bounds": [
+      95,
+      113,
+      580,
+      599
+    ]
+  },
+  {
+    "file": "public/about-us/avatar-hoang-lan.webp",
+    "sha256": "48433b7b924964c4f3125beda868d8d115c0b50eeecaa0eaa1ac4fa1c1100f7f",
+    "canvas": [
+      352,
+      352
+    ],
+    "bounds": [
+      12,
+      13,
+      345,
+      345
+    ]
+  },
+  {
+    "file": "public/about-us/portrait-quynh-nhu.webp",
+    "sha256": "74d08670dfd2ad629d68b3878941e2ec16c5dc12220165286ca9f2f0a7cb36a1",
+    "canvas": [
+      768,
+      704
+    ],
+    "bounds": [
+      126,
+      95,
+      629,
+      597
+    ]
+  },
+  {
+    "file": "public/about-us/avatar-quynh-nhu.webp",
+    "sha256": "bd0adcc6a04a38db5d472e00a6e39407db24f8b7284a90c15f31625b2a39bc88",
+    "canvas": [
+      352,
+      352
+    ],
+    "bounds": [
+      6,
+      10,
+      339,
+      343
+    ]
+  },
+  {
+    "file": "public/about-us/portrait-khoi-nguyen.webp",
+    "sha256": "f170d6572b47b7b6e25bdab3ac8ecf7ecc41437c5c65856a9fb6cd72619d310a",
+    "canvas": [
+      768,
+      704
+    ],
+    "bounds": [
+      105,
+      104,
+      637,
+      636
+    ]
+  },
+  {
+    "file": "public/about-us/avatar-khoi-nguyen.webp",
+    "sha256": "2e16f55c21a4d13fdf9b42081074261d1b59fce9e28bea38d4aa91a0b18412ce",
+    "canvas": [
+      352,
+      352
+    ],
+    "bounds": [
+      8,
+      10,
+      341,
+      343
+    ]
+  }
+]

@@ -1,0 +1,444 @@
+[
+  {
+    "file": "scallop-mask.svg",
+    "root_child_indices_zero_based": [
+      580,
+      581,
+      582,
+      583,
+      584,
+      585,
+      586,
+      587,
+      588,
+      589,
+      590,
+      591,
+      592,
+      593,
+      594,
+      595,
+      596,
+      597,
+      598,
+      599,
+      600,
+      601,
+      602,
+      603,
+      604,
+      605,
+      606,
+      607,
+      608,
+      609,
+      610,
+      611,
+      612,
+      613,
+      614,
+      615,
+      616,
+      617,
+      618,
+      619
+    ],
+    "pixel_box": [
+      0,
+      918,
+      1366,
+      40
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "6686c98fcaeefa65e2827c1d386c2e0e06ade887b8dd84aaa5efba56e4b9f5d4",
+    "source_sha256": "1a4b43913ea2cdc04269a1d492d9c975136ef359020c1b3019243300bd56a27f"
+  },
+  {
+    "file": "hero-heart.svg",
+    "root_child_indices_zero_based": [
+      379,
+      380
+    ],
+    "pixel_box": [
+      60,
+      148,
+      164,
+      152
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "d91e7db11b4d0513f8b4c5fa4fd376ce3b48218974bd637ff38481ad8494ffe8",
+    "source_sha256": "1a4b43913ea2cdc04269a1d492d9c975136ef359020c1b3019243300bd56a27f"
+  },
+  {
+    "file": "hero-star.svg",
+    "root_child_indices_zero_based": [
+      381,
+      382
+    ],
+    "pixel_box": [
+      80,
+      532,
+      148,
+      148
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "0d3e134423b506fd9c8a783a24ef89dc2acdd9c51a61a76116fe66003e190812",
+    "source_sha256": "1a4b43913ea2cdc04269a1d492d9c975136ef359020c1b3019243300bd56a27f"
+  },
+  {
+    "file": "hero-sun.svg",
+    "root_child_indices_zero_based": [
+      383,
+      384
+    ],
+    "pixel_box": [
+      1132,
+      520,
+      144,
+      144
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "87318bd587be6cc6321176361a6374ddf46ac57ed844f384848b6013fc4332c3",
+    "source_sha256": "1a4b43913ea2cdc04269a1d492d9c975136ef359020c1b3019243300bd56a27f"
+  },
+  {
+    "file": "hero-coffee.svg",
+    "root_child_indices_zero_based": [
+      493,
+      494,
+      495,
+      496,
+      497,
+      498,
+      499,
+      500,
+      501,
+      502,
+      503,
+      504,
+      505,
+      506
+    ],
+    "pixel_box": [
+      856,
+      348,
+      92,
+      100
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "29290184809298859cdcc243ade3e3b2fc6ba46ae99234d553ad4c5bede73c0f",
+    "source_sha256": "1a4b43913ea2cdc04269a1d492d9c975136ef359020c1b3019243300bd56a27f"
+  },
+  {
+    "file": "hero-laptop.svg",
+    "root_child_indices_zero_based": [
+      507,
+      509,
+      510,
+      511
+    ],
+    "pixel_box": [
+      324,
+      320,
+      192,
+      132
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "be8f315e1814d273fcf1b6985f8c13293d9e6a01907918c83c6a8188e484a829",
+    "source_sha256": "1a4b43913ea2cdc04269a1d492d9c975136ef359020c1b3019243300bd56a27f"
+  },
+  {
+    "file": "hero-study.svg",
+    "root_child_indices_zero_based": [
+      508
+    ],
+    "pixel_box": [
+      988,
+      152,
+      244,
+      188
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "c718b900be3c1dbc01a0479c14ec1a23874391a74ab8f8961260b5225973233d",
+    "source_sha256": "1a4b43913ea2cdc04269a1d492d9c975136ef359020c1b3019243300bd56a27f"
+  },
+  {
+    "file": "paperclip.svg",
+    "root_child_indices_zero_based": [
+      767
+    ],
+    "pixel_box": [
+      80,
+      1008,
+      52,
+      68
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "b201abc2cbaaae7363c9baac1b56cfc898ebea36f03a148b9796eea921dc2278",
+    "source_sha256": "1a4b43913ea2cdc04269a1d492d9c975136ef359020c1b3019243300bd56a27f"
+  },
+  {
+    "file": "coffee-cups.svg",
+    "root_child_indices_zero_based": [
+      768
+    ],
+    "pixel_box": [
+      560,
+      1136,
+      112,
+      100
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "46a289f07c719ed34620cb365e493b0976c16bac5c8fce41e95d4986fb48f2a9",
+    "source_sha256": "1a4b43913ea2cdc04269a1d492d9c975136ef359020c1b3019243300bd56a27f"
+  },
+  {
+    "file": "matcha.svg",
+    "root_child_indices_zero_based": [
+      770
+    ],
+    "pixel_box": [
+      1212,
+      1136,
+      80,
+      88
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "a4c18b51a2a7f9e37eb18bba6dc96ea56ab0131324d6181349bcecb1f64a21cc",
+    "source_sha256": "1a4b43913ea2cdc04269a1d492d9c975136ef359020c1b3019243300bd56a27f"
+  },
+  {
+    "file": "red-doodles.svg",
+    "root_child_indices_zero_based": [
+      771,
+      772,
+      773
+    ],
+    "pixel_box": [
+      1248,
+      948,
+      96,
+      80
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "6b8ec52c9827fce931dfd230c14e73903981abe61a4d4ac33da4860c9a88bae8",
+    "source_sha256": "1a4b43913ea2cdc04269a1d492d9c975136ef359020c1b3019243300bd56a27f"
+  },
+  {
+    "file": "edge-heart.svg",
+    "root_child_indices_zero_based": [
+      774,
+      775,
+      776
+    ],
+    "pixel_box": [
+      20,
+      1440,
+      64,
+      64
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "8def921b0c97510267ba48df4f1016b3e5bc8943f29d54ec4944d04270474c1f",
+    "source_sha256": "1a4b43913ea2cdc04269a1d492d9c975136ef359020c1b3019243300bd56a27f"
+  },
+  {
+    "file": "food-strip.svg",
+    "root_child_indices_zero_based": [
+      973,
+      974,
+      975,
+      976,
+      977,
+      978,
+      979,
+      980,
+      981,
+      982,
+      983,
+      984,
+      985,
+      986,
+      987,
+      988,
+      989,
+      990,
+      991,
+      992,
+      993,
+      994,
+      995,
+      996,
+      997,
+      998,
+      999,
+      1000,
+      1001,
+      1002,
+      1003,
+      1004,
+      1005,
+      1006,
+      1007,
+      1008,
+      1009,
+      1010,
+      1011,
+      1012,
+      1021,
+      1022,
+      1023,
+      1024,
+      1025,
+      1026,
+      1027,
+      1028,
+      1029,
+      1030,
+      1031,
+      1032,
+      1033,
+      1034,
+      1035,
+      1036,
+      1037,
+      1038,
+      1039,
+      1040,
+      1041,
+      1042,
+      1043,
+      1044,
+      1045,
+      1046,
+      1047,
+      1048,
+      1049,
+      1050,
+      1051,
+      1052,
+      1053,
+      1054,
+      1055,
+      1056,
+      1057,
+      1058,
+      1059,
+      1060,
+      1061,
+      1062,
+      1063,
+      1064,
+      1065,
+      1066,
+      1067,
+      1068,
+      1069,
+      1070,
+      1071,
+      1072
+    ],
+    "pixel_box": [
+      0,
+      1588,
+      1366,
+      80
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "f69371fffcdee8e1d1d7f8dddbd5ccb3143416fcd0fec31bd1182d1b3617fb37",
+    "source_sha256": "1a4b43913ea2cdc04269a1d492d9c975136ef359020c1b3019243300bd56a27f"
+  },
+  {
+    "file": "red-tape.svg",
+    "root_child_indices_zero_based": [
+      1013,
+      1014,
+      1015,
+      1016
+    ],
+    "pixel_box": [
+      592,
+      1732,
+      88,
+      56
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "2fc4f188ba36099605c854f1eba182370ba1b3c791c1e341ec71e2f465904d2b",
+    "source_sha256": "1a4b43913ea2cdc04269a1d492d9c975136ef359020c1b3019243300bd56a27f"
+  },
+  {
+    "file": "star-trail.svg",
+    "root_child_indices_zero_based": [
+      1073,
+      1074,
+      1075,
+      1076,
+      1077,
+      1078,
+      1079,
+      1080,
+      1081,
+      1082,
+      1083,
+      1084,
+      1085,
+      1086,
+      1087,
+      1088,
+      1089
+    ],
+    "pixel_box": [
+      1272,
+      2120,
+      80,
+      96
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "9b82e0acc47524673976c42a9c88f412aa38d434bf3eda31748b9803aab8d3c5",
+    "source_sha256": "1a4b43913ea2cdc04269a1d492d9c975136ef359020c1b3019243300bd56a27f"
+  },
+  {
+    "file": "chalkboard.svg",
+    "root_child_indices_zero_based": [
+      1090
+    ],
+    "pixel_box": [
+      16,
+      2056,
+      96,
+      116
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "d35c036e5fde9df06029d4ebae132bee68cd0224369d39668c0088e6fc2d29b4",
+    "source_sha256": "1a4b43913ea2cdc04269a1d492d9c975136ef359020c1b3019243300bd56a27f"
+  },
+  {
+    "file": "flowers.svg",
+    "root_child_indices_zero_based": [
+      1473
+    ],
+    "pixel_box": [
+      56,
+      2624,
+      180,
+      180
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "fcda10d43f20b2011130577a73a63897de06e418d1fd06bbec49373c42252ec8",
+    "source_sha256": "1a4b43913ea2cdc04269a1d492d9c975136ef359020c1b3019243300bd56a27f"
+  },
+  {
+    "file": "fish-flags.svg",
+    "root_child_indices_zero_based": [
+      1474
+    ],
+    "pixel_box": [
+      488,
+      2324,
+      356,
+      40
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "69f1b45fa47e45c3fc84fde3372eefaf4bafc12494a4d5b53fd306c7937e67a6",
+    "source_sha256": "1a4b43913ea2cdc04269a1d492d9c975136ef359020c1b3019243300bd56a27f"
+  }
+]

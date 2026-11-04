@@ -1,0 +1,1302 @@
+[
+  {
+    "file": "scallop-mask.svg",
+    "root_child_indices_zero_based": [
+      1144,
+      1145,
+      1146,
+      1147,
+      1148,
+      1149,
+      1150,
+      1151,
+      1152,
+      1153,
+      1154,
+      1155,
+      1156,
+      1157,
+      1158,
+      1159,
+      1160,
+      1161,
+      1162,
+      1163,
+      1164,
+      1165,
+      1166,
+      1167,
+      1168,
+      1169,
+      1170,
+      1171,
+      1172,
+      1173,
+      1174,
+      1175,
+      1176,
+      1177,
+      1178,
+      1179,
+      1180,
+      1181,
+      1182,
+      1183
+    ],
+    "pixel_box": [
+      0,
+      1644,
+      1366,
+      44
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "f42f7149ea323ea926f8d5106b4c7fc6a15d1a0bd84b76b8b5ff9eba86929fb1",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "hero-flowers.svg",
+    "root_child_indices_zero_based": [
+      422,
+      497,
+      498,
+      499
+    ],
+    "pixel_box": [
+      0,
+      668,
+      1366,
+      100
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "e4b7d04a29c0fd520cd291e4b1eab0e1a42663198e6c7c56a83777853ef06c7f",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "hero-flower-pink.svg",
+    "root_child_indices_zero_based": [
+      518
+    ],
+    "pixel_box": [
+      612,
+      100,
+      64,
+      64
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "85889eebc46b9ef97c7cf286dcc6ceb68d5f181dfb22b7c1fe04a8ec804c11c6",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "hero-flower-green.svg",
+    "root_child_indices_zero_based": [
+      520
+    ],
+    "pixel_box": [
+      960,
+      168,
+      64,
+      64
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "44e9bc067551849863d798e03e7a93ec4dcea21296753c7c9a1d93576430308e",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "hero-flower-blue.svg",
+    "root_child_indices_zero_based": [
+      519
+    ],
+    "pixel_box": [
+      68,
+      372,
+      64,
+      64
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "c64e8a194005214be11bdfa0e0fad702f1e6e88f4a19b58a822cd8d38533b7b8",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "hero-flower-purple.svg",
+    "root_child_indices_zero_based": [
+      506
+    ],
+    "pixel_box": [
+      1232,
+      440,
+      64,
+      64
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "b58d911f05685c113bdfc86ec4d683debd3f7904992c28db91c0bba80fab55cd",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "hero-butterflies-1.svg",
+    "root_child_indices_zero_based": [
+      505
+    ],
+    "pixel_box": [
+      -12,
+      588,
+      108,
+      108
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "5cc3ea7c7de7e41e65397595531ecea88f7ce66fad0feca93d8d3159a1103733",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "hero-butterflies-2.svg",
+    "root_child_indices_zero_based": [
+      501
+    ],
+    "pixel_box": [
+      100,
+      560,
+      144,
+      168
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "7c318b1649f08637645bb1ef5d4a2109b59d82bce389dfab7467198a59108daf",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "hero-butterflies-3.svg",
+    "root_child_indices_zero_based": [
+      502
+    ],
+    "pixel_box": [
+      432,
+      632,
+      108,
+      84
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "304ce8d34a5132056c09d740735979f1b7735879f3dce5fce71b5c381f18a2cf",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "hero-butterflies-4.svg",
+    "root_child_indices_zero_based": [
+      503
+    ],
+    "pixel_box": [
+      736,
+      612,
+      108,
+      84
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "bb95c19330137765cc0024648748d52eeecd59910c4be50b7c88c66ad5cb8ecb",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "hero-butterflies-5.svg",
+    "root_child_indices_zero_based": [
+      504
+    ],
+    "pixel_box": [
+      980,
+      608,
+      108,
+      108
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "0a228a205529b47adba091f0394f4bea35657d2a031c29a88947b5ed95ea53b4",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "hero-butterflies-6.svg",
+    "root_child_indices_zero_based": [
+      500
+    ],
+    "pixel_box": [
+      1192,
+      560,
+      168,
+      168
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "c61c4ab8f25d75ec43993dae62226d545a8b4964e069d3d6c7f5d7c1633fcd25",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "story-paper.svg",
+    "root_child_indices_zero_based": [
+      522,
+      523,
+      524,
+      525,
+      526,
+      527,
+      528,
+      529,
+      530,
+      531,
+      532,
+      533,
+      534,
+      535,
+      536,
+      537,
+      538,
+      539,
+      540,
+      541,
+      542,
+      543,
+      544,
+      545,
+      546,
+      547,
+      548,
+      549,
+      550,
+      551,
+      552,
+      553,
+      554,
+      555,
+      556,
+      557,
+      558,
+      559,
+      560,
+      561,
+      562,
+      563,
+      564,
+      565,
+      566,
+      567,
+      568,
+      569,
+      570,
+      571,
+      572,
+      573,
+      574,
+      575,
+      576,
+      577,
+      662,
+      663,
+      664,
+      665,
+      666,
+      667,
+      668,
+      669,
+      670,
+      671,
+      672,
+      673,
+      674,
+      675,
+      676,
+      677,
+      678,
+      679,
+      680,
+      681,
+      682,
+      683,
+      684,
+      685,
+      686,
+      687,
+      688,
+      689,
+      690,
+      691,
+      692,
+      693,
+      694,
+      695,
+      696,
+      697,
+      698,
+      699,
+      700,
+      701,
+      702,
+      703,
+      704,
+      705,
+      706,
+      707,
+      708,
+      709,
+      710,
+      711,
+      712,
+      713,
+      714,
+      715,
+      716,
+      717
+    ],
+    "pixel_box": [
+      152,
+      916,
+      1040,
+      532
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "ab3cb528480b6ecf0f8df0e12e6a2ab2b9f18cad4cab50ec8fb2ae89653ada6f",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "story-heart-right.svg",
+    "root_child_indices_zero_based": [
+      578,
+      579,
+      580,
+      581,
+      582,
+      583,
+      584,
+      585,
+      586,
+      587,
+      588,
+      589,
+      590,
+      591,
+      592,
+      593,
+      594,
+      595,
+      596,
+      597,
+      598,
+      599,
+      600,
+      601,
+      602,
+      603,
+      604,
+      605,
+      606,
+      607,
+      608,
+      609,
+      610,
+      611,
+      612,
+      613,
+      614,
+      615,
+      616,
+      617,
+      618,
+      619,
+      620,
+      621,
+      622,
+      623,
+      624,
+      625,
+      626,
+      627,
+      628,
+      629,
+      630,
+      631,
+      632,
+      633,
+      634,
+      635,
+      636,
+      637,
+      638,
+      639,
+      640,
+      641,
+      642,
+      643,
+      644,
+      645,
+      646,
+      647,
+      648,
+      649,
+      650,
+      651,
+      652,
+      653,
+      654,
+      655,
+      656,
+      657,
+      658,
+      659,
+      660,
+      661
+    ],
+    "pixel_box": [
+      824,
+      820,
+      200,
+      176
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "b9462c36c7e5d75d578dc3277f69f1e31edeff8f70965c67fd22f1898d4b0459",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "story-heart-left.svg",
+    "root_child_indices_zero_based": [
+      718,
+      719,
+      720,
+      721,
+      722,
+      723,
+      724,
+      725,
+      726,
+      727,
+      728,
+      729,
+      730,
+      731,
+      732,
+      733,
+      734,
+      735,
+      736,
+      737,
+      738,
+      739,
+      740,
+      741,
+      742,
+      743,
+      744,
+      745,
+      746,
+      747,
+      748,
+      749,
+      750,
+      751,
+      752,
+      753,
+      754,
+      755,
+      756,
+      757,
+      758,
+      759,
+      760,
+      761,
+      762,
+      763,
+      764,
+      765,
+      766,
+      767,
+      768,
+      769,
+      770,
+      771,
+      772,
+      773,
+      774,
+      775,
+      776,
+      777,
+      778,
+      779,
+      780,
+      781,
+      782,
+      783,
+      784,
+      785,
+      786,
+      787,
+      788,
+      789,
+      790,
+      791,
+      792,
+      793,
+      794,
+      795,
+      796,
+      797,
+      798,
+      799,
+      800,
+      801
+    ],
+    "pixel_box": [
+      320,
+      820,
+      200,
+      176
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "7c25280f6776500cc19bd95b6f5b98db556f0effd6c804474a0049d4e4bd979a",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "story-trumpet.svg",
+    "root_child_indices_zero_based": [
+      1122
+    ],
+    "pixel_box": [
+      1000,
+      800,
+      116,
+      128
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "30e1fb7e6aa570f122fc9f0011061ff3dbbe2138eb9734c210f35595ba7c868c",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "story-piano.svg",
+    "root_child_indices_zero_based": [
+      1118
+    ],
+    "pixel_box": [
+      40,
+      1304,
+      232,
+      188
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "48511550295a10ed30a9f2cf2fc802bd3ac6c812a3ba589c710e44aa6516989a",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "story-rabbit.svg",
+    "root_child_indices_zero_based": [
+      1115
+    ],
+    "pixel_box": [
+      1192,
+      1332,
+      104,
+      152
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "a1b0a7dbdbc703f740d7a1de9f2404ddd81b7143e4f13523ec9567ec4e05c77e",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "story-cat.svg",
+    "root_child_indices_zero_based": [
+      1116
+    ],
+    "pixel_box": [
+      1072,
+      1352,
+      124,
+      136
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "017d160355bc441eeced10f9cff3bc0c3390aa7b6bb30be067f117421cbf34ce",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "story-sheep.svg",
+    "root_child_indices_zero_based": [
+      1117
+    ],
+    "pixel_box": [
+      940,
+      1360,
+      140,
+      132
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "2a4aab144215c9611926f38877497dd82bad9d674492bfcf4374514f9927e6f6",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "story-music-left.svg",
+    "root_child_indices_zero_based": [
+      1119,
+      1120,
+      1121
+    ],
+    "pixel_box": [
+      0,
+      1216,
+      120,
+      116
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "4ccdac03aa2a3b09703f7c52b5c83486c21e8c645e68ca2865797780ee2d4e18",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "story-music-right.svg",
+    "root_child_indices_zero_based": [
+      1123,
+      1124,
+      1125,
+      1126,
+      1127,
+      1128,
+      1129,
+      1130,
+      1131,
+      1132,
+      1133,
+      1134,
+      1135,
+      1136,
+      1137,
+      1138,
+      1139,
+      1140
+    ],
+    "pixel_box": [
+      1108,
+      916,
+      260,
+      500
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "bc105f662d4ae527b417cd6d6c119dbe173a3a2d3eee85eef90ba52a9e459532",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "story-star-trail.svg",
+    "root_child_indices_zero_based": [
+      1141
+    ],
+    "pixel_box": [
+      0,
+      768,
+      276,
+      456
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "de8297ada2a60079dc64df44f1eca59e0fcd42c3d79e8483bb60d3425519e53d",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "values-stickers.svg",
+    "root_child_indices_zero_based": [
+      1251,
+      1252,
+      1253,
+      1254,
+      1255,
+      1256,
+      1257,
+      1258,
+      1672,
+      1673,
+      1674,
+      1675,
+      1676,
+      1677,
+      1678,
+      1679,
+      1680,
+      1681,
+      1682,
+      1683,
+      1684,
+      1685,
+      1686,
+      1687
+    ],
+    "pixel_box": [
+      36,
+      1660,
+      188,
+      244
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "5ff92d75aa3b31d4093eacb66ea64fd8df29127e4eb52dc9f287bc1f71361ada",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "values-exclaim.svg",
+    "root_child_indices_zero_based": [
+      1267,
+      1268,
+      1269,
+      1270,
+      1271,
+      1272
+    ],
+    "pixel_box": [
+      1024,
+      1584,
+      232,
+      228
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "93bf5a3f83595698a8ddaa70304d5afa32f2e88fbe2e3ad71d8891ce7ddb5ce2",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "stars-left.svg",
+    "root_child_indices_zero_based": [
+      1241,
+      1242,
+      1243,
+      1244,
+      1245,
+      1246,
+      1247,
+      1248,
+      1249,
+      1250
+    ],
+    "pixel_box": [
+      0,
+      2192,
+      304,
+      88
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "77ec58e338d3827888c22829d688f58f815b122463e9a99cb145aeeda919aec1",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "stars-right.svg",
+    "root_child_indices_zero_based": [
+      1259,
+      1260,
+      1261,
+      1262,
+      1263,
+      1264,
+      1265,
+      1266
+    ],
+    "pixel_box": [
+      1108,
+      2216,
+      256,
+      76
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "92f88e4d6d013fc163c409a5caabb0780b864d705d87f7988db4f6f1f0d21704",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "team-music-left.svg",
+    "root_child_indices_zero_based": [
+      2308,
+      2309,
+      2310,
+      2311,
+      2312,
+      2313,
+      2314,
+      2315,
+      2316
+    ],
+    "pixel_box": [
+      0,
+      2344,
+      128,
+      616
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "eec5b762bc2d8d9ad66b4bc5352c50966ab1bd907956bc44f20e3440b52f0f52",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "team-music-right.svg",
+    "root_child_indices_zero_based": [
+      2317,
+      2318,
+      2319,
+      2320,
+      2321,
+      2322,
+      2323,
+      2324,
+      2325
+    ],
+    "pixel_box": [
+      1176,
+      2344,
+      192,
+      504
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "76766bd4bd2f47398b67222a4e4e5055af350f13c1df1d49507c90dfbb778c96",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "avatar-mai.svg",
+    "root_child_indices_zero_based": [
+      1695
+    ],
+    "pixel_box": [
+      172,
+      2620,
+      176,
+      176
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "a3494108ec949c5b8cf64c60c069dd44340ddc9f64b708551a0f301dd4f58825",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "avatar-bao-lan.svg",
+    "root_child_indices_zero_based": [
+      1695
+    ],
+    "pixel_box": [
+      280,
+      2424,
+      176,
+      176
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "3e42e053b6377391daebfb39cbe11580ff3d218e1789028c03c551f3a9b8c45a",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "avatar-yen-nhi.svg",
+    "root_child_indices_zero_based": [
+      1695
+    ],
+    "pixel_box": [
+      476,
+      2308,
+      176,
+      176
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "658adf146258aaafa93af3365a94d82eb797ffe2d61ec9c2b173123b11498c03",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "avatar-hoang-lan.svg",
+    "root_child_indices_zero_based": [
+      1695
+    ],
+    "pixel_box": [
+      696,
+      2308,
+      176,
+      176
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "1a5961bc04fe0508e55bf5a528502a57a9f9d2465ab02b90e3bae3a65623681d",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "avatar-quynh-nhu.svg",
+    "root_child_indices_zero_based": [
+      1695
+    ],
+    "pixel_box": [
+      892,
+      2420,
+      176,
+      176
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "8bec1da2af8aeafe127180c3bf23c87faf343d0cb443c4daccdda1eaa6411090",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "avatar-khoi-nguyen.svg",
+    "root_child_indices_zero_based": [
+      1695
+    ],
+    "pixel_box": [
+      996,
+      2608,
+      176,
+      176
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "8e939b612a6190e3001dedbe53149b77bc9d597886fe9180d0d9c8b73398ab75",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "gradient-mai.svg",
+    "root_child_indices_zero_based": [
+      2326
+    ],
+    "pixel_box": [
+      0,
+      3072,
+      1366,
+      768
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "77ff91233b61271ec533f6f9f429807e21150ae1d4651634a27a0255719ad3f5",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "portrait-mai.svg",
+    "root_child_indices_zero_based": [
+      2337,
+      2338
+    ],
+    "pixel_box": [
+      128,
+      3112,
+      384,
+      352
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "0b9e76f3490f8060113cf3ef710d5914f66f22a2fea7917ae990be5ef87f28d7",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "microphone-mai.svg",
+    "root_child_indices_zero_based": [
+      2327,
+      2328,
+      2329,
+      2330,
+      2331,
+      2332,
+      2333,
+      2334,
+      2335,
+      2336
+    ],
+    "pixel_box": [
+      0,
+      3396,
+      204,
+      316
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "98ea903a6d787de511f925fa0bd3ee467889715186ff9994284a8681a3c986ae",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "gradient-bao-lan.svg",
+    "root_child_indices_zero_based": [
+      2677
+    ],
+    "pixel_box": [
+      0,
+      3840,
+      1366,
+      768
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "0fa04730f7721be62d4db11a4902cce1cda57f6eb1fe54a6b6d6c388accfac90",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "portrait-bao-lan.svg",
+    "root_child_indices_zero_based": [
+      2877,
+      2878
+    ],
+    "pixel_box": [
+      128,
+      3880,
+      384,
+      352
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "8bc90f1e975ac99148ac5c471fa4512b539cd384b31620befa1b6533d570cd8f",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "microphone-bao-lan.svg",
+    "root_child_indices_zero_based": [
+      2879,
+      2880,
+      2881,
+      2882,
+      2883,
+      2884,
+      2885,
+      2886,
+      2887,
+      2888
+    ],
+    "pixel_box": [
+      0,
+      4164,
+      204,
+      316
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "6647010467ac8c248d4a79ea8903046dd61f87fcc15792d88468fc053a14eee3",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "gradient-yen-nhi.svg",
+    "root_child_indices_zero_based": [
+      3061
+    ],
+    "pixel_box": [
+      0,
+      4608,
+      1366,
+      768
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "c85d460d48e581a8b5b288496e47a26ad8d0d0f40f0a27f4259cc694282a5d29",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "portrait-yen-nhi.svg",
+    "root_child_indices_zero_based": [
+      3068,
+      3069
+    ],
+    "pixel_box": [
+      128,
+      4648,
+      384,
+      352
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "e9da0431a3e1bad142dfce5f15d0e4c074ff1a7939457998573184194b0d312a",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "microphone-yen-nhi.svg",
+    "root_child_indices_zero_based": [
+      3420,
+      3421,
+      3422,
+      3423,
+      3424,
+      3425,
+      3426,
+      3427,
+      3428,
+      3429
+    ],
+    "pixel_box": [
+      0,
+      4932,
+      204,
+      316
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "afaf3a61d1458839c6ce4a4073abdd9f63801f37091a80c776e1a5bf69b2b791",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "gradient-hoang-lan.svg",
+    "root_child_indices_zero_based": [
+      3450
+    ],
+    "pixel_box": [
+      0,
+      5376,
+      1366,
+      768
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "4f477839bef3ae1c568c2aa70373b327ec553c34e719fd91fb716e56f8cedf7a",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "portrait-hoang-lan.svg",
+    "root_child_indices_zero_based": [
+      3455,
+      3456
+    ],
+    "pixel_box": [
+      128,
+      5416,
+      384,
+      352
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "79165ef058742f09fe61ce33a8b8c84be425ae74832d0427895a194c241a35ae",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "microphone-hoang-lan.svg",
+    "root_child_indices_zero_based": [
+      3791,
+      3792,
+      3793,
+      3794,
+      3795,
+      3796,
+      3797,
+      3798,
+      3799,
+      3800
+    ],
+    "pixel_box": [
+      0,
+      5700,
+      204,
+      316
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "0bd2cef489bddce7cde4cd5ce0eb794c11458ce978dd70b4d1b055e4b2345d5e",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "gradient-quynh-nhu.svg",
+    "root_child_indices_zero_based": [
+      3820
+    ],
+    "pixel_box": [
+      0,
+      6144,
+      1366,
+      768
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "ac005e863ba3b4d9619df295b150e6c838101ad4b24086c71facf660bd4e3e36",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "portrait-quynh-nhu.svg",
+    "root_child_indices_zero_based": [
+      3823,
+      3824
+    ],
+    "pixel_box": [
+      128,
+      6184,
+      384,
+      352
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "5c52507a1ce8913fd3ac7393f74ca0879bfba7417a3bc3747995e85f0658e20d",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "microphone-quynh-nhu.svg",
+    "root_child_indices_zero_based": [
+      4167,
+      4168,
+      4169,
+      4170,
+      4171,
+      4172,
+      4173,
+      4174,
+      4175,
+      4176
+    ],
+    "pixel_box": [
+      0,
+      6468,
+      204,
+      316
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "4dc2094b28e5ea0c61881dfbba3f358126475ee7fb704318db1ec7eff370eddc",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "gradient-khoi-nguyen.svg",
+    "root_child_indices_zero_based": [
+      4197
+    ],
+    "pixel_box": [
+      0,
+      6912,
+      1366,
+      768
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "77b56a2a27d740af58170d86e010ebd93cecc67a45352c9a55534b664f825649",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "portrait-khoi-nguyen.svg",
+    "root_child_indices_zero_based": [
+      4206,
+      4207
+    ],
+    "pixel_box": [
+      128,
+      6952,
+      384,
+      352
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "a2f9ff1604de04a3d55896079b6af1c341f13b6f84f11f616156dd4d6432b8b6",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "microphone-khoi-nguyen.svg",
+    "root_child_indices_zero_based": [
+      4548,
+      4549,
+      4550,
+      4551,
+      4552,
+      4553,
+      4554,
+      4555,
+      4556,
+      4557
+    ],
+    "pixel_box": [
+      0,
+      7236,
+      204,
+      316
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "deb101e0417e3ab323055c602d8ca69b54f8fedefc71ee8f9565d1782f11b982",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "profile-stars-left.svg",
+    "root_child_indices_zero_based": [
+      2658,
+      2659,
+      2660,
+      2661,
+      2662,
+      2663,
+      2664,
+      2665,
+      2666,
+      2667
+    ],
+    "pixel_box": [
+      8,
+      3124,
+      308,
+      88
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "95210ffdaafc2f8d6070a0242d10c2d93e72d7aebbcec705d4336339397bb2cf",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  },
+  {
+    "file": "profile-stars-right.svg",
+    "root_child_indices_zero_based": [
+      2668,
+      2669,
+      2670,
+      2671,
+      2672,
+      2673,
+      2674,
+      2675,
+      2676
+    ],
+    "pixel_box": [
+      1064,
+      3132,
+      300,
+      76
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "415c6ff5f1437ece5f885b50f53c2f29a56d07790a842f9c514423aed6d3f0b1",
+    "source_sha256": "09f32f80859e805190b825934f21094113fb4581bc22be9c82bc35d4ae24f931"
+  }
+]

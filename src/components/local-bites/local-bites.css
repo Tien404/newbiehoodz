@@ -1,0 +1,607 @@
+/* D: reference families, colors and original artwork. E: rounded web geometry. */
+@font-face {
+  font-family: "Bites Noto Sans";
+  src:
+    url("/fonts/notosans/NotoSans-Bold.woff2") format("woff2"),
+    url("/fonts/notosans/NotoSans-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.site-shell--local-bites {
+  --page-background: var(--color-cream-guide);
+  --page-ink: var(--color-burgundy);
+  --bites-pink: #f8c2da;
+  --bites-surface: #fde6f0;
+  --bites-outline: #ee96bd;
+  min-height: 0;
+}
+.bites-main {
+  overflow-x: clip;
+}
+.bites-art {
+  position: absolute;
+  height: auto;
+  pointer-events: none;
+  user-select: none;
+  z-index: 2;
+}
+.bites-eyebrow {
+  margin: 0;
+  font: 700 18.96px/24px var(--font-calibri);
+  letter-spacing: 6px;
+}
+.bites-hero {
+  position: relative;
+  isolation: isolate;
+  background: conic-gradient(
+      var(--bites-pink) 25%,
+      var(--page-background) 0 50%,
+      var(--bites-pink) 0 75%,
+      var(--page-background) 0
+    )
+    68.266px 0 / 136.533px 136.533px;
+}
+.bites-hero::before {
+  content: "";
+  position: absolute;
+  inset: auto 0 52px;
+  height: 40px;
+  background: var(--page-background);
+  mask: url("/local-bites/scallop-mask.svg") center / 1366px 40px repeat-x;
+  z-index: -1;
+}
+.bites-hero::after {
+  content: "";
+  position: absolute;
+  inset: auto 0 0;
+  height: 56px;
+  background: var(--page-background);
+  z-index: -1;
+}
+.bites-art--hero-noodles {
+  top: 16px;
+  left: calc(50% - 579px);
+  width: 276px;
+  z-index: 3;
+}
+.bites-art--hero-rolls {
+  top: 52px;
+  right: max(12px, calc(50% - 653px));
+  width: 228px;
+  z-index: 3;
+}
+.bites-art--hero-sandwich {
+  top: 348px;
+  right: max(16px, calc(50% - 533px));
+  width: 192px;
+}
+.bites-art--flags-left {
+  top: 132px;
+  left: calc(50% - 491px);
+  width: 260px;
+}
+.bites-art--flags-right {
+  top: 132px;
+  left: calc(50% + 217px);
+  width: 268px;
+}
+.bites-art--hero-star {
+  top: 436px;
+  left: 5.86%;
+  width: 148px;
+}
+.bites-intro {
+  position: relative;
+  height: 768px;
+  padding-top: 144px;
+}
+.bites-food-strip {
+  position: absolute;
+  top: 36px;
+  inset-inline: 0;
+  height: 88px;
+  background: url("/local-bites/food-strip.webp") center / 1228px 88px repeat-x;
+}
+.bites-food-strip::before,
+.bites-food-strip::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  width: 72px;
+  height: 88px;
+  background-size: 72px 88px;
+}
+.bites-food-strip::before {
+  left: 0;
+  background-image: url("/local-bites/street-food-left.webp");
+}
+.bites-food-strip::after {
+  right: -2px;
+  background-image: url("/local-bites/street-food-right.webp");
+}
+.bites-intro__heading,
+.bites-listings__heading {
+  text-align: center;
+}
+.bites-intro__heading .bites-eyebrow {
+  transform: translateY(4px);
+}
+.bites-intro h2,
+.bites-listings h2 {
+  margin: 0;
+  font: 700 49.3px/60px var(--font-faustina);
+}
+.bites-intro h2 {
+  transform: translateY(-4px);
+}
+.bites-dishes {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  margin: 32px auto 0;
+}
+.bites-dish {
+  min-width: 0;
+  text-align: center;
+}
+.bites-dish .bites-art {
+  position: static;
+  display: block;
+  width: min(100%, 256px);
+  height: auto;
+  margin-inline: auto;
+}
+.bites-dish h3 {
+  margin: 0;
+  font: 700 28.44px/34px var(--font-faustina);
+}
+.bites-dish p {
+  margin: 16px 0 0;
+  color: var(--color-ink-guide);
+  font: 400 20.85px/25px var(--font-calibri);
+}
+.bites-art--stamp {
+  top: 644px;
+  left: 8px;
+  width: 228px;
+}
+.bites-listings {
+  position: relative;
+  height: 768px;
+  padding-top: 80px;
+  overflow: clip;
+  background: linear-gradient(var(--bites-surface), var(--bites-surface)) 0
+    26px / 100% calc(100% - 43px) no-repeat;
+}
+.bites-listings::before,
+.bites-listings::after {
+  content: "";
+  position: absolute;
+  inset-inline: 0;
+  height: 40px;
+  background: var(--bites-surface);
+  mask: url("/local-bites/scallop-mask.svg") center / 1366px 40px repeat-x;
+  pointer-events: none;
+}
+.bites-listings::before {
+  top: 0;
+}
+.bites-listings::after {
+  bottom: -18px;
+  transform: rotate(180deg);
+}
+.bites-listings h2 {
+  margin-top: 20px;
+}
+.bites-eateries {
+  display: grid;
+  gap: 18px;
+  margin: 48px auto 0;
+}
+.bites-eatery {
+  display: grid;
+  grid-template-columns: 192px minmax(0, 1fr) 248px;
+  column-gap: 24px;
+  align-items: center;
+  height: auto;
+  min-height: 200px;
+  padding: 20px;
+  border-radius: 32px;
+  background: white;
+}
+.bites-eatery__photo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 192px;
+  height: 160px;
+  border: 2px dashed var(--bites-outline);
+  border-radius: 20px;
+  background: var(--bites-pink);
+  color: var(--color-ink-guide);
+  font: 400 18.96px/24px var(--font-calibri);
+}
+.bites-eatery__content {
+  min-width: 0;
+  align-self: center;
+  padding-left: 0;
+}
+.bites-eatery h3 {
+  min-width: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  margin: 0;
+  font: 700 26.55px/32px var(--font-faustina);
+}
+.bites-eatery__address {
+  margin: 12px 0 0;
+  color: var(--color-ink-guide);
+  font: 400 20.85px/25px var(--font-calibri);
+}
+.bites-eatery__meta {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 12px 0 0;
+}
+.bites-eatery__tag {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 214px;
+  min-height: 38px;
+  flex-shrink: 0;
+  gap: 4px;
+  padding: 4px 16px;
+  border-radius: 99px;
+  background: var(--bites-pink);
+  font: 700 18.96px/24px var(--font-calibri);
+}
+.bites-eatery__currency {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.bites-eatery__meta > p {
+  margin: 0;
+  color: var(--color-ink-guide);
+  font: 400 20.85px/25px var(--font-calibri);
+  white-space: nowrap;
+}
+.bites-maps {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 248px;
+  min-height: 56px;
+  padding: 8px 16px;
+  border-radius: 99px;
+  background: var(--color-contact);
+  color: white;
+  font: 700 20.85px/25px var(--font-calibri);
+  text-align: center;
+  text-decoration: none;
+}
+.bites-art--eatery-heart {
+  top: 668px;
+  left: calc(50% + 449px);
+  width: 152px;
+  z-index: 3;
+}
+.bites-order {
+  height: auto;
+  padding-block: 48px 64px;
+}
+.bites-order__panel {
+  height: 208px;
+  padding: 24px 40px;
+  border: 2px solid var(--bites-outline);
+  border-radius: 32px;
+  background: white;
+}
+.bites-phrases {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 32px;
+  margin-top: 28px;
+}
+.bites-phrase h3 {
+  margin: 0;
+  font: 700 26.55px/32px var(--font-faustina);
+}
+.bites-noto {
+  font-family: "Bites Noto Sans", sans-serif;
+}
+.bites-phrase p {
+  margin: 20px 0 0;
+  color: var(--color-ink-guide);
+  font: 400 22.76px/28px var(--font-calibri);
+}
+@media (min-width: 1200px) {
+  .bites-hero .bites-eyebrow {
+    transform: translateX(-12px);
+  }
+}
+/* Actual source text is allowed to grow inside the existing compact row layout. */
+.site-shell--local-bites {
+  --listing-outline: var(--bites-outline);
+}
+.bites-listings {
+  height: auto;
+  min-height: 0;
+  padding-bottom: 112px;
+}
+.bites-eateries {
+  margin-top: 24px;
+}
+.bites-eatery {
+  height: auto;
+  min-height: 200px;
+}
+.bites-eatery__address {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.bites-eatery__meta {
+  flex-wrap: wrap;
+}
+.bites-eatery__tag {
+  width: auto;
+  max-width: 100%;
+  justify-content: center;
+  display: inline-flex;
+  align-items: center;
+}
+.bites-eatery__tag > span {
+  min-width: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.bites-eatery__meta > p {
+  white-space: normal;
+}
+.bites-art--eatery-heart {
+  top: auto;
+  bottom: 24px;
+  left: auto;
+  right: max(24px, calc((100% - 1216px) / 2 + 16px));
+  width: 120px;
+  z-index: 1;
+}
+/* A: no mobile reference. Grow/reflow live content; keep decorative layers independent. */
+@media (max-width: 1199px) {
+  .bites-art--hero-noodles {
+    width: 180px;
+    left: 0;
+    top: 8px;
+  }
+  .bites-art--hero-rolls {
+    width: 176px;
+    right: 8px;
+    top: 24px;
+  }
+  .bites-art--flags-left {
+    width: 140px;
+    left: 24px;
+    top: 132px;
+  }
+  .bites-art--flags-right {
+    width: 140px;
+    left: auto;
+    right: 24px;
+    top: 132px;
+  }
+  .bites-art--hero-sandwich {
+    width: 144px;
+    top: auto;
+    bottom: 140px;
+    right: 16px;
+  }
+  .bites-hero .bites-eyebrow {
+    font-size: 17px;
+    letter-spacing: 4px;
+  }
+  .bites-listings {
+    height: auto;
+    min-height: 0;
+    padding-bottom: 112px;
+  }
+  .bites-eatery {
+    height: auto;
+    min-height: 184px;
+    grid-template-columns: 160px minmax(0, 1fr) 216px;
+    padding: 20px;
+    gap: 20px;
+  }
+  .bites-eatery__photo {
+    width: 160px;
+    height: 144px;
+  }
+  .bites-eatery__content,
+  .bites-eatery--1 .bites-eatery__content {
+    padding-left: 0;
+    transform: none;
+  }
+  .bites-eatery__meta {
+    flex-wrap: wrap;
+    margin-left: 0;
+  }
+  .bites-eatery--1 .bites-eatery__meta {
+    margin-left: 0;
+  }
+  .bites-eatery__tag {
+    max-width: 100%;
+  }
+  .bites-maps {
+    width: 216px;
+  }
+  .bites-art--eatery-heart {
+    top: auto;
+    bottom: 24px;
+    left: auto;
+    right: 24px;
+    width: 104px;
+  }
+}
+@media (max-width: 1000px) {
+  .bites-intro {
+    height: auto;
+    padding-block: 144px 176px;
+  }
+  .bites-dishes {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 40px 24px;
+    margin-top: 48px;
+  }
+  .bites-art--stamp {
+    top: auto;
+    bottom: 8px;
+  }
+  .bites-order {
+    height: auto;
+    min-height: 0;
+    padding-block: 48px 64px;
+  }
+  .bites-order__panel {
+    height: auto;
+    min-height: 208px;
+    padding-inline: 32px;
+  }
+  .bites-phrases {
+    gap: 24px;
+  }
+  .bites-phrase h3 {
+    font-size: 24px;
+  }
+}
+@media (max-width: 700px) {
+  .bites-eatery {
+    grid-template-columns: 128px minmax(0, 1fr);
+    gap: 12px 16px;
+    padding: 16px;
+    min-height: 216px;
+  }
+  .bites-eatery__photo {
+    width: 128px;
+    height: 128px;
+    grid-row: 1 / span 2;
+  }
+  .bites-eatery__content,
+  .bites-eatery--1 .bites-eatery__content {
+    display: contents;
+  }
+  .bites-eatery h3 {
+    grid-column: 2;
+    font-size: 24px;
+    line-height: 28px;
+  }
+  .bites-eatery__address,
+  .bites-eatery--1 .bites-eatery__address {
+    grid-column: 2;
+    margin: 0;
+    font-size: 20px;
+    line-height: 24px;
+  }
+  .bites-eatery__meta,
+  .bites-eatery--1 .bites-eatery__meta {
+    grid-column: 1 / -1;
+    margin: 4px 0;
+    gap: 12px;
+  }
+  .bites-eatery__tag {
+    width: 200px;
+  }
+  .bites-eatery__meta > p {
+    font-size: 20px;
+  }
+  .bites-maps {
+    grid-column: 1 / -1;
+    width: 100%;
+  }
+  .bites-phrases {
+    grid-template-columns: 1fr;
+    gap: 28px;
+  }
+  .bites-phrase p {
+    margin-top: 8px;
+  }
+}
+@media (max-width: 600px) {
+  .bites-hero {
+    background-size: 96px 96px;
+    background-position: 48px 0;
+  }
+  .bites-hero .bites-eyebrow {
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 3px;
+  }
+  .bites-art--hero-noodles {
+    width: 140px;
+    top: 0;
+  }
+  .bites-art--hero-rolls {
+    width: 140px;
+    top: 16px;
+    right: 0;
+  }
+  .bites-art--flags-left {
+    width: 112px;
+    top: 104px;
+    left: 8px;
+  }
+  .bites-art--flags-right {
+    width: 112px;
+    top: 104px;
+    right: 8px;
+  }
+  .bites-art--hero-sandwich {
+    width: 112px;
+    bottom: 88px;
+    right: 8px;
+  }
+  .bites-art--hero-star {
+    width: 88px;
+    top: auto;
+    bottom: 28px;
+    left: 8px;
+  }
+  .bites-eyebrow {
+    font-size: 16px;
+    letter-spacing: 4px;
+  }
+  .bites-intro h2,
+  .bites-listings h2 {
+    font-size: clamp(32px, 8vw, 44px);
+    line-height: 1.3;
+  }
+  .bites-dish h3 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .bites-dish p {
+    font-size: 20px;
+    line-height: 24px;
+    margin-top: 12px;
+  }
+  .bites-listings {
+    padding-top: 72px;
+    min-height: 0;
+  }
+  .bites-eateries {
+    margin-top: 40px;
+  }
+  .bites-order {
+    min-height: 0;
+    padding-block: 48px 64px;
+  }
+  .bites-order__panel {
+    padding: 28px 24px;
+  }
+  .bites-order .bites-eyebrow {
+    line-height: 24px;
+  }
+}

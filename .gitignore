@@ -21,7 +21,9 @@
 /build
 
 # misc
+AGENTS.md
 .DS_Store
+.node-version
 *.pem
 
 # debug

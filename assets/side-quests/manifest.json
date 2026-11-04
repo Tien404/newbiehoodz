@@ -1,0 +1,176 @@
+[
+  {
+    "file": "scallop-mask.svg",
+    "root_child_indices_zero_based": [
+      578,
+      579,
+      580,
+      581,
+      582,
+      583,
+      584,
+      585,
+      586,
+      587,
+      588,
+      589,
+      590,
+      591,
+      592,
+      593,
+      594,
+      595,
+      596,
+      597,
+      598,
+      599,
+      600,
+      601,
+      602,
+      603,
+      604,
+      605,
+      606,
+      607,
+      608,
+      609,
+      610,
+      611,
+      612,
+      613,
+      614,
+      615,
+      616,
+      617
+    ],
+    "pixel_box": [
+      0,
+      2626,
+      1366,
+      40
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "9cc3868b14ccb2ea047224bf7464aa3dbcb2cbc8c2c7d9f527c43dfa9629b241",
+    "source_sha256": "da3e1cc367b13d1610fe4ef857baee4b34cd4a089ab7024f9ff0813f9535500c"
+  },
+  {
+    "file": "hero-map.svg",
+    "root_child_indices_zero_based": [
+      262
+    ],
+    "pixel_box": [
+      1068,
+      144,
+      236,
+      160
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "100242b8ffa11d93a678bac23311dd3a670d41216fa205c4e77b1b68470ee06d",
+    "source_sha256": "da3e1cc367b13d1610fe4ef857baee4b34cd4a089ab7024f9ff0813f9535500c"
+  },
+  {
+    "file": "hero-welcome.svg",
+    "root_child_indices_zero_based": [
+      263
+    ],
+    "pixel_box": [
+      0,
+      532,
+      228,
+      208
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "1a92485908a333a2d7b8211500761de3eb514903ecb2c3efb79549a4a69c7ecf",
+    "source_sha256": "da3e1cc367b13d1610fe4ef857baee4b34cd4a089ab7024f9ff0813f9535500c"
+  },
+  {
+    "file": "hero-souvenirs.svg",
+    "root_child_indices_zero_based": [
+      264
+    ],
+    "pixel_box": [
+      76,
+      144,
+      200,
+      176
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "f1fc4d883abb66a0486c86266d5d66247019cb4ec09966d36925ee21f211349c",
+    "source_sha256": "da3e1cc367b13d1610fe4ef857baee4b34cd4a089ab7024f9ff0813f9535500c"
+  },
+  {
+    "file": "hero-skyline.svg",
+    "root_child_indices_zero_based": [
+      265
+    ],
+    "pixel_box": [
+      1144,
+      492,
+      224,
+      240
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "aef323baa62857d2287511d81a6d0c51f9924d603a736f89180a9d6357cabd56",
+    "source_sha256": "da3e1cc367b13d1610fe4ef857baee4b34cd4a089ab7024f9ff0813f9535500c"
+  },
+  {
+    "file": "city-right.svg",
+    "root_child_indices_zero_based": [
+      447
+    ],
+    "pixel_box": [
+      1232,
+      1376,
+      168,
+      168
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "7dad73c9d24c5bc96e9549c5dc27b127db0cf81a3cd19edd22e3943c50ae3d93",
+    "source_sha256": "da3e1cc367b13d1610fe4ef857baee4b34cd4a089ab7024f9ff0813f9535500c"
+  },
+  {
+    "file": "city-left.svg",
+    "root_child_indices_zero_based": [
+      576
+    ],
+    "pixel_box": [
+      -32,
+      2144,
+      168,
+      168
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "97395a8854c404d6382233681afe1abde1483c70ab7f86fa0dc689599622424a",
+    "source_sha256": "da3e1cc367b13d1610fe4ef857baee4b34cd4a089ab7024f9ff0813f9535500c"
+  },
+  {
+    "file": "lotus-left.svg",
+    "root_child_indices_zero_based": [
+      902
+    ],
+    "pixel_box": [
+      280,
+      2920,
+      112,
+      152
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "90aab7e5a72bec4eacae09b984a6d1586ec2c8c2185bc41d5ccbf1a181b1b542",
+    "source_sha256": "da3e1cc367b13d1610fe4ef857baee4b34cd4a089ab7024f9ff0813f9535500c"
+  },
+  {
+    "file": "lotus-right.svg",
+    "root_child_indices_zero_based": [
+      903
+    ],
+    "pixel_box": [
+      1000,
+      2924,
+      116,
+      152
+    ],
+    "method": "Original artwork paths/images and referenced clips/masks only; no page copy or controls.",
+    "sha256": "19887d64e89d43528ce3b744d730e8a8bb2714bfa26da355ea332bce4d5eadb7",
+    "source_sha256": "da3e1cc367b13d1610fe4ef857baee4b34cd4a089ab7024f9ff0813f9535500c"
+  }
+]

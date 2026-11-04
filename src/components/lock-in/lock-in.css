@@ -1,0 +1,647 @@
+/* D: Canva colors, fonts and artwork. E: rounded desktop geometry. A: responsive reflow. */
+@font-face {
+  font-family: "Lock FreeSans";
+  src:
+    url("/fonts/freesans/FreeSans.woff2") format("woff2"),
+    url("/fonts/freesans/FreeSans.otf") format("opentype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.site-shell--lock-in {
+  --page-background: var(--color-cream-guide);
+  --page-ink: var(--color-burgundy);
+  --lock-blue: #c9e2f2;
+  --lock-surface: #e6f2fa;
+  --lock-outline: #9ccbea;
+  --lock-cream: var(--color-cream-guide);
+  min-height: 0;
+}
+.lock-main {
+  overflow-x: clip;
+}
+.lock-art {
+  position: absolute;
+  height: auto;
+  pointer-events: none;
+  user-select: none;
+  z-index: 2;
+}
+.lock-hero {
+  position: relative;
+  isolation: isolate;
+  background: conic-gradient(
+      var(--lock-blue) 25%,
+      var(--lock-cream) 0 50%,
+      var(--lock-blue) 0 75%,
+      var(--lock-cream) 0
+    )
+    68.266px 0 / 136.533px 136.533px;
+}
+.lock-hero::after {
+  content: "";
+  position: absolute;
+  inset: auto 0 0;
+  height: 92px;
+  background: linear-gradient(var(--lock-cream), var(--lock-cream)) 0 bottom /
+    100% 56px no-repeat;
+  z-index: -1;
+}
+.lock-hero::before {
+  content: "";
+  position: absolute;
+  inset: auto 0 52px;
+  height: 40px;
+  background: var(--lock-cream);
+  mask: url("/lock-in/scallop-mask.svg") center / 1366px 40px repeat-x;
+  z-index: -1;
+}
+.lock-art--hero-heart {
+  left: 4.4%;
+  top: 52px;
+  width: 164px;
+}
+.lock-art--hero-star {
+  left: 5.86%;
+  top: 436px;
+  width: 148px;
+}
+.lock-art--hero-sun {
+  right: 6.58%;
+  top: 424px;
+  width: 144px;
+}
+.lock-art--hero-laptop {
+  left: calc(50% - 359px);
+  top: 224px;
+  width: 192px;
+}
+.lock-art--hero-coffee {
+  left: calc(50% + 173px);
+  top: 252px;
+  width: 92px;
+}
+.lock-art--hero-study {
+  left: calc(50% + 305px);
+  top: 56px;
+  width: 244px;
+}
+.lock-filters {
+  height: 150px;
+}
+.lock-filters__inner {
+  padding-top: 20px;
+}
+.lock-filters h2 {
+  margin: 0;
+  font: 700 18.96px/24px var(--font-calibri);
+  letter-spacing: 6px;
+}
+.lock-filters__row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  margin-top: 20px;
+}
+.lock-filters__chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+}
+.lock-filter,
+.lock-district {
+  min-height: 54px;
+  border: 2px solid var(--lock-outline);
+  border-radius: 99px;
+  background: var(--lock-surface);
+  color: var(--color-burgundy);
+  font: 700 20.85px/1.2 var(--font-calibri);
+  cursor: default;
+}
+.lock-filter[data-filter="all"] {
+  width: 98px;
+}
+.lock-filter[data-filter="quiet"] {
+  width: 118px;
+}
+.lock-filter[data-filter="open late"] {
+  width: 160px;
+}
+.lock-filter[data-filter="budget"] {
+  width: 132px;
+}
+.lock-filter[aria-pressed="true"] {
+  background: var(--color-burgundy);
+  border-color: var(--color-burgundy);
+  color: white;
+}
+.lock-district {
+  width: 192px;
+  flex-shrink: 0;
+  background: white;
+}
+.lock-district__caret {
+  font-family: "Lock FreeSans", sans-serif;
+  font-weight: 400;
+}
+.lock-listings {
+  position: relative;
+  height: 1934px;
+  padding-top: 102px;
+  background: linear-gradient(var(--lock-surface), var(--lock-surface)) 0 40px /
+    100% calc(100% - 90px) no-repeat;
+}
+.lock-listings::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto;
+  height: 40px;
+  background: var(--lock-surface);
+  mask: url("/lock-in/scallop-mask.svg") center / 1366px 40px repeat-x;
+}
+/* Canva's pale listing surface trims the card bottoms, then leaves cream in the footer scallop gaps. */
+.lock-listings::after {
+  content: "";
+  position: absolute;
+  inset: auto 0 10px;
+  height: 40px;
+  background: var(--lock-surface);
+  mask: url("/lock-in/scallop-mask.svg") center / 1366px 40px repeat-x;
+  transform: rotate(180deg);
+  pointer-events: none;
+  z-index: 0;
+}
+.lock-listings__row {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+.lock-listings__row--second {
+  margin-top: 292px;
+}
+.lock-listings__row--third {
+  margin-top: 216px;
+}
+.lock-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  height: 420px;
+  padding: 20px;
+  border-radius: 32px;
+  background: white;
+}
+.lock-card__photo {
+  display: flex;
+  flex-shrink: 0;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 152px;
+  border: 2px dashed var(--lock-outline);
+  border-radius: 24px;
+  background: var(--lock-blue);
+  font: 400 18.96px/1.2 var(--font-calibri);
+}
+/* Keep the CTA at the same bottom inset when a neighboring address or tag wraps. */
+.lock-card__content {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  min-width: 0;
+  padding: 12px 8px 0;
+}
+.lock-card h2 {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  margin: 0;
+  font: 700 28.44px/34px var(--font-faustina);
+}
+.lock-card__address {
+  margin: 10px 0 0;
+  font: 400 20.85px/25px var(--font-calibri);
+  color: var(--color-ink-guide);
+}
+.lock-card__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 20px 0 0;
+  padding: 0;
+  list-style: none;
+}
+.lock-card__tags li {
+  display: flex;
+  align-items: center;
+  min-height: 40px;
+  padding-inline: 28px;
+  border-radius: 99px;
+  background: var(--lock-blue);
+  font: 700 18.96px/24px var(--font-calibri);
+}
+.lock-card__bottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-top: 4px;
+}
+.lock-card__details {
+  margin: 0;
+  color: var(--color-ink-guide);
+  font: 400 20.85px/25px var(--font-calibri);
+  white-space: nowrap;
+}
+.lock-card__price {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.lock-maps {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 240px;
+  min-height: 52px;
+  flex-shrink: 0;
+  padding: 8px 16px;
+  border-radius: 99px;
+  background: var(--color-contact);
+  color: white;
+  font: 700 20.85px/1.2 var(--font-calibri);
+  text-decoration: none;
+  text-align: center;
+}
+.lock-card .lock-art--paperclip {
+  width: 52px;
+  left: 5px;
+  top: -12px;
+}
+.lock-art--coffee-cups {
+  width: 112px;
+  right: 5px;
+  top: 116px;
+}
+.lock-art--matcha {
+  width: 80px;
+  right: 0;
+  top: 116px;
+}
+.lock-art--red-tape {
+  width: 88px;
+  right: -4px;
+  top: -4px;
+}
+.lock-food-strip {
+  position: absolute;
+  top: 670px;
+  inset-inline: 0;
+  height: 80px;
+  background: url("/lock-in/food-strip.webp") center / 1366px 80px repeat-x;
+}
+.lock-food-strip::before {
+  content: "";
+  position: absolute;
+  inset: -52px 0 auto;
+  height: 40px;
+  background: var(--lock-cream);
+}
+.lock-food-strip::after {
+  content: "";
+  position: absolute;
+  inset: -40px 0 auto;
+  height: 40px;
+  background: var(--lock-surface);
+  mask: url("/lock-in/scallop-mask.svg") calc(50% + 11px) center / 1366px 40px
+    repeat-x;
+}
+.lock-flags {
+  position: absolute;
+  inset: 1406px 0 auto;
+  height: 40px;
+}
+.lock-art--fish-flags {
+  top: 0;
+  left: calc(50% - 195px);
+  width: 356px;
+}
+.lock-art--red-doodles {
+  top: 30px;
+  right: 22px;
+  width: 96px;
+}
+.lock-art--edge-heart {
+  top: 522px;
+  left: 20px;
+  width: 64px;
+}
+.lock-art--chalkboard {
+  top: 1138px;
+  left: 16px;
+  width: 96px;
+}
+.lock-art--star-trail {
+  top: 1202px;
+  right: 14px;
+  width: 80px;
+}
+.lock-art--flowers {
+  top: 1706px;
+  left: 56px;
+  width: 180px;
+}
+/* Real-content adaptation: retain the two-column cards, gaps and separate motifs.
+   Grow surfaces with actual copy rather than clipping cards into the footer. */
+.site-shell--lock-in {
+  --listing-outline: var(--lock-outline);
+}
+.lock-filters {
+  height: auto;
+  padding-bottom: 32px;
+}
+.lock-filter,
+.lock-district {
+  cursor: pointer;
+}
+select.lock-district {
+  padding: 0 44px 0 20px;
+}
+.lock-listings {
+  height: auto;
+  min-height: 0;
+  padding-bottom: 96px;
+}
+.lock-card {
+  height: auto;
+  min-height: 420px;
+}
+.lock-card__address {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.lock-card__tags {
+  min-height: 40px;
+  margin-top: 16px;
+}
+.lock-card__tags li {
+  padding-inline: 20px;
+}
+.lock-card__bottom {
+  flex-wrap: wrap;
+  margin-top: auto;
+  padding-top: 16px;
+}
+.lock-card__details {
+  white-space: normal;
+  flex: 1 1 100%;
+}
+.lock-maps {
+  margin-left: auto;
+}
+.lock-food-strip {
+  position: relative;
+  top: auto;
+  margin-block: 80px 48px;
+}
+.lock-listings__row--second,
+.lock-listings__row--third {
+  margin-top: 0;
+}
+.lock-listings__row:empty {
+  display: none;
+}
+.lock-flags {
+  position: relative;
+  inset: auto;
+  margin-block: 48px 32px;
+}
+.lock-art--flowers {
+  top: auto;
+  bottom: 56px;
+}
+.lock-listings[data-empty="true"] > .lock-art {
+  display: none;
+}
+/* A: no mobile exports. Reflow only where the fixed desktop composition stops fitting. */
+@media (max-width: 1199px) {
+  .lock-filters {
+    height: auto;
+    padding-block: 20px 64px;
+  }
+  .lock-filters__inner {
+    padding: 0;
+  }
+  .lock-filters__row {
+    flex-wrap: wrap;
+  }
+  .lock-filters__chips {
+    gap: 12px;
+  }
+  .lock-filter:nth-child(n) {
+    width: auto;
+    padding-inline: 24px;
+  }
+  .lock-art--hero-study {
+    left: auto;
+    right: 32px;
+    width: 200px;
+  }
+  .lock-art--hero-laptop {
+    left: 12%;
+    width: 160px;
+  }
+  .lock-art--hero-coffee {
+    left: auto;
+    right: 16%;
+    width: 80px;
+  }
+  .lock-card {
+    height: auto;
+    min-height: 420px;
+    padding: 20px;
+  }
+  .lock-listings {
+    height: auto;
+    min-height: 0;
+    padding-bottom: 64px;
+  }
+  .lock-art--chalkboard {
+    left: -12px;
+    width: 64px;
+  }
+  .lock-art--flowers {
+    top: auto;
+    bottom: 56px;
+    left: 0;
+    width: 120px;
+  }
+  .lock-maps {
+    width: auto;
+    min-width: 216px;
+    margin-left: auto;
+  }
+  .lock-card__tags li {
+    padding-inline: 20px;
+  }
+}
+@media (max-width: 900px) {
+  .lock-listings {
+    height: auto;
+    min-height: 0;
+    padding-block: 80px 112px;
+  }
+  .lock-listings__row {
+    grid-template-columns: 1fr;
+    gap: 28px;
+  }
+  .lock-listings__row--second,
+  .lock-listings__row--third {
+    margin-top: 0;
+  }
+  .lock-food-strip {
+    position: relative;
+    top: auto;
+    margin-block: 80px 48px;
+  }
+  .lock-flags {
+    position: relative;
+    inset: auto;
+    margin: 48px auto 32px;
+  }
+  .lock-art--chalkboard {
+    top: auto;
+    bottom: 1040px;
+    left: 0;
+    width: 72px;
+  }
+  .lock-art--flowers {
+    top: auto;
+    bottom: 56px;
+    left: 8px;
+    width: 120px;
+  }
+  .lock-art--star-trail {
+    top: auto;
+    bottom: 1024px;
+    right: 0;
+    width: 64px;
+  }
+  .lock-art--edge-heart {
+    top: 960px;
+    left: 0;
+    width: 48px;
+  }
+  .lock-art--red-doodles {
+    right: 0;
+    width: 64px;
+  }
+}
+@media (max-width: 600px) {
+  .lock-hero {
+    background-size: 96px 96px;
+    background-position: 48px 0;
+  }
+  .lock-desktop-break {
+    display: none;
+  }
+  .lock-art--hero-heart {
+    width: 100px;
+    top: 8px;
+    left: 8px;
+  }
+  .lock-art--hero-study {
+    width: 148px;
+    top: 0;
+    right: 4px;
+  }
+  .lock-art--hero-laptop {
+    width: 100px;
+    top: auto;
+    bottom: 104px;
+    left: 8px;
+  }
+  .lock-art--hero-coffee {
+    width: 60px;
+    top: auto;
+    bottom: 108px;
+    right: 8px;
+  }
+  .lock-art--hero-star {
+    width: 88px;
+    top: auto;
+    bottom: 40px;
+    left: 8px;
+  }
+  .lock-art--hero-sun {
+    width: 88px;
+    top: auto;
+    bottom: 40px;
+    right: 8px;
+  }
+  .lock-filters h2 {
+    font-size: 17px;
+    letter-spacing: 4px;
+  }
+  .lock-filters__row {
+    gap: 20px;
+  }
+  .lock-filter:nth-child(n) {
+    min-height: 44px;
+    padding-inline: 18px;
+    font-size: 18px;
+  }
+  .lock-district {
+    min-height: 44px;
+    font-size: 18px;
+  }
+  .lock-card {
+    padding: 16px;
+  }
+  .lock-card__photo {
+    height: auto;
+    aspect-ratio: 562 / 152;
+    min-height: 120px;
+  }
+  .lock-card__content {
+    padding: 20px 4px 0;
+  }
+  .lock-card h2 {
+    font-size: 26px;
+  }
+  .lock-card__address,
+  .lock-card__details {
+    font-size: 20px;
+  }
+  .lock-card__tags {
+    gap: 8px;
+  }
+  .lock-card__tags li {
+    min-height: 36px;
+    padding-inline: 20px;
+    font-size: 18px;
+  }
+  .lock-maps {
+    width: 100%;
+    font-size: 19px;
+    margin: 0;
+  }
+  .lock-card .lock-art--paperclip {
+    left: 0;
+    width: 40px;
+  }
+  .lock-art--coffee-cups,
+  .lock-art--matcha {
+    width: 72px;
+    top: 92px;
+  }
+  .lock-art--fish-flags {
+    left: 50%;
+    transform: translateX(-50%);
+    width: min(356px, calc(100% - 32px));
+  }
+}

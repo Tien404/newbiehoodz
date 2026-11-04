@@ -1,0 +1,941 @@
+{
+  "catalog": {
+    "schemaVersion": 1,
+    "places": [
+      {
+        "id": "plc_1b0b5c06-3eb6-4bf9-ab28-f42adb60fdb6",
+        "slug": "phuc-long-nguyen-son",
+        "category": "cafe",
+        "name": "Phúc Long",
+        "englishName": null,
+        "address": "6a Nguyễn Sơn, Phú Thọ Hòa, Hồ Chí Minh 70000, Việt Nam",
+        "mapsUrl": "https://maps.app.goo.gl/6QNLiqjN54VntGuYA",
+        "summary": "The space is super spacious, and coming early in the morning means you won't have to wait long. The tea is rich and bold just how I like it, though the baguettes are just okay, nothing special. The best part is there are outlets everywhere, so you can work or game without worrying about battery. Plus, the security guard is super sweet and friendly!",
+        "openingHours": {
+          "text": "07:00 - 22:00",
+          "interpretation": "unparsed"
+        },
+        "sourceIds": ["src_646a082f-1e85-450b-8c61-50492a9aa086"],
+        "editorialStatus": "draft",
+        "images": [
+          {
+            "assetId": "img_a66100d995d85705287d89bf8c87013b5a35af190a7cd4de0c4215a4bf0991ea",
+            "order": 1,
+            "alt": null,
+            "caption": null,
+            "mapping": "owner-confirmed"
+          },
+          {
+            "assetId": "img_1ac873603df06b9bfa4fe08a9b3ce5e55e7045e8160f669ca6a509140529e67d",
+            "order": 2,
+            "alt": null,
+            "caption": null,
+            "mapping": "owner-confirmed"
+          },
+          {
+            "assetId": "img_28e35e8d41b5d9eb386ff876f2c89a8da88157dc00a452360c6dc61af19927ee",
+            "order": 3,
+            "alt": null,
+            "caption": null,
+            "mapping": "owner-confirmed"
+          }
+        ],
+        "coverAssetId": null,
+        "cafe": {
+          "district": "Quận Tân Phú",
+          "minimumDrinkPrice": {
+            "text": "30k",
+            "currency": "VND",
+            "amount": {
+              "kind": "minimum",
+              "value": 30000
+            }
+          },
+          "noiseDescription": "quite noisy",
+          "seatingDescription": "Single table, can combined for group study",
+          "soloStudy": "yes",
+          "groupStudy": "yes",
+          "longStay": "yes",
+          "airConditioning": "yes",
+          "parking": "yes",
+          "parkingFeeText": "no",
+          "busyTimesText": "14:00 - 17:00",
+          "recommendedVisitText": "8:00 - 16:00",
+          "recommendationText": null,
+          "facets": {
+            "quiet": "no",
+            "openLate": "yes",
+            "budget": "yes"
+          }
+        }
+      },
+      {
+        "id": "plc_1aec2fb2-32f1-467e-bb12-3973604eed2b",
+        "slug": "wrap-run-nguyen-thi-minh-khai",
+        "category": "food",
+        "name": "Wrap & Run",
+        "englishName": null,
+        "address": "173/4 Nguyễn Thị Minh Khai, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh",
+        "mapsUrl": "https://maps.google.com/?cid=15593476770146871903",
+        "summary": "Cozy spot offering flavorful Vietnamese rolls and wholesome dishes.",
+        "openingHours": {
+          "text": "11:00 AM – 10:00 PM",
+          "interpretation": "unparsed"
+        },
+        "sourceIds": ["src_56e24629-fc83-45e2-804f-30ff588b4b66"],
+        "editorialStatus": "draft",
+        "images": [
+          {
+            "assetId": "img_78b5468f2a0bc6856293294a48ac9b637c7cae353996bf87aeba8e3139ed48a9",
+            "order": 1,
+            "alt": null,
+            "caption": null,
+            "mapping": "candidate"
+          }
+        ],
+        "coverAssetId": null,
+        "food": {
+          "diningTypeText": "Asian / Rolls & Wraps",
+          "dietaryDescription": "Non-vegetarian",
+          "areaText": "District 1",
+          "nearbyCampusText": "UEH",
+          "recommendedDishText": "Signature wrapped rolls with special dipping sauce",
+          "pricePerPerson": {
+            "text": "50,000 – 150,000",
+            "currency": "VND",
+            "amount": {
+              "kind": "unparsed"
+            }
+          },
+          "closedDaysText": "None",
+          "ingredientsText": "Rice paper, pork, shrimp, herbs",
+          "orderingText": "Counter / Apps",
+          "paymentText": "Cash, Card, E-wallets",
+          "serviceModeText": "Both"
+        }
+      },
+      {
+        "id": "plc_1091cbd0-25f2-4866-b1c6-2e8b42b68dd6",
+        "slug": "coopmart-cong-quynh",
+        "category": "activity",
+        "name": " Siêu thị Coopmart Cống Quỳnh",
+        "englishName": "Coopmart Cong Quynh Supermarket",
+        "address": "189C Đ. Cống Quỳnh, Cầu Ông Lãnh, Hồ Chí Minh 700000, Việt Nam",
+        "mapsUrl": "https://maps.app.goo.gl/dHH6mJFDFFLbzaNh9",
+        "summary": "Co.opmart Cong Quynh is a Vietnamese supermarket where visitors can shop for everyday necessities, local food products, packaged goods, and potential souvenirs. It offers tourists an opportunity to experience a familiar shopping environment used by local residents.",
+        "openingHours": {
+          "text": "Approximately 7:00 AM–10:00 PM, based on a third-party listing. Confirm directly with the supermarket before visiting.",
+          "interpretation": "unparsed"
+        },
+        "sourceIds": ["src_04910029-f4b5-48bf-bd99-281cd11d56d8"],
+        "editorialStatus": "draft",
+        "images": [
+          {
+            "assetId": "img_0db4b9ef0a06ed11f859cce54cbdbd35a960096aded3d9cc4f869ab2b93ed1a3",
+            "order": 1,
+            "alt": null,
+            "caption": null,
+            "mapping": "candidate"
+          }
+        ],
+        "coverAssetId": null,
+        "activity": {
+          "typeText": "Local supermarket, shopping destination, cultural and everyday-life experience",
+          "historicalContext": "Co.opmart Cong Quynh opened on February 9, 1996, and was the first supermarket in the Co.opmart chain. It represents an important milestone in the development of modern retail in Ho Chi Minh City.",
+          "citySignificance": "A Vietnamese supermarket chain with a wide range of everyday consumer goods and a shopping environment that reflects local purchasing habits.",
+          "experiencesText": "Explore Vietnamese packaged foods and snacks, browse local grocery products, purchase practical gifts, compare product prices, and observe everyday shopping practices.Suggested Items to Buy: Packaged Vietnamese snacks, coffee, tea, local condiments, dried foods, and other shelf-stable products, depending on availability.",
+          "admissionPrice": {
+            "text": "Free",
+            "currency": "VND",
+            "amount": {
+              "kind": "unparsed"
+            }
+          },
+          "suggestedDurationText": "30–60 minutes, late morning or late afternoon to browse local products, purchase souvenirs, and experience everyday supermarket shopping in Vietnam. This is a convenient stop between major attractions and does not require a long visit.",
+          "recommendedVisitText": "Late morning or late afternoon, depending on the travel itinerary. Visitors can shop at their convenience and avoid dedicating too much time to this stop.",
+          "visitorNotes": "Bring a reusable shopping bag if needed, check product labels and expiry dates, compare prices, and choose packaged goods that are easy to carry. Check airline and customs restrictions before purchasing food products to take overseas.",
+          "classification": {
+            "status": "reviewed",
+            "values": ["culture"]
+          },
+          "budgetTier": null
+        }
+      }
+    ],
+    "assets": [
+      {
+        "id": "img_a66100d995d85705287d89bf8c87013b5a35af190a7cd4de0c4215a4bf0991ea",
+        "sha256": "a66100d995d85705287d89bf8c87013b5a35af190a7cd4de0c4215a4bf0991ea",
+        "bytes": 467582,
+        "width": 584,
+        "height": 536,
+        "format": "png",
+        "rights": {
+          "status": "unknown",
+          "credit": null,
+          "evidence": null
+        },
+        "delivery": null
+      },
+      {
+        "id": "img_1ac873603df06b9bfa4fe08a9b3ce5e55e7045e8160f669ca6a509140529e67d",
+        "sha256": "1ac873603df06b9bfa4fe08a9b3ce5e55e7045e8160f669ca6a509140529e67d",
+        "bytes": 438955,
+        "width": 588,
+        "height": 439,
+        "format": "png",
+        "rights": {
+          "status": "unknown",
+          "credit": null,
+          "evidence": null
+        },
+        "delivery": null
+      },
+      {
+        "id": "img_28e35e8d41b5d9eb386ff876f2c89a8da88157dc00a452360c6dc61af19927ee",
+        "sha256": "28e35e8d41b5d9eb386ff876f2c89a8da88157dc00a452360c6dc61af19927ee",
+        "bytes": 407285,
+        "width": 579,
+        "height": 406,
+        "format": "png",
+        "rights": {
+          "status": "unknown",
+          "credit": null,
+          "evidence": null
+        },
+        "delivery": null
+      },
+      {
+        "id": "img_78b5468f2a0bc6856293294a48ac9b637c7cae353996bf87aeba8e3139ed48a9",
+        "sha256": "78b5468f2a0bc6856293294a48ac9b637c7cae353996bf87aeba8e3139ed48a9",
+        "bytes": 677917,
+        "width": 631,
+        "height": 699,
+        "format": "png",
+        "rights": {
+          "status": "unknown",
+          "credit": "GG Maps",
+          "evidence": null
+        },
+        "delivery": null
+      },
+      {
+        "id": "img_0db4b9ef0a06ed11f859cce54cbdbd35a960096aded3d9cc4f869ab2b93ed1a3",
+        "sha256": "0db4b9ef0a06ed11f859cce54cbdbd35a960096aded3d9cc4f869ab2b93ed1a3",
+        "bytes": 1269197,
+        "width": 1217,
+        "height": 863,
+        "format": "png",
+        "rights": {
+          "status": "unknown",
+          "credit": null,
+          "evidence": null
+        },
+        "delivery": null
+      }
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "src_646a082f-1e85-450b-8c61-50492a9aa086",
+        "workbookPath": "data/raw-updated/DATA SHEET .xlsx",
+        "workbookSha256": "3ff0449bd54017c5e472b0b55265626c88d028d7a78a5d8cebbb124853dbb5b2",
+        "sheet": "Quận Tân Phú",
+        "row": 20,
+        "nameCell": "B20",
+        "inclusion": "include",
+        "ownerDecision": "2026-11-04: Phúc Long folder number matches worksheet row",
+        "cells": {
+          "A20": {
+            "header": "STT",
+            "rawValue": "19",
+            "storedType": "n",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": {
+              "t": "shared",
+              "si": "1"
+            },
+            "hyperlinkTargets": []
+          },
+          "B20": {
+            "header": "Tên quán",
+            "rawValue": "Phúc Long",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "C20": {
+            "header": "Địa chỉ",
+            "rawValue": "6a Nguyễn Sơn, Phú Thọ Hòa, Hồ Chí Minh 70000, Việt Nam",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "D20": {
+            "header": "Link Google Maps",
+            "rawValue": "https://maps.app.goo.gl/6QNLiqjN54VntGuYA",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": ["https://maps.app.goo.gl/6QNLiqjN54VntGuYA"]
+          },
+          "E20": {
+            "header": "Giờ mở cửa",
+            "rawValue": "07:00 - 22:00",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "F20": {
+            "header": "Giá thấp nhất",
+            "rawValue": "30k",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "G20": {
+            "header": "Độ ồn",
+            "rawValue": "quite noisy",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "H20": {
+            "header": "Loại chỗ ngồi",
+            "rawValue": "Single table, can combined for group study",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "I20": {
+            "header": "Học cá nhân",
+            "rawValue": "yes",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "J20": {
+            "header": "Học nhóm",
+            "rawValue": "yes",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "K20": {
+            "header": "Ngồi lâu",
+            "rawValue": "yes",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "L20": {
+            "header": "Máy lạnh",
+            "rawValue": "yes",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "M20": {
+            "header": "Chỗ gửi xe",
+            "rawValue": "yes",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "N20": {
+            "header": "Phí gửi xe",
+            "rawValue": "no",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "O20": {
+            "header": "Khung giờ thường đông",
+            "rawValue": "14:00 - 17:00",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "P20": {
+            "header": "Thời gian nên đến",
+            "rawValue": "8:00 - 16:00",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "Q20": {
+            "header": "Mô tả ngắn",
+            "rawValue": "The space is super spacious, and coming early in the morning means you won't have to wait long. The tea is rich and bold just how I like it, though the baguettes are just okay, nothing special. The best part is there are outlets everywhere, so you can work or game without worrying about battery. Plus, the security guard is super sweet and friendly!",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "R20": {
+            "header": "Link ảnh",
+            "rawValue": "Phúc Long",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": [
+              "https://drive.google.com/drive/folders/1EOtZ1psEIu-5EaDUL-cjORwMy1Hpkhrh?usp=drive_link"
+            ]
+          }
+        },
+        "fieldMappings": {
+          "name": {
+            "cells": ["B20"],
+            "method": "verbatim",
+            "note": null
+          },
+          "address": {
+            "cells": ["C20"],
+            "method": "verbatim",
+            "note": null
+          },
+          "mapsUrl": {
+            "cells": ["D20"],
+            "method": "verbatim",
+            "note": null
+          },
+          "summary": {
+            "cells": ["Q20"],
+            "method": "verbatim",
+            "note": null
+          },
+          "openingHours.text": {
+            "cells": ["E20"],
+            "method": "verbatim",
+            "note": null
+          },
+          "cafe.minimumDrinkPrice.amount": {
+            "cells": ["F20"],
+            "method": "reviewed-interpretation",
+            "note": "Owner budget rule uses the source minimum price; 30k means 30000 VND."
+          },
+          "cafe.facets.budget": {
+            "cells": ["F20"],
+            "method": "reviewed-interpretation",
+            "note": "Owner policy: minimum price <=35000 VND."
+          },
+          "cafe.facets.openLate": {
+            "cells": ["E20"],
+            "method": "reviewed-interpretation",
+            "note": "Source closes at 22:00, satisfying owner threshold >=21:30."
+          },
+          "cafe.facets.quiet": {
+            "cells": ["G20"],
+            "method": "reviewed-interpretation",
+            "note": "Owner policy accepts Silent/Quiet/Calm descriptions; source quite noisy is explicitly contradictory and does not qualify."
+          }
+        },
+        "informationSourceText": null,
+        "imageSourceText": null,
+        "sourceUpdatedText": null,
+        "responsibleEditorText": null
+      },
+      {
+        "id": "src_56e24629-fc83-45e2-804f-30ff588b4b66",
+        "workbookPath": "data/raw-updated/DATA SHEET 2.xlsx",
+        "workbookSha256": "d72080406baac78155d35a977f76f4bd0a46f82bdbfc5eb5c9d867e9f6bbae3f",
+        "sheet": "Eat local",
+        "row": 2,
+        "nameCell": "A2",
+        "inclusion": "include",
+        "ownerDecision": null,
+        "cells": {
+          "A2": {
+            "header": "Tên quán",
+            "rawValue": "Wrap & Run",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "B2": {
+            "header": "Loại hình ăn uống",
+            "rawValue": "Asian / Rolls & Wraps",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "C2": {
+            "header": "Loại quán theo chế độ ăn (chay/mặn,...)",
+            "rawValue": "Non-vegetarian",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "D2": {
+            "header": "Địa chỉ",
+            "rawValue": "173/4 Nguyễn Thị Minh Khai, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "E2": {
+            "header": "Khu vực",
+            "rawValue": "District 1",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "F2": {
+            "header": "Trường/Campus gần đó",
+            "rawValue": "UEH",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "G2": {
+            "header": "Link Google Maps",
+            "rawValue": "View",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": [
+              "https://maps.google.com/?cid=15593476770146871903"
+            ]
+          },
+          "H2": {
+            "header": "Giới thiệu ngắn",
+            "rawValue": "Cozy spot offering flavorful Vietnamese rolls and wholesome dishes.",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "I2": {
+            "header": "Món nên thử",
+            "rawValue": "Signature wrapped rolls with special dipping sauce",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "J2": {
+            "header": "Khoảng giá mỗi người (VNĐ)",
+            "rawValue": "50,000 – 150,000",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "K2": {
+            "header": "Giờ mở cửa",
+            "rawValue": "11:00 AM – 10:00 PM",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "L2": {
+            "header": "Ngày nghỉ",
+            "rawValue": "None",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "M2": {
+            "header": "Nguyên liệu chính của món gợi ý",
+            "rawValue": "Rice paper, pork, shrimp, herbs",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "N2": {
+            "header": "Cách gọi món",
+            "rawValue": "Counter / Apps",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "O2": {
+            "header": "Hình thức thanh toán",
+            "rawValue": "Cash, Card, E-wallets",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "P2": {
+            "header": "Ăn tại chỗ/Mang đi",
+            "rawValue": "Both",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "Q2": {
+            "header": "Link ảnh",
+            "rawValue": "WRAP & RUN VIETNAM",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": [
+              "https://drive.google.com/drive/folders/1OL_f1TNLx7CUCTFYgokGpBix9pP7w3LE?usp=drive_link"
+            ]
+          },
+          "R2": {
+            "header": "Nguồn ảnh",
+            "rawValue": "GG Maps",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "S2": {
+            "header": "Nguồn thông tin",
+            "rawValue": "GG Maps",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          }
+        },
+        "fieldMappings": {
+          "name": {
+            "cells": ["A2"],
+            "method": "verbatim",
+            "note": null
+          },
+          "address": {
+            "cells": ["D2"],
+            "method": "verbatim",
+            "note": null
+          },
+          "mapsUrl": {
+            "cells": ["G2"],
+            "method": "verbatim",
+            "note": null
+          },
+          "summary": {
+            "cells": ["H2"],
+            "method": "verbatim",
+            "note": null
+          },
+          "openingHours.text": {
+            "cells": ["K2"],
+            "method": "verbatim",
+            "note": null
+          }
+        },
+        "informationSourceText": "GG Maps",
+        "imageSourceText": "GG Maps",
+        "sourceUpdatedText": null,
+        "responsibleEditorText": null
+      },
+      {
+        "id": "src_04910029-f4b5-48bf-bd99-281cd11d56d8",
+        "workbookPath": "data/raw-updated/DATA SHEET 2.xlsx",
+        "workbookSha256": "d72080406baac78155d35a977f76f4bd0a46f82bdbfc5eb5c9d867e9f6bbae3f",
+        "sheet": "Explore cultural",
+        "row": 2,
+        "nameCell": "A2",
+        "inclusion": "include",
+        "ownerDecision": null,
+        "cells": {
+          "A2": {
+            "header": "Tên địa điểm tiếng Việt",
+            "rawValue": " Siêu thị Coopmart Cống Quỳnh",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "B2": {
+            "header": "Tên địa điểm tiếng Anh",
+            "rawValue": "Coopmart Cong Quynh Supermarket",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "C2": {
+            "header": "Loại địa điểm",
+            "rawValue": "Local supermarket, shopping destination, cultural and everyday-life experience",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "D2": {
+            "header": "Địa chỉ",
+            "rawValue": "189C Đ. Cống Quỳnh, Cầu Ông Lãnh, Hồ Chí Minh 700000, Việt Nam",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "E2": {
+            "header": "Link Google Maps",
+            "rawValue": "https://maps.app.goo.gl/dHH6mJFDFFLbzaNh9",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": ["https://maps.app.goo.gl/dHH6mJFDFFLbzaNh9"]
+          },
+          "F2": {
+            "header": "Giới thiệu ngắn",
+            "rawValue": "Co.opmart Cong Quynh is a Vietnamese supermarket where visitors can shop for everyday necessities, local food products, packaged goods, and potential souvenirs. It offers tourists an opportunity to experience a familiar shopping environment used by local residents.",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "G2": {
+            "header": "Ý nghĩa lịch sử/Văn hóa",
+            "rawValue": "Co.opmart Cong Quynh opened on February 9, 1996, and was the first supermarket in the Co.opmart chain. It represents an important milestone in the development of modern retail in Ho Chi Minh City.",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "H2": {
+            "header": "Nét đặc trưng của TP.HCM",
+            "rawValue": "A Vietnamese supermarket chain with a wide range of everyday consumer goods and a shopping environment that reflects local purchasing habits.",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "I2": {
+            "header": "Điểm nổi bật/Hoạt động nên trải nghiệm",
+            "rawValue": "Explore Vietnamese packaged foods and snacks, browse local grocery products, purchase practical gifts, compare product prices, and observe everyday shopping practices.Suggested Items to Buy: Packaged Vietnamese snacks, coffee, tea, local condiments, dried foods, and other shelf-stable products, depending on availability.",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "J2": {
+            "header": "Giờ mở cửa",
+            "rawValue": "Approximately 7:00 AM–10:00 PM, based on a third-party listing. Confirm directly with the supermarket before visiting.",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "K2": {
+            "header": "Giá vé (VNĐ)",
+            "rawValue": "Free",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "L2": {
+            "header": "Thời lượng tham quan gợi ý",
+            "rawValue": "30–60 minutes, late morning or late afternoon to browse local products, purchase souvenirs, and experience everyday supermarket shopping in Vietnam. This is a convenient stop between major attractions and does not require a long visit.",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "M2": {
+            "header": "Thời điểm nên đến",
+            "rawValue": "Late morning or late afternoon, depending on the travel itinerary. Visitors can shop at their convenience and avoid dedicating too much time to this stop.",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "N2": {
+            "header": "Lưu ý khi tham quan",
+            "rawValue": "Bring a reusable shopping bag if needed, check product labels and expiry dates, compare prices, and choose packaged goods that are easy to carry. Check airline and customs restrictions before purchasing food products to take overseas.",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": []
+          },
+          "O2": {
+            "header": "Link ảnh",
+            "rawValue": " Siêu thị Coopmart Cống Quỳnh",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": [
+              "https://drive.google.com/drive/folders/1NBM4oQ5P8mkSIBgDckcJm0vBmJdDXOlC?usp=drive_link"
+            ]
+          },
+          "P2": {
+            "header": "Nguồn thông tin",
+            "rawValue": "https://co-opmart.com.vn/ve-chung-toi",
+            "storedType": "s",
+            "numberFormat": "0",
+            "formula": null,
+            "formulaAttributes": null,
+            "hyperlinkTargets": ["https://co-opmart.com.vn/ve-chung-toi"]
+          }
+        },
+        "fieldMappings": {
+          "name": {
+            "cells": ["A2"],
+            "method": "verbatim",
+            "note": null
+          },
+          "address": {
+            "cells": ["D2"],
+            "method": "verbatim",
+            "note": null
+          },
+          "mapsUrl": {
+            "cells": ["E2"],
+            "method": "verbatim",
+            "note": null
+          },
+          "summary": {
+            "cells": ["F2"],
+            "method": "verbatim",
+            "note": null
+          },
+          "openingHours.text": {
+            "cells": ["J2"],
+            "method": "verbatim",
+            "note": null
+          }
+        },
+        "informationSourceText": "https://co-opmart.com.vn/ve-chung-toi",
+        "imageSourceText": null,
+        "sourceUpdatedText": null,
+        "responsibleEditorText": null
+      }
+    ],
+    "assets": [
+      {
+        "assetId": "img_a66100d995d85705287d89bf8c87013b5a35af190a7cd4de0c4215a4bf0991ea",
+        "files": [
+          {
+            "path": "data/raw-updated/Link ảnh Quán cà phê/tân phu/Phúc Long 20/Ảnh chụp màn hình 2026-10-19 205759.png",
+            "filename": "Ảnh chụp màn hình 2026-10-19 205759.png",
+            "extension": ".png",
+            "driveFileId": null,
+            "driveFolderUrl": "https://drive.google.com/drive/folders/1EOtZ1psEIu-5EaDUL-cjORwMy1Hpkhrh?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "assetId": "img_1ac873603df06b9bfa4fe08a9b3ce5e55e7045e8160f669ca6a509140529e67d",
+        "files": [
+          {
+            "path": "data/raw-updated/Link ảnh Quán cà phê/tân phu/Phúc Long 20/Ảnh chụp màn hình 2026-10-19 205808.png",
+            "filename": "Ảnh chụp màn hình 2026-10-19 205808.png",
+            "extension": ".png",
+            "driveFileId": null,
+            "driveFolderUrl": "https://drive.google.com/drive/folders/1EOtZ1psEIu-5EaDUL-cjORwMy1Hpkhrh?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "assetId": "img_28e35e8d41b5d9eb386ff876f2c89a8da88157dc00a452360c6dc61af19927ee",
+        "files": [
+          {
+            "path": "data/raw-updated/Link ảnh Quán cà phê/tân phu/Phúc Long 20/Ảnh chụp màn hình 2026-10-19 205822.png",
+            "filename": "Ảnh chụp màn hình 2026-10-19 205822.png",
+            "extension": ".png",
+            "driveFileId": null,
+            "driveFolderUrl": "https://drive.google.com/drive/folders/1EOtZ1psEIu-5EaDUL-cjORwMy1Hpkhrh?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "assetId": "img_78b5468f2a0bc6856293294a48ac9b637c7cae353996bf87aeba8e3139ed48a9",
+        "files": [
+          {
+            "path": "data/raw-updated/BC MENU/WRAP & RUN VIETNAM/Screenshot 2026-10-16 124834.png",
+            "filename": "Screenshot 2026-10-16 124834.png",
+            "extension": ".png",
+            "driveFileId": null,
+            "driveFolderUrl": "https://drive.google.com/drive/folders/1OL_f1TNLx7CUCTFYgokGpBix9pP7w3LE?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "assetId": "img_0db4b9ef0a06ed11f859cce54cbdbd35a960096aded3d9cc4f869ab2b93ed1a3",
+        "files": [
+          {
+            "path": "data/raw-updated/Explore cultural/ Siêu thị Coopmart Cống Quỳnh/Screenshot 2026-10-20 142457.png",
+            "filename": "Screenshot 2026-10-20 142457.png",
+            "extension": ".png",
+            "driveFileId": null,
+            "driveFolderUrl": "https://drive.google.com/drive/folders/1NBM4oQ5P8mkSIBgDckcJm0vBmJdDXOlC?usp=drive_link"
+          }
+        ]
+      }
+    ]
+  }
+}

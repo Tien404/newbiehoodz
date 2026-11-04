@@ -1,0 +1,114 @@
+[
+  {
+    "file": "scallop-mask.svg",
+    "source_derivative": "assets/local-bites/scallop-mask.svg",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48",
+    "sha256": "0d20183323be6ab9069d9c1607ede663127d989d4f8266acb983312f547a491a",
+    "delivery": "original SVG"
+  },
+  {
+    "file": "hero-star.webp",
+    "source_derivative": "assets/local-bites/hero-star.svg",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48",
+    "sha256": "823d042dd2352988e99a3fd217c2296c3abca5a6b5c6a883713dc4311bc9b1a6",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "hero-noodles.webp",
+    "source_derivative": "assets/local-bites/hero-noodles.svg",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48",
+    "sha256": "66f27929eda35af7ce1b184e974f549e7ce6983f85aef5622e1639de622bd09c",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "hero-sandwich.webp",
+    "source_derivative": "assets/local-bites/hero-sandwich.svg",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48",
+    "sha256": "c30aeb6eb122df04bec65653013a75d637d028b455cde7610c7f80861d421537",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "hero-rolls.webp",
+    "source_derivative": "assets/local-bites/hero-rolls.svg",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48",
+    "sha256": "f005de0fbfdfbb40195dfc885fc8b35f0d5c7832cddec966380e008eda1d37e2",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "flags-left.webp",
+    "source_derivative": "assets/local-bites/flags-left.svg",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48",
+    "sha256": "bc8fc3403dba2f8ab8dc9ac246bf84e054636c40b9abef6922be4bd9fbde719a",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "flags-right.webp",
+    "source_derivative": "assets/local-bites/flags-right.svg",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48",
+    "sha256": "10bd1c5878592691e91de7cd0c8a1dbe75f202b21fe9f53464baac05129f7a5d",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "dish-pho.webp",
+    "source_derivative": "assets/local-bites/dish-pho.svg",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48",
+    "sha256": "f217da15aff5e5c1a9463babd56328b1d6f9f93a4c3fee757fe7a47d28753949",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "dish-banh-mi.webp",
+    "source_derivative": "assets/local-bites/dish-banh-mi.svg",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48",
+    "sha256": "fd9b8192952a92ae3e2dd3d14577bed704703d777444a20d9939616913ee73d0",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "dish-com-tam.webp",
+    "source_derivative": "assets/local-bites/dish-com-tam.svg",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48",
+    "sha256": "16909fe87646252b50cb7aa1407155a36508f8c515d30ab9bf7de19c919aa9d9",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "dish-banh-xeo.webp",
+    "source_derivative": "assets/local-bites/dish-banh-xeo.svg",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48",
+    "sha256": "5d328574a4902f8cfca281c9cbe67968cde80499f8fc75de4cf4c8d2b0e0a29b",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "food-strip.webp",
+    "source_derivative": "assets/local-bites/food-strip.svg",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48",
+    "sha256": "9143c9a2b585fa60b793bf1ea1bce8e04aa0edd9ceddc408d0e2a6f4f23ce812",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "street-food-left.webp",
+    "source_derivative": "assets/local-bites/street-food-left.svg",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48",
+    "sha256": "0222e2efbfff33b1e6923bd776c6b68dd2f7e96916e70734e2b01c5aee1b01a7",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "street-food-right.webp",
+    "source_derivative": "assets/local-bites/street-food-right.svg",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48",
+    "sha256": "2d7be731c4ad1cd7d56a830ab5cf1fe5d3935e63fdec61787f5af6d5131c6f70",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "stamp.webp",
+    "source_derivative": "assets/local-bites/stamp.svg",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48",
+    "sha256": "3bd06194d95047c5e83ba59abd4e0b721b8252712aa02e486cead02622a07117",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  },
+  {
+    "file": "eatery-heart.webp",
+    "source_derivative": "assets/local-bites/eatery-heart.svg",
+    "source_sha256": "dcda97bd9b7195d51a1265a4b07e72894bf71b174f3a19524385d2907062cb48",
+    "sha256": "22dd25b90f5cbbb51620dbb18feaad507fbfa8f7deb3ad603ca1f10d9f04e3a9",
+    "delivery": "lossless WebP rendered from isolated original artwork at 2x"
+  }
+]

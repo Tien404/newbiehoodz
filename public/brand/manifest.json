@@ -1,0 +1,130 @@
+[
+  {
+    "file": "logo.png",
+    "source": "home.svg",
+    "images": [
+      21,
+      1
+    ],
+    "crop": [
+      14,
+      31,
+      201,
+      124
+    ],
+    "size": [
+      187,
+      93
+    ],
+    "method": "Colored embedded PNG with original grayscale mask as alpha; crop transparent margins only.",
+    "sha256": "c1cb7f8e3e9f1f35b5e10402b0addc8cd67df16995c7c12630275d3fa2ed857b",
+    "source_sha256": "3fd453b53bb0598ebca9b32b7d1ec7148295406c868d135b884153a248e9118a"
+  },
+  {
+    "file": "lotus.svg",
+    "source": "newbie-cheatsheet.svg",
+    "root_child_indices_zero_based": [
+      4336,
+      4337,
+      4338,
+      4339,
+      4340,
+      4341,
+      4342,
+      4343,
+      4344,
+      4345,
+      4346,
+      4347,
+      4348,
+      4349,
+      4350,
+      4351,
+      4352,
+      4353,
+      4354,
+      4355
+    ],
+    "viewBox": [
+      868,
+      3818,
+      110,
+      68
+    ],
+    "method": "Original paths and recursively referenced clip definitions only; no page text or background included.",
+    "sha256": "e6c9633a71b202fc1634c330ab0c275a9e2377305713e37e53fb1826520cea2e",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96"
+  },
+  {
+    "file": "star.svg",
+    "source": "newbie-cheatsheet.svg",
+    "root_child_indices_zero_based": [
+      4356,
+      4357
+    ],
+    "viewBox": [
+      110,
+      3831,
+      48,
+      50
+    ],
+    "method": "Original paths and recursively referenced clip definitions only; no page text or background included.",
+    "sha256": "c8a75c148ab32178f659ce1bb43622170744feb46536961fe105af7ac7f08311",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96"
+  },
+  {
+    "file": "footer-scallops.svg",
+    "source": "newbie-cheatsheet.svg",
+    "root_child_indices_zero_based": [
+      4074,
+      4075,
+      4076,
+      4077,
+      4078,
+      4079,
+      4080,
+      4081,
+      4082,
+      4083,
+      4084,
+      4085,
+      4086,
+      4087,
+      4088,
+      4089,
+      4090,
+      4091,
+      4092,
+      4093,
+      4094,
+      4095,
+      4096,
+      4097,
+      4098,
+      4099,
+      4100,
+      4101,
+      4102,
+      4103,
+      4104,
+      4105,
+      4106,
+      4107,
+      4108,
+      4109,
+      4110,
+      4111,
+      4112,
+      4113
+    ],
+    "viewBox": [
+      0,
+      3840,
+      1024.5,
+      28
+    ],
+    "method": "Original paths and recursively referenced clip definitions only; no page text or background included.",
+    "sha256": "f8bcdac6c3e97524469099d9599cbf74f00e4840a80177525ff0b0dc9a878bd4",
+    "source_sha256": "1f543761824ef2ca643abcdb5b0dd2764ceeaf0b8e653986dd49e30ca710fd96"
+  }
+]
