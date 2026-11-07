@@ -158,7 +158,10 @@ export function LockInPage({ cafes }: { cafes: PublicCafe[] }) {
               label="University"
               value={listing.district}
               onChange={listing.setDistrict}
-              options={[{ value: "", label: "All" }, ...schoolDistrictGroups]}
+              options={[
+                { value: "", label: "All universities" },
+                ...schoolDistrictGroups,
+              ]}
             />
           </div>
           <ListingToolbar {...listing} label="cafés" />

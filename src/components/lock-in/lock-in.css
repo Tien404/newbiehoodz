@@ -137,7 +137,8 @@
   color: white;
 }
 .lock-district {
-  width: 192px;
+  width: 240px;
+  max-width: 100%;
   flex-shrink: 0;
   background: white;
 }
