@@ -661,7 +661,7 @@
   .discovery-card {
     display: flex;
     flex-direction: column;
-    min-height: 556px;
+    min-height: 400px;
     padding: 24px;
   }
   .discovery-card__label,
