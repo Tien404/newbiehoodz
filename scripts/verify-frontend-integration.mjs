@@ -34,6 +34,24 @@ async function loadedCards(page, cardSelector) {
       .evaluate((image) => image.decode());
   }
 }
+async function chooseOption(page, label, option, group) {
+  const trigger = page.getByRole("button", { name: new RegExp(`^${label}:`) });
+  await trigger.click();
+  const list = page.getByRole("listbox", { name: label, exact: true });
+  const [anchor, menu] = await Promise.all([
+    trigger.boundingBox(),
+    list.boundingBox(),
+  ]);
+  assert(anchor && menu);
+  assert(
+    menu.y >= anchor.y + anchor.height + 7 ||
+      menu.y + menu.height <= anchor.y - 7,
+  );
+  const scope = group
+    ? list.getByRole("group", { name: group, exact: true })
+    : list;
+  await scope.getByRole("option", { name: option, exact: true }).click();
+}
 try {
   for (const [route, file, cardSelector, titleSelector, pageSize] of [
     ["/lock-in", "cafes", ".lock-card", "h2", 6],
@@ -121,14 +139,14 @@ try {
         ).includes(data[0].id),
     );
     await search.fill("");
-    await page.getByLabel("Sort by").selectOption("name-desc");
+    await chooseOption(page, "Sort by", "Name Z–A");
     assert.deepEqual(
       await page.locator(`${cardSelector} ${titleSelector}`).allTextContents(),
       selectPlaces(data, "", "name-desc")
         .slice(0, pageSize)
         .map((p) => p.name),
     );
-    await page.getByLabel("Sort by").selectOption("price-asc");
+    await chooseOption(page, "Sort by", "Price: low to high");
     assert.deepEqual(
       await page.locator(`${cardSelector} ${titleSelector}`).allTextContents(),
       selectPlaces(data, "", "price-asc")
@@ -150,11 +168,36 @@ try {
         );
       }
       await page.getByRole("button", { name: "all", exact: true }).click();
-      const district = data[0].cafe.district;
-      await page.getByLabel("District", { exact: true }).selectOption(district);
+      for (const [school, district] of [
+        ["UEH International School of Business", "Quận 10"],
+        ["Hoa Sen University", "Quận 1"],
+        ["Hoa Sen University", "Quận 10"],
+        ["HCMC Open University", "Quận 1"],
+        ["HCMC Open University", "Quận Tân Phú"],
+        ["Saigon University", "Quận 5"],
+        ["Saigon University", "Quận 1"],
+      ]) {
+        await chooseOption(page, "University", school, district);
+        const expected = selectPlaces(data, "", "price-asc", "all", district);
+        assert.deepEqual(
+          await page
+            .locator(cardSelector)
+            .evaluateAll((cards) => cards.map((card) => card.dataset.placeId)),
+          expected.slice(0, pageSize).map((place) => place.id),
+        );
+      }
+      await page.getByRole("button", { name: /^University:/ }).click();
+      const universities = page.getByRole("listbox", { name: "University" });
+      assert.equal(
+        await universities.getByRole("option", { name: /^Quận / }).count(),
+        0,
+      );
+      await universities
+        .getByRole("option", { name: "All", exact: true })
+        .click();
       assert(
         (await page.locator(".listing-pagination p").innerText()).startsWith(
-          `${data.filter((p) => p.cafe.district === district).length} results`,
+          `${data.length} results`,
         ),
       );
     }

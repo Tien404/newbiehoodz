@@ -10,8 +10,13 @@ import {
   ListingToolbar,
   useListing,
 } from "@/components/ui/ListingControls";
+import { ListingSelect } from "@/components/ui/ListingSelect";
 import type { PublicCafe } from "@/lib/validation/publicPlaces";
-import { studyFilters } from "@/content/lock-in";
+import {
+  resolveStudyDistrict,
+  schoolDistrictGroups,
+  studyFilters,
+} from "@/content/lock-in";
 import "./lock-in.css";
 
 function Art({
@@ -99,10 +104,7 @@ function CafeCard({ cafe, index }: { cafe: PublicCafe; index: number }) {
 }
 
 export function LockInPage({ cafes }: { cafes: PublicCafe[] }) {
-  const listing = useListing(cafes, 6);
-  const districts = [...new Set(cafes.map((cafe) => cafe.cafe.district))].sort(
-    (a, b) => a.localeCompare(b, "vi", { numeric: true }),
-  );
+  const listing = useListing(cafes, 6, resolveStudyDistrict);
   return (
     <main tabIndex={-1} id="main-content" className="lock-main">
       <section className="lock-hero page-hero" aria-labelledby="lock-title">
@@ -151,19 +153,13 @@ export function LockInPage({ cafes }: { cafes: PublicCafe[] }) {
                 </button>
               ))}
             </div>
-            <select
+            <ListingSelect
               className="lock-district"
-              aria-label="District"
+              label="University"
               value={listing.district}
-              onChange={(event) => listing.setDistrict(event.target.value)}
-            >
-              <option value="">All districts</option>
-              {districts.map((district) => (
-                <option key={district} value={district}>
-                  {district}
-                </option>
-              ))}
-            </select>
+              onChange={listing.setDistrict}
+              options={[{ value: "", label: "All" }, ...schoolDistrictGroups]}
+            />
           </div>
           <ListingToolbar {...listing} label="cafés" />
         </div>

@@ -30,7 +30,7 @@ export const homeCopy = {
   discoveryHeading: "What’s your next move?",
   promotion: {
     heading: "Just landed? Start here.",
-    subtitle: "Transport, SIM cards, apps and student perks, all in one place.",
+    subtitle: "Transport, apps and student perks, all in one place.",
     cta: "Open the Newbie Cheatsheet",
   },
   about: {

@@ -301,6 +301,7 @@
   right: 24px;
   font-size: 17.8px;
   line-height: 21.2px;
+  text-align: justify;
 }
 .discovery-card__cta {
   position: absolute;
