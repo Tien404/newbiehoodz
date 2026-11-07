@@ -564,6 +564,7 @@
   .about-story__copy {
     font-size: 20px;
     letter-spacing: 2px;
+    text-align: justify;
   }
   .about-story__date {
     left: 24px;
@@ -739,7 +740,7 @@
     font-size: 18px;
     line-height: 1.5;
     letter-spacing: 1px;
-    text-align: left;
+    text-align: justify;
     margin-top: 20px;
   }
   .about-story__date {
