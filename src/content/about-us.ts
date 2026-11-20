@@ -57,7 +57,7 @@ export const aboutMembers = [
     microphoneHandle: "#a8a7a6",
     microphoneDetail: "#f3efec",
     nickname: "The Detail Editor",
-    name: "LE TRAN YEN NHI",
+    name: "TRAN LE YEN NHI",
     role: "Content Editing & Quality",
     bio: "Check Reviews and refines our content to keep everything clear, accurate, and consistent.",
     nameColor: "#4d4747",
